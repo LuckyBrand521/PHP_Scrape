@@ -1,0 +1,32 @@
+div.upload-wrapper {
+    color: white;
+    font-weight: bold;
+    display: flex;
+}
+
+input[type="submit"] {
+    border: 3px solid #555;
+    color: white;
+    background: #666;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background: #555;
+}
+
+.text-center {
+    text-align: center;
+}
+
+form {
+    width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

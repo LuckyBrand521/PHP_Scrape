@@ -1,0 +1,1000 @@
+FULL NAME	FNAME	LNAME	JOB TITLE	SENIORITY	EMAIL	PHONE	LINKEDIN PROFILE URL	COMPANY	CITY	STATE	COUNTRY	POSTAL CODE	JOB START DATE	LINKEDIN CONNECTIONS
+Yura Batora	yura	batora	Exec/Management (Other)	entry	111@qqq.com	+380937076408	http://www.linkedin.com/in/yura-batora-8665784	spdukraine2			Ukraine		01/06/2007	
+Oleksii Repkin	oleksii	repkin			2magnetto@gmail.com	+380632342809	http://www.linkedin.com/in/oleksii-repkin-02629636	gemicle			Ukraine		01/10/2015	
+2nd Konovalov	2nd	konovalov	2nd Engineer	entry	2nd.konovalov@topazworld.com		http://www.linkedin.com/in/2nd-engineer-maksym-konovalov-94116665	topaz energy and marine			Ukraine		01/01/2017	220
+Vasyl Tsyktor	vasyl	tsyktor	Senior Content Writer, Copywriter, PR Specialist, Content Marketing Manager	manager	2polyglot.com@gmail.com		http://www.linkedin.com/in/vasyl-tsyktor-470689b9	2polyglot			Ukraine		01/01/2017	
+Solange Strougmayer	solange	strougmayer	Consultante formatrice senior	senior	4sformation@orange.fr	667492319	http://www.linkedin.com/in/solange-strougmayer-47641324	4s formation	Zaporizhia	Zaporiz'ka oblast	Ukraine	69000	01/03/2008	
+Kateryna Mayboroda	kateryna	mayboroda	Owner	owner	5p_tmp@ukr.net		https://www.linkedin.com/profile/view?id=ADEAAAT89fYBt06DOAKHBg36xXFjh5rVlUXzRXI&authType=name&authToken=FrzM&locale=en_US&srchid=3197887151480579457290&srchindex=2&srchtotal=9&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A3197887151480579457290%2CVSRPtargetId%3A83686902%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Afalse%2CauthType%3Aname	5p marketing group			Ukraine		01/01/2010	
+A A	a	a	business development manager	manager	a.a@soft-industry.com		http://www.linkedin.com/in/a-a-97665330	soft industry alliance ltd			Ukraine		01/01/2005	121
+Anton Agafonov	anton	agafonov	Relax.ua	entry	a.agafonov@artox.com		http://www.linkedin.com/in/anton-agafonov-a684115b	artox			Ukraine		01/07/2016	186
+Alexandr Akhtirskiy	alexandr	akhtirskiy	Senior PHP Developer	senior	a.akhtirskiy@program-ace.com		http://www.linkedin.com/in/alexandr-akhtirskiy-5a213862	programace			Ukraine		01/07/2016	500
+Alla Alekseeva	alla	alekseeva	sales and marketing	entry	a.alekseeva@metalexpert-group.com		http://www.linkedin.com/in/alla-alekseeva-828a5473	metal expert   			Ukraine			53
+Alexandr Andriyash	alexandr	andriyash	Business Development Manager	manager	a.alexandr@skywell.com.ua		http://www.linkedin.com/in/alexandr-andriyash-75813934	skywell llc			Ukraine		01/01/2017	500
+Alexandra Alexeeva	alexandra	alexeeva	Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº Ð¾Ñ‚Ð´ÐµÐ»Ð° Ð¾Ð±ÑÐ»ÑƒÐ¶Ð¸Ð²Ð°Ð½Ð¸Ñ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð²	entry	a.alexeeva@leboutique.com		http://www.linkedin.com/in/alexandra-alexeeva-944ba391	leboutique			Ukraine		01/02/2013	35
+Anna Aleynikova	anna	aleynikova	CFO	c_suite	a.aleynikova@fcbm-ua.com		http://www.linkedin.com/in/anna-aleynikova-42818214	fcb management			Ukraine		01/01/2009	97
+Anna Anatskaya	anna	anatskaya	Business Development Manager	manager	a.anatskaya@sam-solutions.com		http://www.linkedin.com/in/anna-anatskaya-08371293	sam solutions			Ukraine		01/12/2015	160
+Anastasiia Aniskova	anastasiia	aniskova	International Business Development | Publisher's Department	entry	a.aniskova@admitad.com		http://www.linkedin.com/in/anastasiia-aniskova	admitad gmbh			Ukraine		01/11/2016	319
+Alexander Ankudinov	alexander	ankudinov	iOS Developer	entry	a.ankudinov@zazmic.com		http://www.linkedin.com/in/alexander-ankudinov-35468069	zazmiccom			Ukraine		01/04/2016	
+Andrii Anti	andrii	anti	System administrator	entry	a.anti@astoundcommerce.com		http://www.linkedin.com/in/andrii-anti-07a61724	sysiq inc			Ukraine		01/09/2010	17
+Artem Armenchu	artem	armenchu	Head of Group Product Support Analysts	head	a.armenchu@terrasoft.ru		http://www.linkedin.com/in/armenchu92	terrasoft			Ukraine		01/07/2016	500
+Andrew Asafat	andrew	asafat	Freelance Web and Graphic Designer	entry	a.asafat@emrahozturk.com		http://www.linkedin.com/in/asafat	 freelancer			Ukraine		01/07/2010	121
+Ann Asich	ann	asich	HR Manager	manager	a.asich@levi9.com		http://www.linkedin.com/in/ann-asich-85b19990	levi9 technology services			Ukraine		01/04/2016	500
+Andriy Astafurov	andriy	astafurov	2nd off	entry	a.astafurov@interorient.com		http://www.linkedin.com/in/andriy-astafurov-Ð°Ð½Ð´Ñ€ÐµÐ¹-b74403aa	interorient navigation germany gmbh  co kg			Ukraine			4
+Alexander Averyanov	alexander	averyanov	Ruby On Rails Developer	entry	a.averyanov@themindstudios.com		http://www.linkedin.com/in/alexaveryanov	mind studios			Ukraine		01/06/2016	419
+Armen Avetisyan	armen	avetisyan	CEO	c_suite	a.avetisyan@argus-soft.net		http://www.linkedin.com/in/armen-avetisyan-96013526	argussoft			Ukraine		01/03/2013	500
+A B	a	b	a	entry	a.b@atkearney.com		http://www.linkedin.com/in/a-b-487871a4	at kearney			Ukraine			5
+Alexander Babintsev	alexander	babintsev	Founder	founder	a.babintsev@basquare.com		http://www.linkedin.com/in/alexander-babintsev-58877898	basquare			Ukraine		01/10/2013	174
+Alex Babko	alex	babko	Live Video Streaming Engineer	entry	a.babko@1plus1.ua		http://www.linkedin.com/in/alex-babko-10a87570	11 media			Ukraine		01/08/2015	92
+Anton Bal	anton	bal	Developer iOS, Android, Mac	entry	a.bal@protrader.com		http://www.linkedin.com/in/anton-bal-344471121	pfsoft			Ukraine		01/04/2015	65
+Alexander Balan	alexander	balan	Software Engineer Intern	intern	a.balan@netpeak.net		http://www.linkedin.com/in/alexander-balan-373926130	internet marketing agency netpeak			Ukraine		01/12/2016	136
+Aleksandra Balatskaya	aleksandra	balatskaya	Move Manager	manager	a.balatskaya@globalinkllc.com		http://www.linkedin.com/in/aleksandra-balatskaya-92867059	globalink logistics 			Ukraine		01/01/2013	260
+Alexandr Balenko	alexandr	balenko	IT Business Analyst	entry	a.balenko@terrasoft.ru		http://www.linkedin.com/in/alexandr-balenko-97074424	terrasoft			Ukraine		01/02/2017	208
+Anton Baranov	anton	baranov	Software Engineer	entry	a.baranov@lanet.ua		http://www.linkedin.com/in/anton-baranov-17b41549	lanet network			Ukraine		01/01/2016	91
+Alexandr Barkov	alexandr	barkov	HYBRIS DEVELOPER	entry	a.barkov@emrahozturk.com		http://www.linkedin.com/in/alexandr-barkov-549b98101	 freelancer			Ukraine			500
+Antonina Basenko	antonina	basenko	Journalist	entry	a.basenko@1plus1.ua		http://www.linkedin.com/in/antonina-basenko-3443b86a	11 media			Ukraine		01/09/2012	175
+Alena Batova	alena	batova	Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸Ðº Ð´ÐµÐ¿Ð°Ñ€Ñ‚Ð°Ð¼ÐµÐ½Ñ‚Ð° Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¸ ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð»Ð¸Ð½Ð³Ð° ÑÐµÑ‚Ð¸ Â«Ð¡Ð¸Ð»ÑŒÐ¿Ð¾Â»	entry	a.batova@fozzy.ua		http://www.linkedin.com/in/alena-batova-69301846	fozzy group			Ukraine		01/04/2012	42
+Aleksey Bazilevskiy	aleksey	bazilevskiy	SW Developer	entry	a.bazilevskiy@samsung.com		http://www.linkedin.com/in/aleksey-bazilevskiy-437a0453	samsung electronics			Ukraine		01/12/2009	465
+Anna Begma	anna	begma	Lead Software Engineer	manager	a.begma@samsung.com		http://www.linkedin.com/in/anna-begma-35853652	samsung electronics			Ukraine		01/10/2009	500
+Anna Belinska	anna	belinska	Editor	entry	a.belinska@1plus1.ua		http://www.linkedin.com/in/anna-belinska-8248584a	11 media			Ukraine		01/11/2013	91
+Andrew Benenko	andrew	benenko	Producer & Product Manager	manager	a.benenko@room8studio.com		http://www.linkedin.com/in/andrewbenenko	room 8 studio			Ukraine		01/08/2016	500
+Anna Berdnyk	anna	berdnyk	Business Development Manager	manager	a.berdnyk@room8studio.com		http://www.linkedin.com/in/anna-berdnyk-74a4b5109	room 8 studio			Ukraine		01/11/2015	500
+Anastasiia Berestovaya	anastasiia	berestovaya	Head Of Project Management Department	head	a.berestovaya@mobidev.biz		http://www.linkedin.com/in/anastasiiaberestovaya	mobidev			Ukraine		01/03/2017	420
+Andrew Bereza	andrew	bereza	Team Lead	manager	a.bereza@spd-ukraine.com		http://www.linkedin.com/in/andrew-bereza-92360a40	spdukraine		Cherkas'ka oblast	Ukraine		01/09/2015	359
+Alexander Bezpyatov	alexander	bezpyatov	PHP Team Lead	manager	a.bezpyatov@owox.com		http://www.linkedin.com/in/alexander-bezpyatov-0509598a	owox bi			Ukraine		01/04/2015	500
+Anastasiya Blindar	anastasiya	blindar	Sales Manager	manager	a.blindar@grt-team.com		http://www.linkedin.com/in/anastasiya-blindar-737300a8	grt team			Ukraine		01/04/2016	276
+Anna Bliznetsova	anna	bliznetsova	Accountant	entry	a.bliznetsova@querix.com		http://www.linkedin.com/in/anna-bliznetsova-77b442b2	querix			Ukraine		01/03/2014	99
+Aude Bocle	aude	bocle	Country Manager Ukraine	manager	a.bocle@biocodex.ua		http://www.linkedin.com/in/aude-boclÃ©-50aab37	biocodex ukraine			Ukraine		01/09/2014	500
+Andrey Bogatyrev	andrey	bogatyrev	Freelance Software Tester	entry	a.bogatyrev@emrahozturk.com		http://www.linkedin.com/in/bogatyrevandrey	 freelancer			Ukraine		01/07/2014	45
+Alexander Boiarskyi	alexander	boiarskyi	QA Engineer	entry	a.boiarskyi@astoundcommerce.com		http://www.linkedin.com/in/alexander-boiarskyi-29911868	astound commerce			Ukraine			124
+Andrii Bokach	andrii	bokach	Project Manager	manager	a.bokach@soft-industry.com		http://www.linkedin.com/in/andrii-bokach-8934577a	soft industry alliance ltd			Ukraine		01/03/2016	425
+Alexandr Bolbat	alexandr	bolbat	CTO	c_suite	a.bolbat@epom.com		http://www.linkedin.com/in/bolbat	epom			Ukraine		01/08/2016	249
+Arthur Bondar	arthur	bondar	Project manager	manager	a.bondar@fozzy.ua		http://www.linkedin.com/in/arthur-bondar-06474625	fozzy group			Ukraine		01/05/2012	484
+Anastasiia Bordiug	anastasiia	bordiug	Project Head	head	a.bordiug@ngn.com.ua		http://www.linkedin.com/in/anastasiia-bordiug-2194ab20	ngn agency			Ukraine		01/09/2016	500
+Andrii Borenkov	andrii	borenkov	Vice President	vp	a.borenkov@vscapital.com.ua		http://www.linkedin.com/in/andrii-borenkov-cfa-ba17811a	vs capital			Ukraine		01/07/2013	500
+Alexandr Boriak	alexandr	boriak	Manager	manager	a.boriak@uct.ua		http://www.linkedin.com/in/alexandr-boriak-b735a1127	uct google adwords qualified company			Ukraine			3
+Anton Borisov	anton	borisov	QA Engineer	entry	a.borisov@spd-ukraine.com		http://www.linkedin.com/in/antoneborisov	spdukraine			Ukraine		01/06/2015	319
+Anton Bovshovskyi	anton	bovshovskyi	Head of Cloud Services Department	head	a.bovshovskyi@terrasoft.ru		http://www.linkedin.com/in/anton-bovshovskyi-9270b840	terrasoft			Ukraine		01/06/2015	478
+Artem Bozhko	artem	bozhko	developer	entry	a.bozhko@terrasoft.ru		http://www.linkedin.com/in/artem-bozhko-759b3280	terrasoft			Ukraine		01/03/2012	248
+Adam Brasket	adam	brasket	person	entry	a.brasket@kaixin-inc.com		http://www.linkedin.com/in/adam-brasket-ba0171107	person			Ukraine			3
+Anton Brezhniev	anton	brezhniev	Java Developer	entry	a.brezhniev@protrader.com		http://www.linkedin.com/in/antonbrezhniev	pfsoft			Ukraine		01/11/2014	187
+Anna Brylova	anna	brylova	Business Development Manager	manager	a.brylova@program-ace.com		http://www.linkedin.com/in/nastiabrylova	programace			Ukraine		01/09/2014	500
+Andrey Bugay	andrey	bugay	Head of Logistics group	head	a.bugay@samsung.com		http://www.linkedin.com/in/andrey-bugay-0b70b32	samsung electronics			Ukraine		01/03/2010	500
+Alex Bugera	alex	bugera	system administrator	entry	a.bugera@soft-industry.com		http://www.linkedin.com/in/alex-bugera-91467720	soft industry alliance ltd			Ukraine			7
+Anatoliy Buryak	anatoliy	buryak	Kyiv Branch Director	director	a.buryak@art-lemon.com		http://www.linkedin.com/in/anatoliy-buryak-381873aa	art lemon			Ukraine		01/08/2017	250
+Andrii Buryk	andrii	buryk	Geocoder 2	entry	a.buryk@intetics.com		http://www.linkedin.com/in/andrii-buryk-5b5078128	intetics inc			Ukraine			2
+Andrii Byk	andrii	byk	Middle Front-End Developer	entry	a.byk@yaware.com		http://www.linkedin.com/in/andriybyk	yaware			Ukraine		01/06/2017	402
+Anton Bykov	anton	bykov	PR Manager	manager	a.bykov@epom.com		http://www.linkedin.com/in/anton-bykov-5a97032a	epom			Ukraine		01/11/2013	73
+Alena Bystrytskaya	alena	bystrytskaya	accountant	entry	a.bystrytskaya@kernel.ua		http://www.linkedin.com/in/alena-bystrytskaya-ba5a14119	kernel			Ukraine			1
+Alexander Chastnikov	alexander	chastnikov	Chief Economist/Treasury	entry	a.chastnikov@sbrf.com.ua		http://www.linkedin.com/in/alexanderchastnikov	sberbank public jointstock company			Ukraine		01/02/2013	399
+Anastaciya Chausova	anastaciya	chausova	Digital Analyst	entry	a.chausova@owox.com		http://www.linkedin.com/in/anastaciya-chausova-977697b1	owox bi			Ukraine		01/04/2016	159
+Alla Cherkay	alla	cherkay	International Sales Director, CEE, CIS, Turkey	director	a.cherkay@headtechnology.com		http://www.linkedin.com/in/alla-cherkay-159a131	headtechnology			Ukraine		01/03/2017	500
+Andrei Chikal	andrei	chikal	Ð“Ð»Ð°Ð²Ð½Ñ‹Ð¹ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€	entry	a.chikal@dmt-winches.com		http://www.linkedin.com/in/andrei-chikal-7b5486111	dmt marine equipment			Ukraine			2
+Alexandra Chumak	alexandra	chumak	QA	entry	a.chumak@owox.com		http://www.linkedin.com/in/alexandra-chumak-81bb3ab1	owox bi			Ukraine		01/05/2013	195
+Aleksandr Chupahin	aleksandr	chupahin	Head of advertising department	head	a.chupahin@everad.ru		http://www.linkedin.com/in/aleksandr-chupahin-9545a557	everad group			Ukraine		01/04/2016	500
+Andrey Churikov	andrey	churikov	Business Analyst	entry	a.churikov@spd-ukraine.com		http://www.linkedin.com/in/andreychurikov	spdukraine			Ukraine		01/02/2017	476
+Anton Danylchenko	anton	danylchenko	QA Engineer	entry	a.danilchenko@globallogic.com		http://www.linkedin.com/in/anthonyd82	globallogic			Ukraine		01/05/2009	500
+Alexander Datsenko	alexander	datsenko	Ð¡hief specialist of Banking product development Department, Competense Center	entry	a.datsenko@sbrf.com.ua		http://www.linkedin.com/in/alexander-datsenko-08a64421	sberbank public jointstock company			Ukraine		01/06/2012	86
+Andrey Davydchuk	andrey	davydchuk	Software Developer	entry	a.davydchuk@terrasoft.ru		http://www.linkedin.com/in/andrey-davydchuk-a9a61997	terrasoft			Ukraine		01/06/2012	168
+Arina Davydova	arina	davydova	ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ñ€ÐµÑÑ‚Ð¾Ñ€Ð°Ð½Ð½Ñ‹Ñ… ÐºÐ¾Ð¼Ð¼ÑƒÐ½Ð¸ÐºÐ°Ñ†Ð¸Ð¹	entry	a.davydova@oiff.com.ua		http://www.linkedin.com/in/arina-davydova-862534116	odessa international film festival			Ukraine		01/05/2016	86
+Andrii Dederia	andrii	dederia	NDT Engineer	entry	a.dederia@vdgulf.com		http://www.linkedin.com/in/andrii-dederia-62bb4868	vd gulf			Ukraine		01/12/2015	63
+Andrey Degtiarov	andrey	degtiarov	Deputy Head of Analytics Department	head	a.degtiarov@fozzy.ua		http://www.linkedin.com/in/andrey-degtiarov-09357a24	fozzy group			Ukraine		01/02/2012	221
+Alexey Delyukov	alexey	delyukov	Marketing Director	director	a.delyukov@fozzy.ua		http://www.linkedin.com/in/alexey-delyukov-82089313	fozzy group			Ukraine		01/01/2011	326
+Artem Demchenko	artem	demchenko	iOS Developer	entry	a.demchenko@seductive.com.ua		http://www.linkedin.com/in/artem-demchenko-58006610b	seductive mobile			Ukraine		01/07/2017	
+Alexander Derevianko	alexander	derevianko			a.derevianko@ringostat.com		http://www.linkedin.com/in/alexander-derevianko-374b1886	ringostat			Ukraine			500
+Alona Derkach	alona	derkach	Account Manager	manager	a.derkach@flamesgroup.com		http://www.linkedin.com/in/alona-derkach-96343351	flames group sia			Ukraine		01/04/2012	4
+Anton Diachenko	anton	diachenko	Art Project Manager	manager	a.diachenko@room8studio.com		http://www.linkedin.com/in/anton-diachenko-a5a289b9	room 8 studio			Ukraine		01/03/2017	142
+Alice Dikhtenko	alice	dikhtenko	Lead Engineer	manager	a.dikhtenko@samsung.com		http://www.linkedin.com/in/alice-dikhtenko-87714889	samsung electronics			Ukraine			238
+Anton Dimkov	anton	dimkov	Lead Software Engineer	manager	a.dimkov@intetics.com		http://www.linkedin.com/in/anton-dimkov-379593b	intetics inc			Ukraine		01/05/2017	373
+Aleksandr Diubanov	aleksandr	diubanov	Industrial engineer (molding)	entry	a.diubanov@kostal.com		http://www.linkedin.com/in/aleksandr-diubanov-2b09307b	kostal group			Ukraine		01/03/2015	35
+Alex Dmitrenko	alex	dmitrenko	Senior Software Engineer	senior	a.dmitrenko@samsung.com		http://www.linkedin.com/in/alex-dmitrenko-b91a7625	samsung electronics			Ukraine			67
+Alexander Dmitriev	alexander	dmitriev	Sr. Engineer	senior	a.dmitriev@samsung.com		http://www.linkedin.com/in/alexander-dmitriev-a579a13	samsung electronics			Ukraine		01/11/2011	500
+Alexander Dmitriev	alexander	dmitriev	QA Engineer	entry	a.dmitriev@wendia.com		http://www.linkedin.com/in/alexander-dmitriev-8290204a	wendia			Ukraine		01/05/2015	172
+Anastasiya Dmytruk	anastasiya	dmytruk	Freelance Blogger	entry	a.dmytruk@1plus1.ua		http://www.linkedin.com/in/anastasiya-dmytruk-48834282	11 media			Ukraine		01/08/2015	381
+Alexander Dovbnya	alexander	dovbnya	Unity3D/iOS developer	entry	a.dovbnya@crysberry.com		http://www.linkedin.com/in/alexander-dovbnya-3167014a	crysberry studio			Ukraine		01/10/2013	102
+Anna Dovgan	anna	dovgan	Ð ÑƒÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ Ð¿Ñ€Ð¾ÐµÐºÐ¾Ð² ÐšÐ‘, Ð¤Ð¸Ð»Ð¸Ð°Ð» 'Ð›Ð°Ð¹Ñ‚'	entry	a.dovgan@beer-co.ca		http://www.linkedin.com/in/anna-dovgan-790a31a9	ubc group			Ukraine		01/05/2016	46
+Alexey Dovhopolyy	alexey	dovhopolyy	HR Manager	manager	a.dovhopolyy@samsung.com		http://www.linkedin.com/in/alexey-dovhopolyy-8095204	samsung electronics			Ukraine		01/02/2006	5
+Andriy Drozhko	andriy	drozhko	Java developer	entry	a.drozhko@spd-ukraine.com		http://www.linkedin.com/in/andriy-drozhko-986250a0	spdukraine			Ukraine		01/05/2014	179
+Arsenii Dudinov	arsenii	dudinov	Director of Community Management Department	director	a.dudinov@plarium.com		http://www.linkedin.com/in/arsenii-dudinov-50b15385	plarium			Ukraine		01/01/2018	500
+Andrii Dushkevych	andrii	dushkevych	Developer	entry	a.dushkevych@terrasoft.ru		http://www.linkedin.com/in/andrii-dushkevych-283853120	terrasoft			Ukraine			72
+Alex Dykopavlenko	alex	dykopavlenko	Senior QA Engineer	senior	a.dykopavlenko@program-ace.com		http://www.linkedin.com/in/alex-dykopavlenko-9ba75520	programace			Ukraine		01/12/2011	108
+Andriy Dynovskiy	andriy	dynovskiy	ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº Ð¾Ñ‚Ð´ÐµÐ»Ð° Ð¿Ð¾ Ñ€Ð°Ð±Ð¾Ñ‚Ðµ Ñ Ð¼ÑƒÐ»ÑŒÑ‚Ð¸Ð°Ð³ÐµÐ½Ñ‚Ð°Ð¼Ð¸	entry	a.dynovskiy@ukringroup.com.ua		http://www.linkedin.com/in/andriy-dynovskiy-a98725b0	     vienna insurance group			Ukraine		01/11/2014	1
+Alexey Dyshlenko	alexey	dyshlenko	Editor (Internet)	entry	a.dyshlenko@segodnya.ua		http://www.linkedin.com/in/alexey-dyshlenko-1a762bb	segodnya multimedia			Ukraine		01/05/2007	22
+Aleksandr Dzhedzhula	aleksandr	dzhedzhula	Junior Email Marketeer	entry	a.dzhedzhula@leboutique.com		http://www.linkedin.com/in/aleksandr-dzhedzhula-0b38563	leboutique			Ukraine		01/07/2015	86
+Anna Egorova	anna	egorova	Human Resources Manager	manager	a.egorova@gms-worldwide.com		http://www.linkedin.com/in/anna-egorova-a4578987	global message services			Ukraine		01/06/2017	500
+Andrey Eletskiy	andrey	eletskiy	Project Architect	entry	a.eletskiy@terrasoft.ru		http://www.linkedin.com/in/andrey-eletskiy-6679a19	terrasoft			Ukraine		01/10/2010	193
+Anton Evseev	anton	evseev	Project Manager	manager	a.evseev@crm-onebox.com		http://www.linkedin.com/in/anton-evseev-506a73106	webproduction ukraine			Ukraine			1
+Artem Evstifeev	artem	evstifeev	Seo-manager	manager	a.evstifeev@netpeak.net		http://www.linkedin.com/in/netpeak	internet marketing agency netpeak			Ukraine		01/10/2009	52
+Alexander Evtukh	alexander	evtukh	.Net Developer	entry	a.evtukh@disclosurenet.com		http://www.linkedin.com/in/alexander-evtukh-03350543	certent disclosurenet			Ukraine		01/04/2016	454
+Andrii Fedyk	andrii	fedyk	Web developer	entry	a.fedyk@intetics.com		http://www.linkedin.com/in/famchyk	intetics inc			Ukraine		01/01/2012	382
+Artem Fenoga	artem	fenoga	UX / UI Designer	entry	a.fenoga@owox.com		http://www.linkedin.com/in/artem-fenoga-19031138	owox bi			Ukraine		01/09/2012	183
+Anastasiia Filenko	anastasiia	filenko	Office Manager	manager	a.filenko@svitla.com		http://www.linkedin.com/in/anastasiia-filenko-a652aaba	svitla systems inc			Ukraine		01/10/2014	56
+Alexey Furman	alexey	furman	Product Manager	manager	a.furman@hyalual.com		http://www.linkedin.com/in/alexeyfurman	institute hyalual			Ukraine		01/12/2015	201
+Futyma Artur	futyma	artur	Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€	entry	a.futyma@mhp.com.ua		http://www.linkedin.com/in/futyma-artur-49158073	mhp sa			Ukraine			6
+Andrey Galagan	andrey	galagan	Compliance Manager	manager	a.galagan@veon.com		http://www.linkedin.com/in/andreygalagan	veon			Ukraine		01/01/2017	400
+Artem Galyan	artem	galyan	Product Owner	owner	a.galyan@busfor.com		http://www.linkedin.com/in/artem-galyan-a08b32aa	busfor			Ukraine			129
+Andrey Gavrylyuk	andrey	gavrylyuk	Head of tax law	head	a.gavrylyuk@fozzy.ua		http://www.linkedin.com/in/andrey-gavrylyuk-36884018	fozzy group			Ukraine		01/01/2014	345
+Alexander Gerasymenko	alexander	gerasymenko	Team Lead System Administrator	manager	a.gerasymenko@mobidev.biz		http://www.linkedin.com/in/alexander-gerasymenko-3a482195	mobidev			Ukraine		01/02/2013	455
+Anna Gladkaya	anna	gladkaya	Head of Legal Department	head	a.gladkaya@zzwolf.com		http://www.linkedin.com/in/anna-gladkaya-54720585	zz wolf group pte ltd			Ukraine		01/01/2011	101
+Anna Gladshtein	anna	gladshtein	Counsellor	entry	a.gladshtein@kievbarrister.com		http://www.linkedin.com/in/anna-gladshtein-821a4b12	sergii koziakovpartners			Ukraine		01/10/2014	500
+Alex Glovach	alex	glovach	Front-end Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº; Wordpress-developer	entry	a.glovach@lucky-labs.com		http://www.linkedin.com/in/alex-glovach-135297a0	lucky labs			Ukraine		01/08/2015	237
+Alyona Glukhareva	alyona	glukhareva	Sales manager	manager	a.glukhareva@codetiburon.com		http://www.linkedin.com/in/alyona-glukhareva-16405867	codetiburon			Ukraine			16
+Anastacia Golubnichaya	anastacia	golubnichaya	Steam coal and pet coke market analyst	entry	a.golubnichaya@metalexpert-group.com		http://www.linkedin.com/in/anastacia-golubnichaya-4abb98117	metal expert   			Ukraine		01/03/2016	500
+Anatolii Goncharuk	anatolii	goncharuk	Regional Manager	manager	a.goncharuk@samsung.com		http://www.linkedin.com/in/anatolii-goncharuk-a369b311b	samsung electronics			Ukraine		01/09/2008	135
+Alexey Gorb	alexey	gorb	Front-end developer	entry	a.gorb@soft-industry.com		http://www.linkedin.com/in/alexey-gorb-7b1079b6	soft industry alliance ltd			Ukraine			9
+Andrew Gorbachow	andrew	gorbachow	ux/ui designer	entry	a.gorbachow@theappsolutions.com		http://www.linkedin.com/in/gorbachow	the app solutions			Ukraine		01/10/2014	205
+Andrii Gorlov	andrii	gorlov	4th Engineer/Electrical Engineer	entry	a.gorlov@csmcy.com		http://www.linkedin.com/in/andrii-gorlov-84851b101	columbia shipmanagement			Ukraine		01/04/2009	58
+Artem Gorobets	artem	gorobets	Virtual Reality Software Engineer	entry	a.gorobets@pixelalabs.com		http://www.linkedin.com/in/artem-gorobets-a71a9a50	pixela labs			Ukraine		01/05/2012	180
+Anton Gorunov	anton	gorunov	Senior Software Developer TL	senior	a.gorunov@lucky-labs.com		http://www.linkedin.com/in/anton-gorunov-07195523	lucky labs			Ukraine		01/04/2015	500
+Anton Goryachykh	anton	goryachykh	3D Artist	entry	a.goryachykh@socialquantum.com		http://www.linkedin.com/in/anton-goryachykh-16ba7221	social quantum			Ukraine		01/06/2015	219
+Aleksey Grakov	aleksey	grakov	Executive Director at Kasta.ua	director	a.grakov@modnakasta.ua		http://www.linkedin.com/in/grakov	modnakasta			Ukraine		01/05/2015	397
+Anastasia Gramzuger	anastasia	gramzuger	Secretary	entry	a.gramzuger@csmcy.com		http://www.linkedin.com/in/anastasia-gramzuger-93043a99	columbia shipmanagement			Ukraine		01/01/2015	2
+Alina Gritsova	alina	gritsova	purchase manager	manager	a.gritsova@beer-co.ca		http://www.linkedin.com/in/alina-gritsova-32b85a26	ubc group			Ukraine		01/02/2012	3
+Andrii Grygoriev	andrii	grygoriev	Senior Engineer, Mobile Security Technologies	senior	a.grygoriev@samsung.com		http://www.linkedin.com/in/andrii-grygoriev-14993930	samsung electronics			Ukraine		01/10/2016	500
+Alexander Gubskiy	alexander	gubskiy	Network Engineer	entry	a.gubskiy@digitalscreens.ua		http://www.linkedin.com/in/alexander-gubskiy-93824870	digital screens llc			Ukraine		01/05/2016	312
+Andriy Gudz	andriy	gudz	Lead Engineer	manager	a.gudz@samsung.com		http://www.linkedin.com/in/andriy-gudz-609540b8	samsung electronics			Ukraine			32
+Anna Gulaya	anna	gulaya	international sales manager	manager	a.gulaya@metalexpert-group.com		http://www.linkedin.com/in/anna-gulaya-34762a55	metal expert   			Ukraine			1
+Alexander Guy	alexander	guy	Lead QA Engineer	manager	a.guy@samsung.com		http://www.linkedin.com/in/alexander-guy-67b6a736	samsung electronics			Ukraine		01/01/2013	89
+Andrey Gyzievatuy	andrey	gyzievatuy	Manager of Commercial Department	manager	a.gyzievatuy@kernel.ua		http://www.linkedin.com/in/andrey-gyzievatuy-421b20110	kernel			Ukraine		01/02/2017	163
+Aleksandr Havrilov	aleksandr	havrilov	UI/UX expert, Frontend developer	entry	a.havrilov@synebo.com		http://www.linkedin.com/in/aleksandr-havrilov-447b73a0	synebo  salesforce services			Ukraine		01/07/2015	257
+Alexandr Hedelyuk	alexandr	hedelyuk	Java Developer	entry	a.hedelyuk@spd-ukraine.com		http://www.linkedin.com/in/alexandr-hedelyuk-620b77ab	spdukraine		Cherkas'ka oblast	Ukraine		01/09/2016	149
+Andrew Hevalo	andrew	hevalo	3D Artist	entry	a.hevalo@visco.no		http://www.linkedin.com/in/andrew-hevalo-00010011	visco			Ukraine		01/10/2008	26
+Anna Hierasina	anna	hierasina	QC Engineer	entry	a.hierasina@grt-team.com		http://www.linkedin.com/in/annaosaulenko	grt team			Ukraine		01/02/2017	157
+Alexandr Holubinets	alexandr	holubinets	Web Developer	entry	a.holubinets@codetiburon.com		http://www.linkedin.com/in/freeflyingphoenix	codetiburon			Ukraine		01/05/2016	500
+Anastasia Hromova	anastasia	hromova	Coldfusion Developer	entry	a.hromova@webellian.com		http://www.linkedin.com/in/anastasia-hromova-840a4b67	webellian			Ukraine		01/10/2014	267
+Anatolii Hryshchenko	anatolii	hryshchenko	PHP developer	entry	a.hryshchenko@soft-group.com		http://www.linkedin.com/in/anatolii-hryshchenko-29623aa6	soft group ukraine			Ukraine		01/07/2011	288
+Arif Huseinov	arif	huseinov	QA Engineer	entry	a.huseinov@modnakasta.ua		http://www.linkedin.com/in/arif-huseinov-1a4848b0	modnakasta			Ukraine		01/01/2017	196
+Andrii Hvozdetskyi	andrii	hvozdetskyi	Senior Associate	senior	a.hvozdetskyi@sklaw.com.ua		http://www.linkedin.com/in/andrii-hvozdetskyi-3661975a	spenser  kauffmann			Ukraine		01/04/2016	500
+Anton Iarygin	anton	iarygin	Deputy CFO	c_suite	a.iarygin@1plus1.ua		http://www.linkedin.com/in/antoniarygin	11 media			Ukraine		01/04/2011	399
+Andrew Inzer	andrew	inzer	Java Developer	entry	a.inzer@owox.com		http://www.linkedin.com/in/andrew-inzer-653ab4116	owox bi			Ukraine		01/12/2014	36
+Alex Ivanov	alex	ivanov	QA Engineer	entry	a.ivanov@catawiki.com		http://www.linkedin.com/in/alex-ivanov-94409537	catawiki			Ukraine		01/05/2016	370
+Anna Ivanova	anna	ivanova	Data Entry Specialist	entry	a.ivanova@intetics.com		http://www.linkedin.com/in/anna-ivanova-2583578b	intetics inc			Ukraine		01/09/2016	89
+Andrew Ivchuk	andrew	ivchuk	Logistics Analyst	entry	a.ivchuk@fozzy.ua		http://www.linkedin.com/in/andrew-ivchuk-b3b35011b	fozzy group			Ukraine		01/08/2013	3
+Anna Ivleva	anna	ivleva	Key Account Manager non food	manager	a.ivleva@fozzy.ua		http://www.linkedin.com/in/anna-ivleva-3a83365b	fozzy group			Ukraine		01/03/2016	500
+Anastasia Iwanishina	anastasia	iwanishina	Business Development Manager	manager	a.iwanishina@flamesgroup.com		http://www.linkedin.com/in/anastasia-iwanishina-b2585b9b	flames group sia			Ukraine		01/05/2014	500
+Aleksei Izotov	aleksei	izotov	specialist of technical support	entry	a.izotov@fozzy.ua		http://www.linkedin.com/in/aleksei-izotov-1408a6116	fozzy group			Ukraine			33
+Alexandr Kachur	alexandr	kachur	Project Manager/Product Owner	owner	a.kachur@protrader.com		http://www.linkedin.com/in/alexandr-kachur-67b85846	pfsoft			Ukraine		01/09/2013	137
+Anna Kalashnyk	anna	kalashnyk	HTML-coder	entry	a.kalashnyk@promo.ua		http://www.linkedin.com/in/anna-kalashnyk-b97676136	promoua			Ukraine		01/07/2017	80
+Artie Kallini	artie	kallini	2d artist & designer	entry	a.kallini@plarium.com		http://www.linkedin.com/in/kallini	plarium			Ukraine		01/10/2013	
+Andrew Kalyuzhin	andrew	kalyuzhin	Product Designer	entry	a.kalyuzhin@keepsolid.com		http://www.linkedin.com/in/kalyuzhin	keepsolid inc			Ukraine		01/10/2015	500
+Andrey Kamko	andrey	kamko	Android Developer	entry	a.kamko@samsung.com		http://www.linkedin.com/in/andrey-kamko-268323aa	samsung electronics			Ukraine		01/12/2016	266
+Anton Kapitanenko	anton	kapitanenko	PM	entry	a.kapitanenko@controlpay.com		http://www.linkedin.com/in/kapitanenko	controlpay bv global freight audit			Ukraine		01/10/2016	500
+Artur Karganyan	artur	karganyan	GEO	entry	a.karganyan@biona.biz		http://www.linkedin.com/in/artur-karganyan-61586434	biona group			Ukraine			23
+Alexander Karlov	alexander	karlov	Backend developer	entry	a.karlov@adtelligent.com		http://www.linkedin.com/in/alexander-karlov-4058b939	vertamedia			Ukraine		01/09/2015	258
+Anastasiia Kashyna	anastasiia	kashyna	Head of Sales&Business Development Department	head	a.kashina@argus-soft.net		http://www.linkedin.com/in/akashina	argussoft			Ukraine		01/11/2013	500
+Alexey Kavitskiy	alexey	kavitskiy	Co-founder	founder	a.kavitskiy@umberfirm.com		http://www.linkedin.com/in/alexey-kavitskiy-87041568	samsonika			Ukraine		01/09/2014	500
+Anton Kazanov	anton	kazanov	Frontend Developer	entry	a.kazanov@rentberry.com		http://www.linkedin.com/in/anton-kazanov-6177b133	rentberry			Ukraine		01/04/2017	446
+Alexander Kazmin	alexander	kazmin	Partner	partner	a.kazmin@blackshieldcapital.ch		http://www.linkedin.com/in/alexander-kazmin-386981133	blackshield capital ag			Ukraine		01/06/2016	11
+Andrew Kaznachey	andrew	kaznachey	Front-end Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº; Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº Ð²Ð½ÐµÑˆÐ½ÐµÐ³Ð¾ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°	entry	a.kaznachey@andersenlab.com		http://www.linkedin.com/in/andrew-kaznachey-857708b4	asoft			Ukraine		01/01/2016	16
+Alina Khailo	alina	khailo	Account Manager	manager	a.khailo@plarium.com		http://www.linkedin.com/in/alina-khailo-39476183	plarium			Ukraine		01/09/2013	5
+Angelika Kharitonova	angelika	kharitonova	Business Development Manager	manager	a.kharitonova@3d-ace.com		http://www.linkedin.com/in/anzhelikakharitonova	3dace 3d modeling 2d3d animation			Ukraine		01/08/2013	500
+Anton Kharytonov	anton	kharytonov	UX Designer	entry	a.kharytonov@astoundcommerce.com		http://www.linkedin.com/in/kharytonovtony	astound commerce			Ukraine		01/04/2017	264
+Anastasia Kholod	anastasia	kholod	Marketing Manager	manager	a.kholod@magneticone.com	+380 352 523 831	http://www.linkedin.com/in/anastasia-kholod-893962b1	magneticone inc			Ukraine		01/03/2016	
+Anatolii Khoma	anatolii	khoma	Senior PHP/Magento Developer	senior	a.khoma@astoundcommerce.com		http://www.linkedin.com/in/anatolii-khoma-28780743	astound commerce			Ukraine		01/04/2013	500
+Andriy Khomyn	andriy	khomyn	Marketing Manager	manager	a.khomyn@bvblogic.com		http://www.linkedin.com/pub/andriy-khomyn/45/402/95b	bvblogic			Ukraine		01/08/2014	
+Aleksandr Khorev	aleksandr	khorev	Lead Software Developer	manager	a.khorev@samsung.com		http://www.linkedin.com/in/aleksandr-khorev-12a0a892	samsung electronics			Ukraine		01/03/2011	238
+Andrey Khryukin	andrey	khryukin	SETO	entry	a.khryukin@thenamaris.com		http://www.linkedin.com/in/andrey-khryukin-b4878877	thenamaris			Ukraine		01/08/2013	31
+Andrii Khymenko	andrii	khymenko	CTO	c_suite	a.khymenko@fiduciasoft.com		http://www.linkedin.com/in/khymenko	fiduciasoft			Ukraine		01/08/2016	180
+Andrei Klimishen	andrei	klimishen	Account manager	manager	a.klimishen@kadam.net		http://www.linkedin.com/in/andrei-klimishen-14105210b	kadam			Ukraine		01/02/2015	218
+Andrew Kobin	andrew	kobin	Java Team Lead	manager	a.kobin@soft-group.com		http://www.linkedin.com/in/andrew-kobin	soft group ukraine			Ukraine		01/06/2017	500
+Andrew Kochurin	andrew	kochurin	KAM	entry	a.kochurin@samsung.com		http://www.linkedin.com/in/andrew-kochurin-2930699a	samsung electronics			Ukraine			9
+Alexandr Kolb	alexandr	kolb	CEO	c_suite	a.kolb@promodo.com		http://www.linkedin.com/in/alexandr-kolb-a658824a	promodo			Ukraine		01/08/2004	500
+Ann Kolesnik	ann	kolesnik	HR Manager	manager	a.kolesnik@epom.com		http://www.linkedin.com/in/ann-kolesnik-43011872	epom			Ukraine		01/01/2013	115
+Alex Kolomiyets	alex	kolomiyets	CTO	c_suite	a.kolomiyets@synergetica.co		http://www.linkedin.com/in/alex-kolomiyets-1651416a	synergetica			Ukraine		01/05/2014	299
+Alla Komisarenko	alla	komisarenko	Group Chief Financial Officer	c_suite	a.komisarenko@terrasoft.ru		http://www.linkedin.com/in/alla-komisarenko-32225269	terrasoft			Ukraine			498
+Alexandra Kompanetz	alexandra	kompanetz	HR Manager	manager	a.kompanetz@tickets.ua		http://www.linkedin.com/in/alexandra-kompanetz-769b8b27	ticketsua			Ukraine		01/06/2016	264
+Anton Konet	anton	konet	Developer	entry	a.konet@svitla.com		http://www.linkedin.com/in/anton-konet-19390454	svitla systems inc			Ukraine		01/04/2011	5
+Alex Konoval	alex	konoval	Director	director	a.konoval@sk-consulting.com.ua		http://www.linkedin.com/in/alex-konoval-51a21a102	skconsulting llc			Ukraine		01/02/2013	234
+Andrii Korolov	andrii	korolov	Owner	owner	a.korolov@mavenecommerce.com		http://www.linkedin.com/in/akorolyov	maven ecommerce			Ukraine		01/03/2014	
+Andrey Kosenyuk	andrey	kosenyuk	Head of Group Financial Controlling	head	a.kosenyuk@kernel.ua		http://www.linkedin.com/in/andrey-kosenyuk-6383287	kernel			Ukraine		01/06/2013	352
+Andrey Koshkarov	andrey	koshkarov	Junior JavaScript/C#/MSSQL Developer	entry	a.koshkarov@terrasoft.ru		http://www.linkedin.com/in/andreykoshkarov	terrasoft			Ukraine		01/03/2015	500
+Andrew Kotlyarenko	andrew	kotlyarenko	Java Dev	entry	a.kotlyarenko@spd-ukraine.com		http://www.linkedin.com/in/andrew-kotlyarenko-3a9953105	spdukraine			Ukraine		01/05/2015	373
+Alyona Koval	alyona	koval	RIT company	entry	a.koval@rit-js.com	+380971990020	http://www.linkedin.com/in/alyona-koval-6170ab124	rit company			Ukraine		01/06/2016	
+Andriy Kovalchuk	andriy	kovalchuk	HR-manager	manager	a.kovalchuk@terrasoft.ru		http://www.linkedin.com/in/andriy-kovalchuk-78a6884	terrasoft			Ukraine			6
+Alexandra Kovalenko	alexandra	kovalenko	Project Manager	manager	a.kovalenko@amgrade.com		http://www.linkedin.com/in/alexandra-kovalenko-9a0443103	amgrade 			Ukraine		01/04/2015	266
+Anastasiya Kovalenko	anastasiya	kovalenko	HR Manager	manager	a.kovalenko@levi9.com		http://www.linkedin.com/in/kovalenkoanastasiya	levi9 technology services			Ukraine		01/12/2014	500
+Anna Kovalenko	anna	kovalenko	Office Manager	manager	a.kovalenko@rentberry.com		http://www.linkedin.com/in/anna-kovalenko-89269013b	rentberry			Ukraine		01/04/2017	500
+Alex Kozachanskiy	alex	kozachanskiy	ÐšÐ°ÑÑÐ¸Ñ€	entry	a.kozachanskiy@fozzy.ua		http://www.linkedin.com/in/alex-kozachanskiy-a01840127	fozzy group			Ukraine			6
+Andrey Kozachenko	andrey	kozachenko	Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€	entry	a.kozachenko@biofarma.ua		http://www.linkedin.com/in/andrey-kozachenko-90a134102	biopharma llc			Ukraine			2
+Alexander Kravchenko	alexander	kravchenko	Senior PHP Developer	senior	a.kravchenko@promodo.com		http://www.linkedin.com/in/alexander-kravchenko-5408a4a4	promodo			Ukraine		01/08/2016	500
+Andrii Kroitor	andrii	kroitor	Software Engineer	entry	a.kroitor@samsung.com		http://www.linkedin.com/in/andrii-kroitor-aaa140b9	samsung electronics			Ukraine			52
+Andrii Krokhin	andrii	krokhin	QA Engineer	entry	a.krokhin@synergetica.co		http://www.linkedin.com/in/andriikrokhin	synergetica			Ukraine		01/04/2016	500
+Aleksandr Krot	aleksandr	krot	Head of International Reporting	head	a.krot@ticketstravelnetwork.com		http://www.linkedin.com/in/aleksandr-krot-aa9959a8	tickets travel network			Ukraine		01/10/2016	452
+Artem Kruk	artem	kruk	Media Buyer, Affiliate Manager	manager	a.kruk@lucky-labs.com		http://www.linkedin.com/in/artem-kruk-03445852	lucky labs			Ukraine		01/01/2015	500
+Anna Krupko	anna	krupko	ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð¿Ð¾ Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¼ ÐºÐ¾Ð¼Ð¼ÑƒÐ½Ð¸ÐºÐ°Ñ†Ð¸ÑÐ¼ Ð¸ ÐºÐ¾Ñ€Ð¿Ð¾Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ð¾Ð¹ ÐºÑƒÐ»ÑŒÑ‚ÑƒÑ€Ðµ	entry	a.krupko@fozzy.ua		http://www.linkedin.com/in/anna-krupko-02924182	fozzy group			Ukraine		01/11/2015	243
+Aleksandr Kryvosheiev	aleksandr	kryvosheiev	Country manager Ukraine, Affiliate Manager	manager	a.kryvosheiev@admitad.com		http://www.linkedin.com/in/aleksandr-kryvosheiev-a7089949	admitad gmbh			Ukraine		01/02/2014	500
+Alla Kudzieva	alla	kudzieva	Inventory manager	manager	a.kudzieva@topmall.ua		http://www.linkedin.com/in/alla-kudzieva-1ba54753	topmall sp z oo			Ukraine		01/04/2013	157
+Alex Kulesha	alex	kulesha	Head of Chercasy dep	head	a.kulesha@bank.com.ua		http://www.linkedin.com/in/alex-kulesha-0190a5118	pivdennyi bank			Ukraine			1
+Anastasia Kulik	anastasia	kulik	Invoice auditor	entry	a.kulik@controlpay.com		http://www.linkedin.com/in/anastasia-kulik-68ba6972	controlpay bv global freight audit			Ukraine		01/02/2013	79
+Anastasia Kundelskaya	anastasia	kundelskaya	Deputy head of PPC	head	a.kundelskaya@inweb.ua		http://www.linkedin.com/in/anastasia-kundelskaya-97a5a6113	inweb			Ukraine		01/08/2016	363
+Aleksei Kurochko	aleksei	kurochko	Engineer	entry	a.kurochko@samsung.com		http://www.linkedin.com/in/oleksiikurochko	samsung electronics			Ukraine		01/04/2012	228
+Andrii Kurylo	andrii	kurylo	Graphic designer	entry	a.kurylo@1plus1.ua		http://www.linkedin.com/in/andrii-kurylo-bb495b11a	11 media			Ukraine		01/07/2016	10
+Andrew Kustrich	andrew	kustrich	Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ð¹ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€	entry	a.kustrich@tdsoftware.de		http://www.linkedin.com/in/andrew-kustrich-8335b844	tdsoftware gmbh			Ukraine		01/02/2015	79
+Anna Kutsenko	anna	kutsenko	Director	director	a.kutsenko@english-club.tv		http://www.linkedin.com/in/anna-kutsenko-8b4106ab	english club tv			Ukraine		01/01/2014	3
+Ddi Development	ddi	development	Co-Founder	founder	a.kuzenko@ddi-dev.com		http://www.linkedin.com/in/ddidev	ddi development			Ukraine		01/01/2007	325
+Angelika Kuzmenko	angelika	kuzmenko	Compensation and Benefits Specialist	entry	a.kuzmenko@astoundcommerce.com		http://www.linkedin.com/in/angelika-kuzmenko-229504a5	astound commerce			Ukraine		01/03/2015	500
+Alexander Kuzmenko	alexander	kuzmenko	Head of the operational recovery department	head	a.kuzmenko@delta-m.com.ua		http://www.linkedin.com/in/alexander-kuzmenko-42374017	delta m group			Ukraine			10
+Alexandr Kuznetsov	alexandr	kuznetsov	iOS developer	entry	a.kuznetsov@keepsolid.com		http://www.linkedin.com/in/alexandr-kuznetsov-48b90b82	keepsolid inc			Ukraine		01/04/2015	500
+Anna Kyselova	anna	kyselova	Volunteer	entry	a.kyselova@ieee.org		http://www.linkedin.com/in/anna-kyselova-2708524	ieee			Ukraine		01/01/2011	188
+Alexey Ladogubets	alexey	ladogubets	Ð†Ð½Ð¶ÐµÐ½ÐµÑ€-ÐµÐ½ÐµÑ€Ð³ÐµÑ‚Ð¸Ðº	entry	a.ladogubets@biofarma.ua		http://www.linkedin.com/in/alexey-ladogubets-189899101	biopharma llc			Ukraine			7
+Artem Lanovyy	artem	lanovyy	Senior Frontend Developer	senior	a.lanovyy@andersenlab.com		http://www.linkedin.com/in/artem-lanovyy-58666211b	asoft			Ukraine		01/10/2016	500
+Annabella-Nikol Lapshyna	annabella-nikol	lapshyna	News Editor	entry	a.lapshyna@1plus1.ua		http://www.linkedin.com/in/annabella-nikol-lapshyna-789076b8	11 media			Ukraine		01/11/2016	93
+Alexandr Lazarev	alexandr	lazarev	QA Engineer	entry	a.lazarev@andersenlab.com		http://www.linkedin.com/in/alexandr-lazarev-324301103	asoft			Ukraine			1
+Andriy Levitskiy	andriy	levitskiy	Front-End Developer	entry	a.levitskiy@soft-group.com		http://www.linkedin.com/in/andriy-levitskiy-0615b2102	soft group ukraine			Ukraine		01/08/2016	49
+Artem Lezin	artem	lezin	Project Manager	manager	a.lezin@1plus1.ua		http://www.linkedin.com/in/alezin	11 media			Ukraine		01/09/2015	220
+Alisa Lindeman	alisa	lindeman	Deputy Vice President for Audit	vp	a.lindeman@rsmapik.com.ua		http://www.linkedin.com/in/alisa-lindeman-77404032	rsm ua			Ukraine		01/06/2009	141
+Alina Lisina	alina	lisina	Junior QA Engineer	entry	a.lisina@lucky-labs.com		http://www.linkedin.com/in/alina-lisina-ab333580	lucky labs			Ukraine		01/03/2017	119
+Alexander Lisovskiy	alexander	lisovskiy	Frontend Developer	entry	a.lisovskiy@mobilunity.com		http://www.linkedin.com/in/alexander-lisovskiy-b8a35479	mobilunity			Ukraine		01/08/2017	329
+Anton Logvinenko	anton	logvinenko	PHP Team Leader	entry	a.logvinenko@mobidev.biz		http://www.linkedin.com/in/logvinenko	mobidev			Ukraine		01/07/2013	500
+Anna Lubarets	anna	lubarets	ÐšÐ¾Ð½ÑÑƒÐ»ÑŒÑ‚Ð°Ð½Ñ‚-Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€	entry	a.lubarets@umberfirm.com		http://www.linkedin.com/in/anna-lubarets-b2508b106	samsonika			Ukraine		01/07/2015	11
+Anastasiya Luganskaya	anastasiya	luganskaya	Sr Sales Support Specialist	senior	a.luganskaya@avonfoundation.org		http://www.linkedin.com/in/anastasiya-luganskaya-405b5a57	avon			Ukraine			56
+Andrii Lunov	andrii	lunov	QA Engineer	entry	a.lunov@astoundcommerce.com		http://www.linkedin.com/in/andrii-lunov-4b2045a8	astound commerce			Ukraine		01/02/2015	298
+Anna Lutsenko	anna	lutsenko	Assistant	entry	a.lutsenko@nsc-olimpiyskiy.com.ua		http://www.linkedin.com/in/anna-lutsenko-261b7a45	olympic national sports complex sc			Ukraine			10
+Alexander Lyabah	alexander	lyabah	Founder and CTO	founder	a.lyabah@checkio.com		http://www.linkedin.com/in/lyabah	checkio			Ukraine		01/04/2010	500
+Andrey Lyashchenko	andrey	lyashchenko	Java Developer	entry	a.lyashchenko@unicheck.com		http://www.linkedin.com/in/andrey-lyashchenko-10736ab0	unicheck ex unplag			Ukraine		01/07/2015	119
+Alexandra Lyovkina	alexandra	lyovkina	Key Account Sales Manager	manager	a.lyovkina@smileexpo.ru		http://www.linkedin.com/in/alexandra-lyovkina-b60b15a3	smile expo			Ukraine		01/05/2015	500
+Lyudmila Andreyeva	lyudmila	andreyeva	Consultant	entry	a.lyudmila@wardhowell.com		http://www.linkedin.com/in/lyudmila-andreyeva-06a821a	ward howell			Ukraine		01/07/2016	500
+Anton Makrushyn	anton	makrushyn	Python Developer	entry	a.makrushyn@synergetica.co		http://www.linkedin.com/in/antonmakrushyn	synergetica			Ukraine		01/01/2016	170
+Antonina Maksyukova	antonina	maksyukova	Brand manager	manager	a.maksyukova@cottonclub.ru		http://www.linkedin.com/in/antonina-maksyukova-35904785	cotton club llc			Ukraine		01/06/2014	98
+Andriy Mamalyha	andriy	mamalyha	Python developer	entry	a.mamalyha@soft-group.com		http://www.linkedin.com/in/andriy-mamalyha-849714a6	soft group ukraine			Ukraine		01/06/2013	84
+Alexander Marchenko	alexander	marchenko	IT	entry	a.marchenko@fozzy.ua		http://www.linkedin.com/in/alexandrmarchenko	fozzy group			Ukraine		01/12/1997	203
+Andrei Marchenko	andrei	marchenko	PHP Developer	entry	a.marchenko@owox.com		http://www.linkedin.com/in/andreimarchenko	owox bi			Ukraine		01/11/2012	242
+Alex Markin	alex	markin	Broadcasting Director	director	a.markin@1plus1.ua		http://www.linkedin.com/in/alex-markin-1a54a18a	11 media			Ukraine		01/11/2011	235
+Andrii Maslo	andrii	maslo	Owner	owner	a.maslo@go-dentist.com		http://www.linkedin.com/in/andrii-maslo-b618a1b2	godentist			Ukraine		01/09/2012	8
+Aleksey Matjushchenko	aleksey	matjushchenko	System Administrator (Cisco)	entry	a.matjushchenko@bank.com.ua		http://www.linkedin.com/in/aleksey-matjushchenko-5018188a	pivdennyi bank			Ukraine		01/01/2012	25
+Andrey Matvienko	andrey	matvienko	Senior JavaScript Developer	senior	a.matvienko@astoundcommerce.com		http://www.linkedin.com/in/andrey-matvienko-08248427	astound commerce			Ukraine		01/01/2015	491
+Alexandr Matvienko	alexandr	matvienko	Developer	entry	a.matvienko@mavenecommerce.com		http://www.linkedin.com/in/alexandr-matvienko-b225b380	mavenecommerce			Ukraine		01/04/2014	215
+Alena Maximovich	alena	maximovich	Project Manager	manager	a.maximovich@atomcream.com		http://www.linkedin.com/in/alena-maximovich-290b9b131	atom cream			Ukraine			12
+Aleksandr Maystruk	aleksandr	maystruk	Talent Acquisition Specialist	entry	a.maystruk@room8studio.com		http://www.linkedin.com/in/aleksandr-maystruk-20349274	room 8 studio			Ukraine		01/08/2017	500
+Alexandr Mazepa	alexandr	mazepa	Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº (LAN Service)	entry	a.mazepa@lanservice.com.ua		http://www.linkedin.com/in/alexandr-nikolaevich-mazepa-9255334a	lan service			Ukraine		01/07/2014	21
+Anton Melnik	anton	melnik	Middle PHP Developer	entry	a.melnik@sam-solutions.com		http://www.linkedin.com/in/anton-melnik-29b5aba7	sam solutions			Ukraine		01/03/2012	300
+Aliona Melnik	aliona	melnik	Business Development Manager	manager	a.melnik@soft-industry.com		http://www.linkedin.com/in/alionamelnik	soft industry alliance ltd			Ukraine		01/07/2012	500
+Alexandra Mikhailova	alexandra	mikhailova	Marketing Director	director	a.mikhailova@segodnya.ua		http://www.linkedin.com/in/alexandra-mikhailova-ab5626b	segodnya multimedia			Ukraine		01/07/2006	68
+Alexey Milovanov	alexey	milovanov	Business System Analyst	entry	a.milovanov@lucky-labs.com		http://www.linkedin.com/in/omilovanov	lucky labs			Ukraine		01/04/2017	349
+Alena Mirgorodskaya	alena	mirgorodskaya	Logist	entry	a.mirgorodskaya@fozzy.ua		http://www.linkedin.com/in/alena-mirgorodskaya-086663a3	fozzy group			Ukraine		01/10/2013	3
+Andrew Mironenko	andrew	mironenko	Underwriting of Corporate clients, Risk-management department	entry	a.mironenko@sbrf.com.ua		http://www.linkedin.com/in/andrew-mironenko-4b46548	sberbank public jointstock company			Ukraine		01/02/2013	203
+Alexander Miroshnichenko	alexander	miroshnichenko	Head of A2P Unit at GMS	head	a.miroshnichenko@gms-worldwide.com		http://www.linkedin.com/in/miroshnychenko	global message services			Ukraine		01/08/2017	500
+Artem Mishchenko	artem	mishchenko	NOC Engineer	entry	a.mishchenko@lanet.ua		http://www.linkedin.com/in/artem-mishchenko-393ab4133	lanet network			Ukraine		01/04/2017	38
+Anastasiia Moiseienko	anastasiia	moiseienko	Ð‘Ñ€ÐµÐ½Ð´-Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€	entry	a.moiseienko@hyalual.com		http://www.linkedin.com/in/anastasiia-moiseienko-513b7b60	institute hyalual			Ukraine		01/05/2015	21
+Anna Moroz	anna	moroz	Head of sales	head	a.moroz@modnakasta.ua		http://www.linkedin.com/in/anna-moroz-2b9936a6	modnakasta			Ukraine			135
+Angela Morozova	angela	morozova	Ð°ÑÑÐ¸ÑÑ‚ÐµÐ½Ñ‚ Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð°	entry	a.morozova@leboutique.com		http://www.linkedin.com/in/angela-morozova-86962875	leboutique			Ukraine			1
+Anastasiya Moskalenko	anastasiya	moskalenko	Manager.QROK GmbÐ	entry	a.moskalenko@qrok.mobi		http://www.linkedin.com/in/anastasiya-moskalenko-372907a8	qrok gmbh			Ukraine		01/08/2014	46
+Anastasiia Moskvytina	anastasiia	moskvytina	ÐÐ½Ð°Ð»Ð¸Ñ‚Ð¸Ðº Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸	entry	a.moskvytina@terrasoft.ru		http://www.linkedin.com/in/anastasiia-moskvytina-619609123	terrasoft			Ukraine		01/08/2016	5
+Aleksandr Mostovenko	aleksandr	mostovenko	account manager	manager	a.mostovenko@yarche.ua		http://www.linkedin.com/in/aleksandr-mostovenko-49832330	yarche			Ukraine		01/03/2015	212
+Aleksey Mozharovskiy	aleksey	mozharovskiy	Java Developer	entry	a.mozharovskiy@sysiq.com		http://www.linkedin.com/in/aleksey-mozharovskiy-05775999	astound commerce			Ukraine		01/01/2015	56
+Anatoliy Mudryk	anatoliy	mudryk	Project Manager	manager	a.mudryk@camlinpower.com		http://www.linkedin.com/in/anatoliy-mudryk-9966b690	camlin power ltd			Ukraine		01/07/2014	45
+Anna Muhoder	anna	muhoder	ÐšÐ¾Ð¾Ñ€Ð´Ð¸Ð½Ð°Ñ‚Ð¾Ñ€ ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸	entry	a.muhoder@avonfoundation.org		http://www.linkedin.com/in/anna-muhoder-22bb44a5	avon			Ukraine		01/06/2014	6
+Andrii Muntian	andrii	muntian	PHP/Magento Developer	entry	a.muntian@astoundcommerce.com		http://www.linkedin.com/in/andrii-muntian-7a4068106	astound commerce			Ukraine		01/12/2014	500
+Alla Mykolaenko	alla	mykolaenko	Leading specialist	entry	a.mykolaenko@sbrf.com.ua		http://www.linkedin.com/in/alla-mykolaenko-1598312a	sberbank public jointstock company			Ukraine		01/04/2011	93
+Aleksandra Mykytenko	aleksandra	mykytenko	QA Engineer	entry	a.mykytenko@probegin.com		http://www.linkedin.com/in/aleksandra-mykytenko-5a5838bb	probegin bv			Ukraine		01/12/2016	261
+Alexander Mylnikov	alexander	mylnikov	Java Developer	entry	a.mylnikov@sysiq.com		http://www.linkedin.com/in/alexander-mylnikov-302a8032	astound commerce			Ukraine		01/04/2016	284
+Alona Nadkrenychna	alona	nadkrenychna	ÑŽÑ€Ð¸ÑÐºÐ¾Ð½ÑÑƒÐ»ÑŒÑ‚	entry	a.nadkrenychna@fozzy.ua		http://www.linkedin.com/in/alona-nadkrenychna-63349961	fozzy group			Ukraine			23
+Aleksandr Navrotskyi	aleksandr	navrotskyi	Senior Web Developer	senior	a.navrotskyi@multi-programming.com		http://www.linkedin.com/in/alex-navrotskiy	multiprogramming solutions			Ukraine		01/04/2010	500
+Andrey Nedoluzhko	andrey	nedoluzhko	HTML5 Developer	entry	a.nedoluzhko@lucky-labs.com		http://www.linkedin.com/in/andrey-nedoluzhko-74673916	lucky labs			Ukraine		01/11/2014	242
+Nesterov Aleksey	nesterov	aleksey	O.C.	entry	a.nesterov@mhp.com.ua		http://www.linkedin.com/in/nesterov-aleksey-b4121970	mhp sa			Ukraine			2
+Alex Nikeenko	alex	nikeenko	JavaScript Lead	manager	a.nikeenko@lucky-labs.com		http://www.linkedin.com/in/alex-nikeenko-91315714	lucky labs			Ukraine		01/06/2013	28
+Astrakhovich Nikita	astrakhovich	nikita	Project Manager	manager	a.nikita@keepsolid.com		http://www.linkedin.com/in/astrakhovich-nikita-68099b39	keepsolid inc			Ukraine		01/10/2016	304
+Anna Norinskaya	anna	norinskaya	Head of Customer Support Department	head	a.norinskaya@itell.com.ua		http://www.linkedin.com/in/anna-norinskaya-350aa33a	itell			Ukraine		01/03/2017	419
+Alexandra Okhrimenko	alexandra	okhrimenko	Account Manager	manager	a.okhrimenko@relevant.software		http://www.linkedin.com/in/sashaokhrimenko	relevant software			Ukraine		01/11/2017	500
+Afanasiev Oleg	afanasiev	oleg	Java Developer	entry	a.oleg@telesens.ua		http://www.linkedin.com/in/afanasievoleg	telesens			Ukraine		01/11/2015	246
+Akhtyrko Oleg	akhtyrko	oleg	Senior Project Manager	manager	a.oleg@veres.com.ua		http://www.linkedin.com/in/akhtyrko-oleg-6b885425	veres group			Ukraine		01/11/2015	500
+Anna Olegovna	anna	olegovna	Freelance Graphic Designer	entry	a.olegovna@emrahozturk.com		http://www.linkedin.com/in/anna-olegovna-8978a0107	 freelancer			Ukraine		01/01/2013	30
+Alla Onoprienko	alla	onoprienko	UI/UX Designer	entry	a.onoprienko@mobidev.biz		http://www.linkedin.com/in/alla-onoprienko-73129183	mobidev			Ukraine		01/08/2012	500
+Andrey Onufrienko	andrey	onufrienko	Art Director of projects / Senior Motion GFX Artist	director	a.onufrienko@1plus1.ua		http://www.linkedin.com/in/andrey-onufrienko-430b4486	11 media			Ukraine		01/04/2011	73
+Alexander Osipenko	alexander	osipenko	New Business Representative Ð² Serpstat	entry	a.osipenko@serpstat.com		http://www.linkedin.com/in/alosipenko	serpstat			Ukraine		01/01/2017	500
+Albert Ovanesov	albert	ovanesov	Ð¡Ð¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚ Ð¾Ñ‚Ð´ÐµÐ»Ð° Ñ€Ð°Ð·Ð²Ð¸Ñ‚Ð¸Ñ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€ÑÐºÐ¾Ð¹ ÑÐµÑ‚Ð¸	entry	a.ovanesov@tui.ua		http://www.linkedin.com/in/albert-ovanesov-38225793	tui ukraine			Ukraine		01/03/2012	10
+A P	a	p	Business Development Manager	manager	a.p@program-ace.com		http://www.linkedin.com/in/a-p-926047118	programace			Ukraine		01/03/2016	500
+Artem Palamarchuk	artem	palamarchuk	UI Designer	entry	a.palamarchuk@astoundcommerce.com		http://www.linkedin.com/in/artem-palamarchuk-020867a6	astound commerce			Ukraine			1
+Andrew Palyanov	andrew	palyanov	Senior 2D artist	senior	a.palyanov@program-ace.com		http://www.linkedin.com/in/andrew-palyanov-5427a986	programace			Ukraine		01/05/2015	500
+Andrei Panaskov	andrei	panaskov	Assistant Professor	entry	a.panaskov@chnu.edu.ua		http://www.linkedin.com/in/andrei-panaskov-75614053	chernivtsi national university			Ukraine			33
+Alex Panchenko	alex	panchenko	Java Developer, Team Lead	manager	a.panchenko@spd-ukraine.com		http://www.linkedin.com/in/alex-panchenko-6848291a	spdukraine			Ukraine		01/09/2008	138
+Alena Pankina	alena	pankina	Animation Design Team Lead	manager	a.pankina@plarium.com		http://www.linkedin.com/in/alena-pankina-0598507a	plarium			Ukraine		01/06/2012	351
+Anna Panova	anna	panova	Retail Marketing Manager	manager	a.panova@samsung.com		http://www.linkedin.com/in/anna-panova-8aa910ba	samsung electronics			Ukraine		01/11/2016	84
+Alexey Panteleymonov	alexey	panteleymonov	ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸ÑÑ‚	entry	a.panteleymonov@program-ace.com		http://www.linkedin.com/in/alexey-panteleymonov-a100694b	programace			Ukraine		01/11/2005	78
+Alexander Pasechnik	alexander	pasechnik	Java Developer	entry	a.pasechnik@spd-ukraine.com		http://www.linkedin.com/in/alexander-pasechnik-68031372	spdukraine			Ukraine		01/04/2016	231
+Anton Pavelko	anton	pavelko	Senior Magento Developer	senior	a.pavelko@astoundcommerce.com		http://www.linkedin.com/in/anton-pavelko-88298429	astound commerce			Ukraine		01/12/2013	306
+Alexandr Pavlenko	alexandr	pavlenko			a.pavlenko@agamedialab.com		http://www.linkedin.com/in/alexandr-pavlenko-58491112	aga medialab			Ukraine			69
+Aleksandr Pavlenko	aleksandr	pavlenko	Director of Sales Development	director	a.pavlenko@uct.ua		http://www.linkedin.com/in/pavlenkoall	uct google adwords qualified company			Ukraine		01/09/2009	500
+Alona Pavliuk	alona	pavliuk	HR generalist	entry	a.pavliuk@expertmusic.net		http://www.linkedin.com/in/alona-pavliuk-a118a656	expertmusic 			Ukraine		01/10/2016	500
+Alex Pavlysh	alex	pavlysh	Senior Software Engineer	senior	a.pavlysh@spd-ukraine.com		http://www.linkedin.com/in/alex-pavlysh-8690b8b4	spdukraine			Ukraine		01/08/2015	129
+Alexander Pervushen	alexander	pervushen	Node JS	entry	a.pervushen@svitla.com		http://www.linkedin.com/in/alexander-pervushen-1426a4a2	svitla systems inc			Ukraine		01/01/2013	445
+Andrey Pervushin	andrey	pervushin	Account Manager	manager	a.pervushin@netpeak.net		http://www.linkedin.com/in/andrey-pervushin-47a63141	internet marketing agency netpeak			Ukraine			45
+Alexey Petrov	alexey	petrov	chief of SSV&BRS division	entry	a.petrov@netwave.com.ua		http://www.linkedin.com/in/sethez	netwave llc			Ukraine		01/01/2012	271
+Alexander Petrovich	alexander	petrovich	QA	entry	a.petrovich@lucky-labs.com		http://www.linkedin.com/in/alexander-petrovich-68301662	lucky labs			Ukraine			78
+Aleksandr Petrychenko	aleksandr	petrychenko	FI&FX Trading	entry	a.petrychenko@kernel.ua		http://www.linkedin.com/in/aleksandr-petrychenko-25452619	kernel			Ukraine		01/09/2016	378
+Andrey Pilipenko	andrey	pilipenko	lawyer	entry	a.pilipenko@kievbarrister.com		http://www.linkedin.com/in/andrey-pilipenko-91302b116	sergii koziakovpartners			Ukraine			6
+Anna Plyga	anna	plyga	Email Marketing Specialist	entry	a.plyga@promodo.com		http://www.linkedin.com/in/anna-plyga	promodo			Ukraine		01/03/2017	224
+Alyona Pogorielova	alyona	pogorielova	Event Coordinator	entry	a.pogorielova@astoundcommerce.com		http://www.linkedin.com/in/alyona-pogorielova-62442695	astound commerce			Ukraine		01/10/2015	281
+Anatoliy Pohoriliy	anatoliy	pohoriliy	TechLead	entry	a.pohoriliy@bvblogic.com		http://www.linkedin.com/in/anatoliy-pohoriliy-a5916442	bvblogic			Ukraine			309
+Alexander Pokidin	alexander	pokidin	Web Developer	entry	a.pokidin@os-system.com		http://www.linkedin.com/in/alexanderpokidin	ossystem		Luhans'ka oblast	Ukraine		01/12/2012	245
+Arthem Polishchuk	arthem	polishchuk	Frontend Developer	entry	a.polishchuk@mobidev.biz		http://www.linkedin.com/in/arthem-polishchuk-018ba1114	mobidev			Ukraine		01/04/2015	500
+Anna Polishchuk	anna	polishchuk	CFO	c_suite	a.polishchuk@runa.com.ua		http://www.linkedin.com/in/anna-polishchuk-876a64b8	lutsk foods			Ukraine		01/02/2014	35
+Andrii Polishchuk	andrii	polishchuk	Java Developer	entry	a.polishchuk@soft-group.com		http://www.linkedin.com/in/andrii-polishchuk-9b7404a7	soft group ukraine			Ukraine		01/08/2012	29
+Anna Ponomarenko	anna	ponomarenko	Head of Recruitment	head	a.ponomarenko@terrasoft.ru		http://www.linkedin.com/in/aponomarenko	terrasoft			Ukraine		01/06/2017	500
+Artur Popov	artur	popov	QA / QA Client Support	entry	a.popov@basquare.com		http://www.linkedin.com/in/apopov7viv	basquare			Ukraine		01/09/2014	221
+Artem Popov	artem	popov	Project Lead	manager	a.popov@samsung.com		http://www.linkedin.com/in/artem-popov-7709ba47	samsung electronics			Ukraine		01/03/2013	228
+Alyona Popova	alyona	popova	Sales team leader	entry	a.popova@terrasoft.ru		http://www.linkedin.com/in/alyona-popova-3054913b	terrasoft			Ukraine		01/01/2016	500
+Anatoliy Popytchenko	anatoliy	popytchenko	Middle PPC Specialist	entry	a.popytchenko@promodo.com		http://www.linkedin.com/in/anatoliy-popytchenko-206aa481	promodo			Ukraine		01/10/2017	284
+Anna Poveshenko	anna	poveshenko	Operations Manager	manager	a.poveshenko@nsc-olimpiyskiy.com.ua		http://www.linkedin.com/in/anna-poveshenko-a6b36821	olympic national sports complex sc			Ukraine		01/08/2011	70
+Alex Poznyak	alex	poznyak	Assistant of CEO of Netpeak Software	entry	a.poznyak@netpeak.net		http://www.linkedin.com/in/alex-poznyak-678903105	internet marketing agency netpeak			Ukraine			1
+Alexey Printsevsky	alexey	printsevsky	QA Engineer	entry	a.printsevsky@querix.com		http://www.linkedin.com/in/alexey-printsevsky-0a2a36b7	querix			Ukraine		01/01/2014	148
+Anastasiya Pris	anastasiya	pris	Logistics specialist	entry	a.pris@modnakasta.ua		http://www.linkedin.com/in/anastasiya-pris-5b6bbab8	modnakasta			Ukraine		01/10/2012	13
+Andrey Pritulyuk	andrey	pritulyuk	National Expert	entry	a.pritulyuk@unido.org		http://www.linkedin.com/in/andrey-pritulyuk-9167149	unido			Ukraine		01/05/2015	85
+A Private	a	private	CRA	entry	a.private@quintiles.com		http://www.linkedin.com/in/a-private-74106812	quintiles			Ukraine		01/03/2009	3
+Anatoliy Prokhorenko	anatoliy	prokhorenko	Java Developer	entry	a.prokhorenko@spd-ukraine.com		http://www.linkedin.com/in/anatoliy-prokhorenko-b69b61b7	spdukraine			Ukraine		01/09/2014	58
+Anatoly Prokofiev	anatoly	prokofiev	Malware Analyst / Reverse Engineer	entry	a.prokofiev@samsung.com		http://www.linkedin.com/in/anatoly-prokofiev-93bab281	samsung electronics			Ukraine		01/05/2017	500
+Anton Pryshchenko	anton	pryshchenko	Implementation Consultant	entry	a.pryshchenko@terrasoft.ru		http://www.linkedin.com/in/anton-pryshchenko-ba8950103	terrasoft			Ukraine		01/01/2017	195
+Andriy Pukas	andriy	pukas	Associate Professor	entry	a.pukas@tneu.edu.ua		http://www.linkedin.com/in/andriy-pukas-839154a4	ternopil national economic university			Ukraine		01/09/2008	246
+Andrey Pupchenko	andrey	pupchenko	Deputy Managing Director - International Markets	director	a.pupchenko@metalexpert-group.com		http://www.linkedin.com/in/andrey-pupchenko-453a1281	metal expert   			Ukraine		01/10/2013	171
+Alexandr Pushnyak	alexandr	pushnyak	Sales manager	manager	a.pushnyak@softlist.ua		http://www.linkedin.com/in/alexandr-pushnyak-5548254b	softlist			Ukraine		01/08/2010	276
+Anastasia Radutna	anastasia	radutna			a.radutna@insart.com		http://www.linkedin.com/in/anastasia-radutna-383939b7	insart			Ukraine			500
+Artur Rakytskyy	artur	rakytskyy	CTO	c_suite	a.rakytskyy@epom.com		http://www.linkedin.com/in/artyrak	epom			Ukraine		01/03/2013	
+Andrii Rallo	andrii	rallo	Lead Engineer	manager	a.rallo@samsung.com		http://www.linkedin.com/in/andrii-rallo-139bb587	samsung electronics			Ukraine		01/02/2014	97
+Anastasia Rodoman	anastasia	rodoman	UI Designer	entry	a.rodoman@promodo.com		http://www.linkedin.com/in/anastasia-rodoman-76b04410b	promodo			Ukraine		01/11/2016	104
+Alexey Romanenko	alexey	romanenko	Software QA, Automation	entry	a.romanenko@disclosurenet.com		http://www.linkedin.com/in/alexey-romanenko-3993714b	certent disclosurenet			Ukraine		01/04/2016	90
+Anna Rumbesht	anna	rumbesht	Ð¿Ñ€ÐµÐ¿Ð¾Ð´Ð°Ð²Ð°Ñ‚ÐµÐ»ÑŒ	entry	a.rumbesht@kubg.edu.ua		http://www.linkedin.com/in/anna-rumbesht-1706247b	borys grinchenko kyiv university			Ukraine		01/01/2014	114
+Alexander Ruryshin	alexander	ruryshin	Head Department	head	a.ruryshin@fozzy.ua		http://www.linkedin.com/in/alexander-ruryshin-226b47a5	fozzy group			Ukraine		01/01/2002	6
+Artem Ryabokon	artem	ryabokon	Senior Software Engineer	senior	a.ryabokon@spd-ukraine.com		http://www.linkedin.com/in/artem-ryabokon-81618917	spdukraine			Ukraine		01/04/2016	219
+Anna Ryzhykh	anna	ryzhykh	product manager HDD & ODD	manager	a.ryzhykh@samsung.com		http://www.linkedin.com/in/anna-ryzhykh-8269674	samsung electronics			Ukraine		01/04/2010	55
+Anton Kosinov	anton	kosinov			a.s.kosinov@gmail.com	+380667275551	http://www.linkedin.com/in/aplysia	ovivogae			Ukraine		01/10/2014	
+Anastasiya Sakhibova	anastasiya	sakhibova	Customer Success Manager	manager	a.sakhibova@keepsolid.com		http://www.linkedin.com/in/anastasiya-sakhibova-537270b8	keepsolid inc			Ukraine		01/12/2016	163
+Aleksandr Samarskyi	aleksandr	samarskyi	Head of the group of system administration and technical support IT Department	head	a.samarskyi@tui.ua		http://www.linkedin.com/in/aleksandr-samarskyi-1496b974	tui ukraine			Ukraine		01/02/2009	197
+Andriy Samila	andriy	samila	PhD in Engineering, Assistant Professor	entry	a.samila@chnu.edu.ua		http://www.linkedin.com/in/andriy-samila-a7a429a1	chernivtsi national university			Ukraine		01/11/2011	63
+Anna Savchenko	anna	savchenko	Senior recruiter	senior	a.savchenko@fozzy.ua		http://www.linkedin.com/in/anna-savchenko-34621680	fozzy group			Ukraine		01/03/2010	102
+Andrey Savenkov	andrey	savenkov	Head of Information security department	head	a.savenkov@avtologistika.com		http://www.linkedin.com/in/andrey-savenkov-425a5a37	avtologistika group of companies			Ukraine		01/12/2011	81
+Arthur Scherbak	arthur	scherbak	Head of Customer Service	head	a.scherbak@seo-studio.ua		http://www.linkedin.com/in/arthur-scherbak-35a66261	seostudio			Ukraine		01/10/2014	440
+Alexey Seleznev	alexey	seleznev	Middle PPC Analyst	entry	a.seleznev@netpeak.net		http://www.linkedin.com/in/alexey-seleznev-b92432a3	internet marketing agency netpeak			Ukraine			6
+Andrew Semchenko	andrew	semchenko	Director	director	a.semchenko@english-club.tv		http://www.linkedin.com/in/andrew-semchenko-76b00821	english club tv			Ukraine			1
+Alex Sentsov	alex	sentsov	Group lead	manager	a.sentsov@adbglobal.com		http://www.linkedin.com/in/alex-sentsov-41013258	adb			Ukraine		01/04/2012	8
+Anastasiia Sergeevna	anastasiia	sergeevna	PHP Developer	entry	a.sergeevna@dowell.com.ua		http://www.linkedin.com/in/anastasiia-sergeevna-1459abbb	dowell development			Ukraine		01/06/2017	45
+Anton Serputko	anton	serputko	QA Automation Engineer	entry	a.serputko@terrasoft.ru		http://www.linkedin.com/in/serputkoa	terrasoft			Ukraine		01/10/2016	500
+Anastasiya Sertych	anastasiya	sertych	Salesforce Project Manager	manager	a.sertych@synebo.com		http://www.linkedin.com/in/anastasiya-sertych-325364114	synebo  salesforce services			Ukraine		01/10/2016	224
+Andriy Shabo	andriy	shabo	Tutor	entry	a.shabo@britishmba.in.ua		http://www.linkedin.com/in/andriy-shabo-8b969725	edinburgh business school eastern europe			Ukraine		01/01/2011	356
+Anna Shalenko	anna	shalenko	Administrative Manager	manager	a.shalenko@astoundcommerce.com		http://www.linkedin.com/in/anna-shalenko-57241344	astound commerce			Ukraine		01/01/2017	382
+Angelika Shapoval	angelika	shapoval	Sales Administration	entry	a.shapoval@kostal.com		http://www.linkedin.com/in/angelika-shapoval-555459115	kostal group			Ukraine		01/05/2017	103
+Anna Shapovalova	anna	shapovalova	Ð³Ñ€Ð°Ñ„Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð´Ð¸Ð·Ð°Ð¹Ð½ÐµÑ€	entry	a.shapovalova@lucky-labs.com		http://www.linkedin.com/in/anna-shapovalova-ganenko-34532486	lucky labs			Ukraine		01/06/2015	11
+Alexandr Sharabudinov	alexandr	sharabudinov	Server Lead	manager	a.sharabudinov@twinwingames.com		http://www.linkedin.com/in/alexandr-sharabudinov-98685677	twin win games llc			Ukraine		01/04/2015	398
+Artem Shatkovskiy	artem	shatkovskiy	Sales Regional Manager	manager	a.shatkovskiy@avgust.com		http://www.linkedin.com/in/artem-shatkovskiy-5b830360	avgust crop protection			Ukraine			164
+Anastasia Shcherbina	anastasia	shcherbina	sales and marketing	entry	a.shcherbina@metalexpert-group.com		http://www.linkedin.com/in/anastasia-shcherbina-7073731b	metal expert   			Ukraine		01/07/2006	493
+Andrew Sherstyuk	andrew	sherstyuk	Regional Director CIS, Corporate Treasury Management	director	a.sherstyuk@hahnair.com		http://www.linkedin.com/in/andrew-sherstyuk-49709817	hahn air lines gmbh			Ukraine		01/01/2011	121
+Alla Shestak	alla	shestak	QA Test Engineer	entry	a.shestak@sam-solutions.com		http://www.linkedin.com/in/alla-shestak-4b5171131	sam solutions			Ukraine		01/01/2013	41
+Alena Shevchenko	alena	shevchenko	Ð’ÐµÐ±-Ð´Ð¸Ð·Ð°Ð¹Ð½ÐµÑ€	entry	a.shevchenko@zillya.com		http://www.linkedin.com/in/alena-shevchenko-113016123	zillya antivirus			Ukraine		01/10/2015	89
+Armine Shirinyan	armine	shirinyan	Ð’ÐµÐ´ÑƒÑ‰Ð¸Ð¹ ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚ Ð¿Ð¾ Ñ€Ð°Ð·Ð²Ð¸Ñ‚Ð¸ÑŽ ÑÐ°Ð¹Ñ‚Ð°	entry	a.shirinyan@all.biz		http://www.linkedin.com/in/armine-shirinyan-42b532107	allbiz global			Ukraine			12
+Alexandr Shkarupa	alexandr	shkarupa	Founder and CEO	founder	a.shkarupa@amatex-capital.com		http://www.linkedin.com/in/alexandr-shkarupa-50461a113	amatex capital			Ukraine		01/01/2015	46
+Anna Shkerina	anna	shkerina	Junior Web Developer	entry	a.shkerina@astoundcommerce.com		http://www.linkedin.com/in/annashkerina	astound commerce			Ukraine		01/04/2016	126
+Arthur Shpakov	arthur	shpakov	Senior Front-End Developer	senior	a.shpakov@svitla.com		http://www.linkedin.com/in/arthur-shpakov-89198240	svitla systems inc			Ukraine		01/09/2015	500
+Andrey Shpilevoy	andrey	shpilevoy	.Net Developer	entry	a.shpilevoy@levi9.com		http://www.linkedin.com/in/andreyshpilevoy	levi9 technology services			Ukraine		01/12/2015	379
+Alexandr Shpion	alexandr	shpion	Co-founder	founder	a.shpion@art-lemon.com		http://www.linkedin.com/in/shpion	art lemon			Ukraine		01/06/2012	88
+Andrey Shtepura	andrey	shtepura	Programmer	entry	a.shtepura@andersenlab.com		http://www.linkedin.com/in/andrey-shtepura-01b79baa	asoft			Ukraine			500
+Andrii Shtyka	andrii	shtyka	UI/UX Designer	entry	a.shtyka@qwert.com.ua		http://www.linkedin.com/in/andrii-shtyka-212a72a3	qwertcomua			Ukraine		01/08/2016	
+Anatoliy Shumskyy	anatoliy	shumskyy	Manager	manager	a.shumskyy@tneu.edu.ua		http://www.linkedin.com/in/anatoliy-shumskyy-8a351b33	ternopil national economic university			Ukraine		01/01/2009	1
+Aleksandr Shvets	aleksandr	shvets	Software Architector	entry	a.shvets@terrasoft.ru		http://www.linkedin.com/in/aleksandrshvets	terrasoft			Ukraine		01/11/2015	235
+Andrey Shymaniuk	andrey	shymaniuk	Finance Manager	manager	a.shymaniuk@labelgroupe.com		http://www.linkedin.com/in/andrey-shymaniuk-10798a51	label groupe			Ukraine		01/07/2013	25
+Anastasia Silenko	anastasia	silenko	Accout director	director	a.silenko@spncomms.com		http://www.linkedin.com/in/anastasia-silenko-78592a7	spn communications			Ukraine		01/02/2010	216
+Alexandr Sirikov	alexandr	sirikov	ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº Ð¾Ñ‚Ð´ÐµÐ»Ð° Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð´ÐµÐ¿Ð°Ñ€Ñ‚Ð°Ð¼ÐµÐ½Ñ‚Ð° Ð˜Ð¢	entry	a.sirikov@ringoo.ua		http://www.linkedin.com/in/alexandr-sirikov-7a8467b5	ringoo a part of fozzy group			Ukraine		01/03/2011	70
+Anton Sivakov	anton	sivakov	Senior Ruby/JS Developer	senior	a.sivakov@svitla.com		http://www.linkedin.com/in/anton-sivakov-42129795	svitla systems inc			Ukraine		01/05/2017	500
+Anastasiia Sklyar	anastasiia	sklyar	IT Recruiter	entry	a.sklyar@capitalrecruiters.com.ua		http://www.linkedin.com/in/sklyar	capital recruiters			Ukraine		01/09/2016	500
+Andrii Slichenko	andrii	slichenko	Gis	entry	a.slichenko@intetics.com		http://www.linkedin.com/in/andrii-slichenko-28650511b	intetics inc			Ukraine			13
+Alexey Smexoff	alexey	smexoff	Group Creative Director	director	a.smexoff@ngn.com.ua		http://www.linkedin.com/in/alexey-smexoff-82911b32	ngn agency			Ukraine		01/09/2016	329
+Alex Smirnov	alex	smirnov	Magento Developer	entry	a.smirnov@sam-solutions.com		http://www.linkedin.com/in/alex-smirnov-7a6288139	sam solutions			Ukraine		01/01/2016	108
+Anna Smyk	anna	smyk	Senior Europe Market Specialist	senior	a.smyk@metalexpert-group.com		http://www.linkedin.com/in/anna-smyk-skype-a-smyk1-752735a4	metal expert   			Ukraine		01/07/2010	500
+Anna Sokol	anna	sokol	Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð¿Ð¾ Ð¿Ñ€Ð¾Ð´Ð°Ð¶Ð°Ð¼	entry	a.sokol@avonfoundation.org		http://www.linkedin.com/in/anna-sokol-a36588a5	avon			Ukraine			61
+Aleksei Sokolov	aleksei	sokolov	Head of IT Department at Lanet Network LTD	head	a.sokolov@lanet.ua		http://www.linkedin.com/in/aleksei-sokolov-a5972085	lanet network			Ukraine		01/01/2012	26
+Aleksey Solomakha	aleksey	solomakha	Web Software Developer	entry	a.solomakha@archimatika.com		http://www.linkedin.com/in/aleksey-solomakha-57b97083	archimatika			Ukraine		01/05/2016	109
+Alina Solomakha	alina	solomakha	manager	manager	a.solomakha@uct.ua		http://www.linkedin.com/in/alina-solomakha-04593963	uct google adwords qualified company			Ukraine		01/01/2014	117
+Aleksandr Stechyshyn	aleksandr	stechyshyn	otel rehber	entry	a.stechyshyn@princegroup.com.tr		http://www.linkedin.com/in/aleksandr-stechyshyn-51291b7b	prince group			Ukraine			3
+Alexander Stepanenko	alexander	stepanenko	Application Administrator	entry	a.stepanenko@sysiq.com		http://www.linkedin.com/in/alstepanenko	astound commerce			Ukraine		01/07/2016	202
+Anna Stepanova	anna	stepanova	Telemarketing Manager	manager	a.stepanova@intetics.com		http://www.linkedin.com/in/anna-stepanova-7b431b105	intetics inc			Ukraine		01/09/2015	83
+Anastasiya Stepanova	anastasiya	stepanova	Accountant	entry	a.stepanova@promodo.com		http://www.linkedin.com/in/anastasiyastepanova	promodo			Ukraine		01/01/2015	172
+Alexey Stepanovskyy	alexey	stepanovskyy	Head of Real Estate Law, Legal Department	head	a.stepanovskyy@fozzy.ua		http://www.linkedin.com/in/alexey-stepanovskyy-4b86b043	fozzy group			Ukraine		01/07/2013	388
+Anthony Stepoviy	anthony	stepoviy	UI/UX Designer	entry	a.stepoviy@emrahozturk.com		http://www.linkedin.com/in/anthony-stepoviy-2a5655bb	 freelancer			Ukraine		01/06/2015	106
+Aleksei Stiagailo	aleksei	stiagailo	QA Automation Engineer	entry	a.stiagailo@keepsolid.com		http://www.linkedin.com/in/aleksei-stiagailo-90a385113	keepsolid inc			Ukraine		01/02/2017	178
+Alexander Stoyakin	alexander	stoyakin	C++ Developer	entry	a.stoyakin@svitla.com		http://www.linkedin.com/in/alexander-stoyakin-1337a717	svitla systems inc			Ukraine		01/09/2017	500
+Aleksey Stulnikov	aleksey	stulnikov	QA Tech Lead	manager	a.stulnikov@mobidev.biz		http://www.linkedin.com/in/stulnikov	mobidev			Ukraine		01/09/2017	500
+Aleksandr Suhomlin	aleksandr	suhomlin	Logist	entry	a.suhomlin@kernel.ua		http://www.linkedin.com/in/aleksandr-suhomlin-1b5757a7	kernel			Ukraine		01/11/2012	92
+Artem Sukhina	artem	sukhina	CEO	c_suite	a.sukhina@leadlab.com.ua		http://www.linkedin.com/in/artem-sukhina-3546384b	leadlab ukraine			Ukraine		01/03/2012	403
+Alina Sukhova	alina	sukhova	Personal Assistant to the MP	entry	a.sukhova@sklaw.com.ua		http://www.linkedin.com/in/alina-sukhova-62052a30	spenser  kauffmann			Ukraine		01/01/2012	24
+Andrey Sulimko	andrey	sulimko	Senior PHP/Magento Developer	senior	a.sulimko@sam-solutions.com		http://www.linkedin.com/in/andrey-sulimko-041baba6	sam solutions			Ukraine		01/05/2010	500
+Alona Sulyma	alona	sulyma	Ð¡Ñ‚. Ñ„Ð¸Ð½Ð°Ð½ÑÐ¾Ð²Ñ‹Ð¹ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸Ðº	entry	a.sulyma@fozzy.ua		http://www.linkedin.com/in/alona-sulyma-178b97ba	fozzy group			Ukraine			2
+Andrii Sulymka	andrii	sulymka	JS Engineer	entry	a.sulymka@mobidev.biz		http://www.linkedin.com/in/andrii-sulymka-38348083	mobidev			Ukraine		01/03/2013	500
+Anton Suntsov	anton	suntsov	Marketing analysis specialist	entry	a.suntsov@nsbc.kiev.ua		http://www.linkedin.com/in/anton-suntsov-a002a719	nsbc ukrainskiy proryv			Ukraine		01/06/2012	496
+Andrew Sushyi	andrew	sushyi	front-end developer, web designer	entry	a.sushyi@emrahozturk.com		http://www.linkedin.com/in/andrew-sushyi-b2940875	 freelancer			Ukraine		01/08/2015	32
+Alexandra Suslich	alexandra	suslich	Director	director	a.suslich@controlpay.com		http://www.linkedin.com/in/alexandrasuslich	controlpay bv global freight audit			Ukraine		01/02/2015	500
+Artem Suvorov	artem	suvorov	Web Developer/Engineer	entry	a.suvorov@owox.com	+380993808474	http://www.linkedin.com/in/artem-suvorov-a4134838	owox inc			Ukraine		01/01/2011	
+Alexandr Sych	alexandr	sych	Specialist of the Department of merchandising	entry	a.sych@fozzy.ua		http://www.linkedin.com/in/alexandr-sych-519433107	fozzy group			Ukraine		01/02/2010	2
+Andrei Syedykh	andrei	syedykh	Leading Economist	entry	a.syedykh@metalexpert-group.com		http://www.linkedin.com/in/andrei-syedykh-ph-d-3b01a823	metal expert   			Ukraine		01/06/2016	500
+Anna Symonchuk	anna	symonchuk	Project Leader	entry	a.symonchuk@intetics.com		http://www.linkedin.com/in/anna-symonchuk-86aaa824	intetics inc			Ukraine		01/08/2011	228
+Andriy Syniak	andriy	syniak	Student Relations & Informational support Manager	manager	a.syniak@britishmba.in.ua		http://www.linkedin.com/in/andriy-syniak-50639bb6	edinburgh business school eastern europe			Ukraine		01/09/2015	154
+Anastasiia Syniepolska	anastasiia	syniepolska	Business Analyst	entry	a.syniepolska@eleks.com		http://www.linkedin.com/in/anastasiia-syniepolska-132a7936	eleks			Ukraine		01/12/2012	500
+Anna Syva	anna	syva	HRD	entry	a.syva@bank.com.ua		http://www.linkedin.com/in/annasyva	pivdennyi bank			Ukraine		01/03/2016	500
+Anastasia Tachkovskaya	anastasia	tachkovskaya	Junior Web Developer	entry	a.tachkovskaya@netpeak.net		http://www.linkedin.com/in/anastasia-tachkovskaya-382892a9	internet marketing agency netpeak			Ukraine		01/11/2015	19
+Anna Tarasenko	anna	tarasenko	Account Manager	manager	a.tarasenko@mobidev.biz		http://www.linkedin.com/in/anna-tarasenko-302b5883	mobidev			Ukraine		01/10/2015	194
+Anton Telyanov	anton	telyanov	Programmer 1C	entry	a.telyanov@fcbm-ua.com		http://www.linkedin.com/in/anton-telyanov-3976b468	fcb management			Ukraine		01/02/2007	77
+Anna Ten	anna	ten	SMM manager	manager	a.ten@protrader.com		http://www.linkedin.com/in/anna-ten-a72414aa	pfsoft			Ukraine		01/01/2016	126
+Aleksandr Tetyevskyy	aleksandr	tetyevskyy	Co-Founder, Managing Director	founder	a.tetyevskyy@qds.com.ua		http://www.linkedin.com/in/aleksandr-tetyevskyy-73b05454	qds development			Ukraine		01/09/2011	89
+Alexander Timoshenko	alexander	timoshenko	PHP Developer	entry	a.timoshenko@netpeak.net		http://www.linkedin.com/in/alexander-timoshenko-13b16949	internet marketing agency netpeak			Ukraine		01/01/2012	500
+Andrii Tkachenko	andrii	tkachenko	Software developer	entry	a.tkachenko@intetics.com		http://www.linkedin.com/in/andrii-tkachenko-492a31a5	intetics inc			Ukraine		01/11/2013	41
+Andrii Tomash	andrii	tomash	Project manager	manager	a.tomash@netpeak.net		http://www.linkedin.com/in/andriitomash	internet marketing agency netpeak			Ukraine		01/10/2016	146
+Artem Topol	artem	topol	PTMC Head of business development	head	a.topol@protrader.com		http://www.linkedin.com/in/artem-topol-b18b44134	pfsoft			Ukraine		01/06/2016	126
+Alexander Toropov	alexander	toropov	Senior Full Stack Python Developer	senior	a.toropov@svitla.com		http://www.linkedin.com/in/alexandertoropov	svitla systems inc			Ukraine		01/02/2018	500
+Anna Tovkun	anna	tovkun	Business Unit Manager	manager	a.tovkun@qbikz.com		http://www.linkedin.com/in/anna-tovkun-1b922069	qbikz			Ukraine		01/11/2012	292
+Anton Tretinichenko	anton	tretinichenko	Account Manager	manager	a.tretinichenko@samsung.com		http://www.linkedin.com/in/anton-tretinichenko-4a262a43	samsung electronics			Ukraine		01/06/2015	500
+Alexey Trofimenko	alexey	trofimenko	Specialist of the information security department	entry	a.trofimenko@sbrf.com.ua		http://www.linkedin.com/in/alexey-trofimenko-1329263	sberbank public jointstock company			Ukraine		01/04/2011	178
+Andrey Tsymbal	andrey	tsymbal	HVAC engineer	entry	a.tsymbal@archimatika.com		http://www.linkedin.com/in/andrey-tsymbal-16170049	archimatika			Ukraine		01/05/2010	240
+Artem Turchyn	artem	turchyn	IT Business Analyst	entry	a.turchyn@avonfoundation.org		http://www.linkedin.com/in/artem-turchyn-153a42117	avon			Ukraine		01/11/2013	338
+Artem Turovych	artem	turovych	Implementation specialist for OTM	entry	a.turovych@controlpay.com		http://www.linkedin.com/in/artemturovych	controlpay bv global freight audit			Ukraine		01/08/2014	139
+Alex Tuzhylin	alex	tuzhylin	Business Solutions Consultant	entry	a.tuzhylin@ifsukraine.com		http://www.linkedin.com/in/alex-tuzhylin-94826244	alter systems ifs ukraine			Ukraine		01/01/2015	155
+Anastasiya Tytarenko	anastasiya	tytarenko	Development manager for partners network	partner	a.tytarenko@terrasoft.ru		http://www.linkedin.com/in/anastasiya-tytarenko-4b25a399	terrasoft			Ukraine		01/07/2015	222
+Anna Urusova	anna	urusova	Junior partner	partner	a.urusova@omp.ua		http://www.linkedin.com/in/anna-urusova-b9060259	law offices of omp			Ukraine		01/02/2008	40
+Anastasia Usacheva	anastasia	usacheva	CFO	c_suite	a.usacheva@kernel.ua		http://www.linkedin.com/in/usacheva	kernel			Ukraine		01/01/2003	500
+Alexey Ustenko	alexey	ustenko	QA Team Lead	manager	a.ustenko@lucky-labs.com		http://www.linkedin.com/in/alexey-ustenko-26b5ab7b	lucky labs			Ukraine		01/12/2015	361
+Alexander Vakaliuk	alexander	vakaliuk	Programmer	entry	a.vakaliuk@emrahozturk.com		http://www.linkedin.com/in/alexander-vakaliuk-31b71510b	 freelancer			Ukraine		01/12/2009	58
+Anton Vakolyuk	anton	vakolyuk	Head of structural unit (international transportation)	head	a.vakolyuk@fozzy.ua		http://www.linkedin.com/in/vakolyuk	fozzy group			Ukraine		01/01/2016	500
+Alexander Varenich	alexander	varenich	Analyst at Department of analytics and budgeting	entry	a.varenich@veres.com.ua		http://www.linkedin.com/in/alexander-varenich-98975638	veres group			Ukraine		01/03/2011	118
+Anastasia Vasilenko	anastasia	vasilenko	Data Entry Specialist	entry	a.vasilenko@intetics.com		http://www.linkedin.com/in/anastasia-vasilenko-32b545116	intetics inc			Ukraine		01/01/2017	1
+Anton Vasilev	anton	vasilev	Magento Tech Lead / System Architect	manager	a.vasilev@fiduciasoft.com		http://www.linkedin.com/in/toxabes	fiduciasoft			Ukraine		01/12/2015	88
+Alexey Vasiluk	alexey	vasiluk	Software Web Developer	entry	a.vasiluk@soft-group.com		http://www.linkedin.com/in/alexeyvasiluk	soft group ukraine			Ukraine		01/07/2016	500
+Aleksandra Vasina	aleksandra	vasina	Ð ÑƒÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ Ð´ÐµÐ¿Ð°Ñ€Ñ‚Ð°Ð¼ÐµÐ½Ñ‚Ð° ÑÐ½Ð°Ð±Ð¶ÐµÐ½Ð¸Ñ	entry	a.vasina@fozzy.ua		http://www.linkedin.com/in/aleksandra-vasina-00117ab7	fozzy group			Ukraine			72
+Alexandra Vasylenko	alexandra	vasylenko	Senior Counsel	senior	a.vasylenko@sdm-partners.com		http://www.linkedin.com/in/alexandra-vasylenko-62b88030	sdm partners llc law firm			Ukraine		01/08/2008	110
+Asya Vavilova	asya	vavilova	geocoder	entry	a.vavilova@intetics.com		http://www.linkedin.com/in/asya-vavilova-871797a2	intetics inc			Ukraine		01/07/2011	5
+Andrey Venzhyk	andrey	venzhyk	Middle C#/SQL Developer	entry	a.venzhyk@terrasoft.ru		http://www.linkedin.com/in/andrey-venzhyk-2b7920a7	terrasoft			Ukraine		01/06/2017	500
+Andrey Verbovetsky	andrey	verbovetsky	Deputy CTO	c_suite	a.verbovetsky@1plus1.ua		http://www.linkedin.com/in/andrey-verbovetsky-5700bb48	11 media			Ukraine		01/12/2012	70
+Aleksey Verevkin	aleksey	verevkin	System Administrator	entry	a.verevkin@mobilunity.com		http://www.linkedin.com/in/aleksey-verevkin-bb2399121	mobilunity			Ukraine			1
+Anna Vidomenko	anna	vidomenko	Key Account Manager (B2Ð¡ /Telecom & IT products/)	manager	a.vidomenko@samsung.com		http://www.linkedin.com/in/anna-vidomenko-2374113a	samsung electronics			Ukraine		01/04/2013	253
+Artur Vinogradov	artur	vinogradov	Php Developer/Team Lead	manager	a.vinogradov@svitla.com		http://www.linkedin.com/in/artur-vinogradov-07aa917b	svitla systems inc			Ukraine		01/10/2016	388
+Aleksandr Vnukov	aleksandr	vnukov	iOS Developer	entry	a.vnukov@crysberry.com		http://www.linkedin.com/in/aleksandr-vnukov-0a261b5b	crysberry studio			Ukraine			500
+Albina Volchenko	albina	volchenko	Project Manager	manager	a.volchenko@promodo.com		http://www.linkedin.com/in/albina-volchenko-53061591	promodo			Ukraine		01/09/2016	404
+Alexey Volkomorov	alexey	volkomorov	Technical project manager	manager	a.volkomorov@pe.com.ua		http://www.linkedin.com/in/vavalexus	premier expo ite ukraine			Ukraine		01/09/2006	145
+Andrey Voronov	andrey	voronov	Project Manager	manager	a.voronov@aimprosoft.com		http://www.linkedin.com/in/voronovandrey	aimprosoft			Ukraine		01/12/2015	402
+Anatolii Voronov	anatolii	voronov	Salesforce Developer	entry	a.voronov@synebo.com		http://www.linkedin.com/in/anatolii-voronov-596417116	synebo  salesforce services			Ukraine		01/04/2016	9
+Andrii Vovk	andrii	vovk	C++ / Qt Developer	entry	a.vovk@keepsolid.com		http://www.linkedin.com/in/andrii-vovk-229369b4	keepsolid inc			Ukraine		01/11/2016	405
+Andrew Wacker	andrew	wacker	Tech Lead	manager	a.wacker@spd-ukraine.com		http://www.linkedin.com/in/andrew-wacker-564b671a	spdukraine			Ukraine		01/01/2018	460
+Alexandra Woods	alexandra	woods	Sales Manager	manager	a.woods@epom.com		http://www.linkedin.com/in/alexiewoods	epom			Ukraine		01/04/2014	500
+Anastasiia Yaloveha	anastasiia	yaloveha	GIS Specialist	entry	a.yaloveha@intetics.com		http://www.linkedin.com/in/anastasiia-yaloveha-93005012b	intetics inc			Ukraine			18
+Andrew Yaroshevych	andrew	yaroshevych	Sales analyst supervisor	manager	a.yaroshevych@avonfoundation.org		http://www.linkedin.com/in/andrew-yaroshevych-124261111	avon			Ukraine			5
+Anatolii Yavorskyi	anatolii	yavorskyi	Senior Javascript developer	senior	a.yavorskyi@soft-group.com		http://www.linkedin.com/in/anatolii-yavorskyi-67041aa7	soft group ukraine			Ukraine		01/04/2012	58
+Anny Yegorova	anny	yegorova	Designer	entry	a.yegorova@astoundcommerce.com		http://www.linkedin.com/in/anny-yegorova-707b8a61	astound commerce			Ukraine		01/02/2014	249
+Anna Yesipenko	anna	yesipenko	Partner Product Manager	partner	a.yesipenko@bpmonline.com		http://www.linkedin.com/in/annayesipenko	bpmonline			Ukraine		01/10/2017	500
+Anna Yevzhenko	anna	yevzhenko	sales support manager	manager	a.yevzhenko@terrasoft.ru		http://www.linkedin.com/in/anna-yevzhenko-939410b8	terrasoft			Ukraine		01/03/2016	17
+Alexander Yufetov	alexander	yufetov	Developer	entry	a.yufetov@quantumobile.com		http://www.linkedin.com/in/alexander-yufetov-557b2711a	quantuminc			Ukraine		01/09/2016	57
+Alexander Yukhno	alexander	yukhno	Chief of Project office	entry	a.yukhno@fozzy.ua		http://www.linkedin.com/in/alexanderyukhno	fozzy group			Ukraine		01/01/2012	477
+Andrew Zabolotniy	andrew	zabolotniy	Deputy Commercial Director chain of hypermarkets 'Fozzy'	director	a.zabolotniy@fozzy.ua		http://www.linkedin.com/in/andrew-zabolotniy-95b81b8b	fozzy group			Ukraine		01/02/2017	459
+Andrii Zadorozhnii	andrii	zadorozhnii	Co-Founder	founder	a.zadorozhnii@synrc.com		http://www.linkedin.com/in/andrii-zadorozhnii-6768405	synrc research center sro			Ukraine		01/04/2007	389
+Anna Zagorodniuk	anna	zagorodniuk	IT Recruiter	entry	a.zagorodniuk@astoundcommerce.com		http://www.linkedin.com/in/annazagorodnuik	astound commerce			Ukraine		01/01/2015	500
+Aleksandr Zakatov	aleksandr	zakatov	Magento developer	entry	a.zakatov@sam-solutions.com		http://www.linkedin.com/in/aleksandr-zakatov-92812092	sam solutions			Ukraine		01/05/2011	239
+Andrew Zavadskyi	andrew	zavadskyi	PHP Software Architect	entry	a.zavadskyi@levi9.com		http://www.linkedin.com/in/andrew-zavadskyi-185a6014	levi9 technology services			Ukraine		01/07/2015	358
+Anton Zavaliy	anton	zavaliy	Game-Designer	entry	a.zavaliy@program-ace.com		http://www.linkedin.com/in/anton-zavaliy-6a43178	programace			Ukraine		01/10/2009	275
+Anastasia Zaytseva	anastasia	zaytseva			a.zaytseva@program-ace.com		http://www.linkedin.com/in/anastasia-zaytseva-782473122	programace			Ukraine			157
+Anton Zharov	anton	zharov	Recruiter specialist	entry	a.zharov@spd-ukraine.com		http://www.linkedin.com/in/anton-zharov-6358489b	spdukraine		Cherkas'ka oblast	Ukraine		01/07/2014	500
+Aleksandr Zhdanov	aleksandr	zhdanov	Head of Product Development Team (B2C)	head	a.zhdanov@ukrtelecom.ua		http://www.linkedin.com/in/aleksandrzhdanov	ukrtelecom			Ukraine		01/02/2016	375
+Anna Zhivotinskaya	anna	zhivotinskaya	HR Manager	manager	a.zhivotinskaya@os-system.com		http://www.linkedin.com/in/anna-zhivotinskaya-bb2b5982	ossystem			Ukraine		01/09/2013	10
+Artem Zhmud	artem	zhmud	js/c# developer	entry	a.zhmud@terrasoft.ru		http://www.linkedin.com/in/artem-zhmud-ba580bb6	terrasoft			Ukraine		01/09/2016	372
+Alex Zhuravlev	alex	zhuravlev	QA Engineer	entry	a.zhuravlev@prom.ua		http://www.linkedin.com/in/alex-zhuravlev-5601b210b	promua			Ukraine			1
+Anna Zinko	anna	zinko	Hotels Distribution Team Lead	manager	a.zinko@tickets.ua		http://www.linkedin.com/in/anna-zinko-32a403114	ticketsua			Ukraine			33
+Anastasia Zinovenko	anastasia	zinovenko	Ð”Ð¸ÐºÑ‚Ð¾Ñ€ Ð½Ð° Ñ‚ÐµÐ»ÐµÐ²Ð¸Ð´ÐµÐ½Ð¸Ð¸	entry	a.zinovenko@1plus1.ua		http://www.linkedin.com/in/anastasia-zinovenko-931654112	11 media			Ukraine		01/01/2014	53
+Anastasiia Zolotarova	anastasiia	zolotarova	Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€	entry	a.zolotarova@fozzy.ua		http://www.linkedin.com/in/anastasiia-zolotarova-35559275	fozzy group			Ukraine			1
+Anton Zozulya	anton	zozulya	Senior SEO	senior	a.zozulya@seoz.pro		http://www.linkedin.com/in/anton-zozulya-294b602b	seoz			Ukraine		14/06/2017	
+Andrey Zymukha	andrey	zymukha			a.zymukha@astoundcommerce.com		http://www.linkedin.com/in/andrey-zymukha-720a713	astound commerce			Ukraine			222
+Ruslana A4s12	ruslana	a4s12	Ð´ÐµÑ€Ð¶ÑÐ»ÑƒÐ¶Ð±Ð¾Ð²ÐµÑ†ÑŒ	entry	a4s12@test.com		http://www.linkedin.com/in/ruslana-a4s12-1988326a	xyz			Ukraine			2
+Artem Zubkevich	artem	zubkevich	Designer, It-entrepreneur	entry	a@zubkevich.com		http://www.linkedin.com/in/artemzubkevich	artem zubkevich			Ukraine		01/08/2013	
+Alexander Belchikov	alexander	belchikov	Senior QA Engineer	senior	a_belchikov@wargaming.net		http://www.linkedin.com/in/alexbelk	wargaming			Ukraine		01/04/2016	162
+Andrey Chernenko	andrey	chernenko	3D Artist	entry	a_chernenko@wargaming.net		http://www.linkedin.com/in/andreychernenko	wargaming			Ukraine		01/05/2013	222
+Andrei Fornwald	andrei	fornwald	Senior Java Developer	senior	a_fornwald@wargaming.net		http://www.linkedin.com/in/andrei-fornwald-0248435	wargaming			Ukraine		01/12/2012	500
+Andrii Gerasymchuk	andrii	gerasymchuk	System Analyst	entry	a_gerasymchuk@wargaming.net		http://www.linkedin.com/in/andrii-gerasymchuk-a1835553	wargaming			Ukraine		01/08/2016	369
+Alice Gurska	alice	gurska	Game Designer	entry	a_gurska@wargaming.net		http://www.linkedin.com/in/alice-gurska-95b61424	wargaming			Ukraine		01/08/2015	188
+Alexander Kamenev	alexander	kamenev	Ð”Ð¸ÐºÑ‚Ð¾Ñ€, ÐœÐ¾Ð½Ñ‚Ð°Ð¶ÐµÑ€	entry	a_kamenev@wargaming.net		http://www.linkedin.com/in/alexander-kamenev-248514114	wargaming			Ukraine		01/12/2013	5
+Alexandr Kharchenko	alexandr	kharchenko	Product Manager	manager	a_kharchenko@wargaming.net		http://www.linkedin.com/in/alexandr-kharchenko-b6878b37	wargaming			Ukraine		01/05/2014	265
+Andrii Kozyra	andrii	kozyra	Animation Designer (World of Tanks)	entry	a_kozyra@wargaming.net		http://www.linkedin.com/in/kozyra	wargaming			Ukraine		01/03/2016	268
+Anna Kunakova	anna	kunakova	Learning And Development Specialist	entry	a_kunakova@wargaming.net		http://www.linkedin.com/in/annakunakova	wargaming			Ukraine		01/10/2016	500
+Andrew Obolenskyy	andrew	obolenskyy	Python Developer	entry	a_obolenskyy@wargaming.net		http://www.linkedin.com/in/andrew-obolenskyy-38662623	wargaming			Ukraine		01/11/2014	200
+Aleksandr Pindyk	aleksandr	pindyk	Team Lead at Wargaming.net	manager	a_pindyk@wargaming.net		http://www.linkedin.com/in/aleksandr-pindyk-791bb52b	wargaming			Ukraine		01/10/2016	500
+Anton Plastovets	anton	plastovets	Lead Artist	manager	a_plastovets@wargaming.net		http://www.linkedin.com/in/anton-plastovets-4932b635	wargaming			Ukraine		01/05/2015	426
+Alexey Terenik	alexey	terenik	Project Manager	manager	a_terenik@wargaming.net		http://www.linkedin.com/in/alexey-terenik-ab128a44	wargaming			Ukraine		01/11/2013	347
+Artem Voronkin	artem	voronkin	Python developer	entry	a_voronkin@wargaming.net		http://www.linkedin.com/in/artem-voronkin-aa1ba527	wargaming			Ukraine		01/08/2015	446
+Avdukhov Yaroslav	avdukhov	yaroslav	Creator Video	entry	a_yaroslav@wargaming.net		http://www.linkedin.com/in/avdukhov-yaroslav-42b463111	wargaming			Ukraine		01/02/2014	3
+Alexey Yatshyshin	alexey	yatshyshin	Senior Flash Developer	senior	a_yatshyshin@wargaming.net		http://www.linkedin.com/in/alexey-yatshyshin-b2a45167	wargaming			Ukraine		01/02/2014	124
+Alexandr A	alexandr	a	stogov	entry	aa@121directresponse.com		http://www.linkedin.com/in/alexandr-a-00108715	1 2 1 direct response			Ukraine			1
+Andrey A	andrey	a	ÑÑƒÐ¿ÐµÑ€ÐºÐ°Ñ€Ð³Ð¾	entry	aa@cosulich.it		http://www.linkedin.com/in/andrey-gaidar-a-a-087809b5	fratelli cosulich group			Ukraine			23
+Aaa Vvvv	aaa	vvvv	Key Account Manager	manager	aaa.vvvv@mts.ru		http://www.linkedin.com/in/aaa-vvvv-71781b7a	mts group			Ukraine		01/12/2010	9
+Andrii Abramov	andrii	abramov	Software Engineer	entry	aabramov@softserveinc.com		http://www.linkedin.com/in/andrii-abramov	softserve			Ukraine		01/06/2016	195
+Andrey Afanasyev	andrey	afanasyev	Builds and Patches Team Lead	manager	aafanasyev@luxoft.com		http://www.linkedin.com/in/andrey-afanasyev-06a39056	luxoft			Ukraine		01/05/2013	13
+Andrii Ageiev	andrii	ageiev	DevOps	entry	aageiev@provectus.com		http://www.linkedin.com/in/andriiageiev	provectus			Ukraine		01/08/2017	500
+Andriy Aheyev	andriy	aheyev	SDO Competence Manager	manager	aaheyev@softserveinc.com		http://www.linkedin.com/in/aheyev	softserve			Ukraine		01/01/2016	371
+Alexander Ivanov	alexander	ivanov	Lead Business Analyst	manager	aaivanov1989@yandex.ua		http://www.linkedin.com/in/alexander-ivanov-733aa761	epam systems			Ukraine		01/07/2015	
+Andrey Akifiev	andrey	akifiev	SDET	entry	aakifiev@edgar-online.com		http://www.linkedin.com/in/andreyakifiev	edgar online a division of rr donnelley  sons company			Ukraine		01/09/2014	500
+Alex Aleks	alex	aleks	dir	entry	aaleks@assa.com.mx		http://www.linkedin.com/in/alex-aleks-9079b6aa	assa			Ukraine			3
+Artem Alexandrov	artem	alexandrov	iOS Team Lead	manager	aalexandrov@brightgrove.com		http://www.linkedin.com/in/artem-alexandrov-16355465	brightgrove ltd			Ukraine		01/01/2018	193
+Anna Alieksandrova	anna	alieksandrova	Project Manager	manager	aalieksandrova@softserveinc.com		http://www.linkedin.com/in/anna-alieksandrova-10a58785	softserve			Ukraine		01/10/2015	77
+Arthur Aliiev	arthur	aliiev	Groovy Developer	entry	aaliiev@softserveinc.com		http://www.linkedin.com/in/arthur-aliiev-75825369	softserve			Ukraine		01/02/2018	500
+Anton Aloshyn	anton	aloshyn	Program Development Assistant (UCBI/USAID)	entry	aaloshyn@chemonics.com		http://www.linkedin.com/in/antonaloshyn	chemonics international			Ukraine		01/06/2017	500
+Alexander Alpatov	alexander	alpatov	Front-End Developer	entry	aalpatov@gbsfo.com		http://www.linkedin.com/in/alexanderalpatov	gbsfo  custom software solutions provider			Ukraine		01/10/2016	111
+Alexander Amelin	alexander	amelin	SVP Client Success	vp	aamelin@softserveinc.com		http://www.linkedin.com/in/alexander-amelin-b782244	softserve			Ukraine		01/02/2016	500
+Andrii Andreiev	andrii	andreiev	iOS Developer	entry	aandreiev@pdffiller.com		http://www.linkedin.com/in/commovere	pdffillercom			Ukraine		01/11/2016	247
+Alexander Andriashevich	alexander	andriashevich	Systems Engineer	entry	aandriashevich@avaya.com		http://www.linkedin.com/in/andriashevich	avaya			Ukraine		01/04/2010	267
+Alexandr Andrienko	alexandr	andrienko	Developer	entry	aandrienko@luxoft.com		http://www.linkedin.com/in/alexandr-andrienko-4b25a967	luxoft			Ukraine		01/08/2013	168
+Andrii Andriichuk	andrii	andriichuk	SAP Hybris Developer	entry	aandriichuk@remit.se		http://www.linkedin.com/in/andrii-andriichuk-b308284a	remit ltd			Ukraine		01/04/2015	185
+Anton Andriyan	anton	andriyan	Wordpress Developer	entry	aandriyan@brightgrove.com		http://www.linkedin.com/in/anton-andriyan-37b60057	brightgrove ltd			Ukraine		01/03/2017	351
+Alona Androshchuk	alona	androshchuk	C# Developer	entry	aandroshchuk@luxoft.com		http://www.linkedin.com/in/alonaandro	luxoft			Ukraine		01/07/2017	56
+Andruha Andruha	andruha	andruha	kontroler	entry	aandruha@leonifo.com		http://www.linkedin.com/in/andruha-andruha-2072a9102	leoni fiber optics inc			Ukraine			1
+Andrey Andruschenko	andrey	andruschenko	Head of Procurement	head	aandruschenko@optimapharm.ua		http://www.linkedin.com/in/andrey-andruschenko-81666a120	     jv optimapharm ltd			Ukraine			1
+Anton Andrushenko	anton	andrushenko	Lead Project Manager	manager	aandrushenko@justcoded.com		http://www.linkedin.com/in/aandrushenko	justcoded			Ukraine		01/11/2015	500
+Alexander Andrushkiv	alexander	andrushkiv	Java Software Engineer	entry	aandrushkiv@n-ix.com		http://www.linkedin.com/in/alexander-andrushkiv-74b87075	nix			Ukraine		01/04/2016	475
+Aleksandr Andrushko	aleksandr	andrushko	Senior scala developer/Tech leader	senior	aandrushko@luxoft.com		http://www.linkedin.com/in/aleksandr-andrushko-4b844643	luxoft			Ukraine		01/12/2013	500
+Alex Anthon	alex	anthon	Marketing Manager	manager	aanthon@summit.uk.com		http://www.linkedin.com/in/alex-anthon-089819114	summit			Ukraine			180
+Andrey Antonov	andrey	antonov	Magento developer	entry	aantonov@magecom.net		http://www.linkedin.com/in/andrey-antonov-a31b39120	magecom			Ukraine		01/09/2012	288
+Anton Antoshchenko	anton	antoshchenko	Audit Assistant	entry	aantoshchenko@kpmg.ua		http://www.linkedin.com/in/antoshchenko	kpmg ukraine			Ukraine		01/09/2016	267
+Andrey Apps	andrey	apps	ÐÐ½Ð´Ñ€Ð¾Ð¸Ð´ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº	entry	aapps@jjdaudio.com		http://www.linkedin.com/in/andrey-apps-763462120	freelance			Ukraine		01/01/2014	40
+Alex Arbuzov	alex	arbuzov	Siebel Developer	entry	aarbuzov@datas-tech.com		http://www.linkedin.com/in/alex-arbuzov-6392b139	datas technology 			Ukraine		01/01/2016	135
+Artiom Argunov	artiom	argunov	Senior QA Engineer	senior	aargunov@insoft-global.com		http://www.linkedin.com/in/artiom-argunov-56410837	insoft global			Ukraine		01/05/2012	298
+Alexander Arhipenko	alexander	arhipenko	CTO	c_suite	aarhipenko@flyaps.com		http://www.linkedin.com/in/arhipenko	flyaps			Ukraine		01/11/2013	500
+Anton Aristov	anton	aristov	Senior Java Developer	senior	aaristov@luxoft.com		http://www.linkedin.com/in/anton-aristov-22b57539	luxoft			Ukraine		01/06/2013	215
+Andriy Arlamovskiy	andriy	arlamovskiy	java developer	entry	aarlamovskiy@softserveinc.com		http://www.linkedin.com/in/andriy-arlamovskiy-73455649	softserve			Ukraine		01/05/2012	257
+Andrey Arsatyants	andrey	arsatyants	Java Architect	entry	aarsatyants@eisgroup.com		http://www.linkedin.com/in/andrey-arsatyants-2318693	eis group ltd			Ukraine		01/08/2008	246
+Artem Artemenko	artem	artemenko	Java Developer	entry	aartemenko@eisgroup.com		http://www.linkedin.com/in/artem-artemenko-87b02056	eis group ltd			Ukraine		01/06/2015	452
+Andrey Artemenko	andrey	artemenko	ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð¼Ð¾Ð½Ñ‚ÐµÑ€	entry	aartemenko@ukrtelecom.ua		http://www.linkedin.com/in/andrey-artemenko-5902a410a	ukrtelecom			Ukraine			1
+Andriy Arterchuk	andriy	arterchuk	Frontend Developer	entry	aarterchuk@empeek.net		http://www.linkedin.com/in/andriy-arterchuk	empeek  enterpriselevel web development			Ukraine		01/08/2017	227
+Anton Artyukh	anton	artyukh	Senior Software Developer	senior	aartyukh@exadel.com		http://www.linkedin.com/in/deeperton	exadel			Ukraine		01/08/2014	328
+Aik Arutunian	aik	arutunian	Head of Marketing	head	aarutunian@reinvently.com		http://www.linkedin.com/in/aikarutunian	reinvently			Ukraine		01/06/2016	500
+Alex Astashkin	alex	astashkin	QA Engineer	entry	aastashkin@intropro.com		http://www.linkedin.com/in/alex-astashkin-08a0a9a8	intropro			Ukraine		01/01/2015	2
+Adenuga Augustina	adenuga	augustina	Student Ambassador	entry	aaugustina@figure1.com		http://www.linkedin.com/in/adenuga-oluwakemi-augustina-62279546	figure 1			Ukraine		01/06/2015	72
+Anna Aybetova	anna	aybetova	Freelance Photographer; Illustrator	entry	aaybetova@shutterstock.com		http://www.linkedin.com/in/anna-aybetova-50ba1332	shutterstock			Ukraine		01/08/2014	75
+Artem Azaraev	artem	azaraev	Senior Software Developer	senior	aazaraev@exari.com		http://www.linkedin.com/in/artem-azaraev-5a2a9561	exari systems			Ukraine		01/02/2016	184
+Artem Azarov	artem	azarov	Front-End developer	entry	aazarov@cogniance.com		http://www.linkedin.com/in/artem-azarov-a72a7422	cogniance			Ukraine		01/05/2013	231
+Andriy Babala	andriy	babala	Delivery Director	director	ababala@softserveinc.com		http://www.linkedin.com/in/babalaandriy	softserve			Ukraine		01/10/2014	500
+Andrey Babich	andrey	babich	web-developer	entry	ababich@varien.com		http://www.linkedin.com/in/andreybabich	varien			Ukraine			500
+Alexander Baev	alexander	baev	QA	entry	abaev@exadel.com		http://www.linkedin.com/in/alexander-baev-4b6a8b48	exadel			Ukraine		01/07/2012	116
+Andrii Baida	andrii	baida	Software Engineer	entry	abaida@lohika.com		http://www.linkedin.com/in/andriibaida	lohika			Ukraine			296
+Alexander Bakumenko	alexander	bakumenko	Projects Manager	manager	abakumenko@crh.com		http://www.linkedin.com/in/alexander-bakumenko-592843ab	crh			Ukraine			99
+Andrew Balushka	andrew	balushka	CEO	c_suite	abalushka@devabit.com		http://www.linkedin.com/in/andrew-balushka-69630a4	devabit			Ukraine		01/03/2014	500
+Alex Bandak	alex	bandak	Java EE Developer	entry	abandak@intropro.com		http://www.linkedin.com/in/alex-bandak-3801a814	intropro			Ukraine		01/06/2014	109
+Andriy Baran	andriy	baran	QA Engineer	entry	abaran@n-ix.com		http://www.linkedin.com/in/andriy-baran-36a67b101	nix			Ukraine		01/07/2017	268
+Andrey Baranenko	andrey	baranenko	Senior software engineer	senior	abaranenko@cranems.com		http://www.linkedin.com/in/andreybaranenko	crane merchandising systems			Ukraine		01/12/2010	238
+Andrey Baranov	andrey	baranov	senior node.js developer	senior	abaranov@luxoft.com		http://www.linkedin.com/in/andrey-baranov-a3726ab8	luxoft			Ukraine		01/10/2017	500
+Andriy Barmits	andriy	barmits	Java Developer	entry	abarmits@softserveinc.com		http://www.linkedin.com/in/andriy-barmits-07a666b4	softserve			Ukraine			17
+Artem Bashlak	artem	bashlak	QA Automation Engineer	entry	abashlak@waverleysoftware.com		http://www.linkedin.com/in/abashlak	waverley software			Ukraine		01/09/2017	500
+Alexander Bausk	alexander	bausk	Fullstack developer	entry	abausk@webinerds.com		http://www.linkedin.com/in/alexbausk	webinerds			Ukraine		01/08/2016	500
+Aliona Bazhan	aliona	bazhan	Supervisor	manager	abazhan@kpmg.ua		http://www.linkedin.com/in/aliona-bazhan-6843785a	kpmg ukraine			Ukraine		01/10/2012	210
+Andrey Bazhanov	andrey	bazhanov	Front-end developer	entry	abazhanov@shakuro.com		http://www.linkedin.com/in/andrey-bazhanov-42654653	shakuro			Ukraine		01/09/2014	222
+Anatolii Bazko	anatolii	bazko	Developer	entry	abazko@redhat.com		http://www.linkedin.com/in/anatoliybazko	red hat		Cherkas'ka oblast	Ukraine		01/06/2017	297
+Abbas Fazilat	abbas	fazilat	DENTIST	entry	abbas.fazilat@nmu.co.uk		http://www.linkedin.com/in/abbas-fazilat-a896a84b	nmu			Ukraine			1
+Abdullah Dabanli	abdullah	dabanli	Finance Director	director	abdullah.dabanli@colins.com.tr		http://www.linkedin.com/in/abdullah-dabanli-a7b11a98	colins			Ukraine		01/04/2014	106
+Artem Bebik	artem	bebik	Content Manager	manager	abebik@n-ix.com		http://www.linkedin.com/in/artem-bebik	nix			Ukraine		01/11/2017	500
+Anatolii Bed	anatolii	bed	Senior Java/SQL Developer	senior	abed@intellias.ua		http://www.linkedin.com/in/anatolii-bed-5798007a	intellias			Ukraine		01/09/2017	224
+Andrew Bed	andrew	bed	Java Software Developer	entry	abed@softserveinc.com		http://www.linkedin.com/in/andrew-bed-ab803b9a	softserve			Ukraine		01/09/2010	165
+Aleksandr Belochkin	aleksandr	belochkin	Head of Labour and Motivation Unit - Deputy Head of HR	head	abelochkin@forward-bank.com		http://www.linkedin.com/in/aleksandr-belochkin-74254a24	forward bank			Ukraine		01/11/2014	500
+Andrey Belokon	andrey	belokon	Programmer	entry	abelokon@ukrtelecom.ua		http://www.linkedin.com/in/andrey-belokon-9330719a	ukrtelecom			Ukraine			9
+Aleksandr Belovol	aleksandr	belovol	Project Manager	manager	abelovol@dtek.com		http://www.linkedin.com/in/aleksandr-belovol-3246b9124	dtek			Ukraine		01/09/2016	70
+Anton Berezovskyi	anton	berezovskyi	Front-end Developer	entry	aberezovskyi@softserveinc.com		http://www.linkedin.com/in/anton-berezovskyi-bb6a23102	softserve			Ukraine		01/09/2013	150
+Andrey Bezhinaru	andrey	bezhinaru	Java Developer	entry	abezhinaru@provectus.com		http://www.linkedin.com/in/andrey-bezhinaru-0547ab91	provectus			Ukraine		01/04/2015	386
+Artem Bezlyubchenko	artem	bezlyubchenko	Android Developer	entry	abezlyubchenko@griddynamics.com		http://www.linkedin.com/in/artem-bezlyubchenko-02159093	grid dynamics			Ukraine		01/06/2017	197
+Anatolii Bezuhlyi	anatolii	bezuhlyi	Ð—Ð°ÑÑ‚ÑƒÐ¿Ð½Ð¸Ðº Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÐ° Ð’Ñ–Ð´Ð´Ñ–Ð»Ñƒ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ð¹Ð½Ð¾Ñ— Ð±ÐµÐ·Ð¿ÐµÐºÐ¸	entry	abezuhlyi@platinumbank.com.ua		http://www.linkedin.com/in/anatolii-bezuhlyi-info-sec	platinum bank 			Ukraine		01/07/2011	205
+Andriy Bezvikonny	andriy	bezvikonny	First Electro Technical Officer	entry	abezvikonny@rssc.com		http://www.linkedin.com/in/andriy-bezvikonny-89b34bb2	regent seven seas cruises			Ukraine		01/02/2016	106
+Alexander Bezzubov	alexander	bezzubov	Head of Cards development and support department	head	abezzubov@alfabank.ru		http://www.linkedin.com/in/alexander-bezzubov-61000610	alfabank			Ukraine			18
+Andriy Bidasyuk	andriy	bidasyuk	Software Developer	entry	abidasyuk@cqg.com		http://www.linkedin.com/in/andriy-bidasyuk-b2353080	cqg inc			Ukraine			36
+Alexey Bigun	alexey	bigun	Developer	entry	abigun@softserveinc.com		http://www.linkedin.com/in/alexey-bigun-320824b6	softserve			Ukraine		01/03/2014	140
+Anton Bil	anton	bil	Systems Engineer, IT	entry	abil@lohika.com		http://www.linkedin.com/in/anton-bil-6b021a96	lohika			Ukraine		01/04/2016	130
+Andriy Bilas	andriy	bilas	Developer software	entry	abilas@digisphere.net		http://www.linkedin.com/in/andriy-bilas-93b66510	digisphere inc			Ukraine		01/12/2006	15
+Andrey Bilenky	andrey	bilenky	Senior Analyst Grains & Oilseeds Black Sea	senior	abilenky@cofcointernational.com		http://www.linkedin.com/in/andrey-bilenky-329b5b5	cofco international			Ukraine		01/01/2014	500
+Andriy Bilokin	andriy	bilokin	Project manager	manager	abilokin@wwfcaucasus.org		http://www.linkedin.com/in/andriy-bilokin-4b234a11	wwf			Ukraine			12
+Andriy Biloshkurenko	andriy	biloshkurenko	3rd Engineer	entry	abiloshkurenko@sheffieldintl.net		http://www.linkedin.com/in/andriy-biloshkurenko-34b760b5	sheffield international			Ukraine		01/12/2016	179
+Anna Bilous	anna	bilous	Taxables Adviser	entry	abilous@serena.com		http://www.linkedin.com/in/anna-bilous-1b122758	serena software			Ukraine			56
+Andriy Bilous	andriy	bilous	QA Analyst	entry	abilous@zonedigital.com		http://www.linkedin.com/in/andriy-bilous-4b3a9378	zone			Ukraine		01/09/2015	238
+Alina Bilyk	alina	bilyk	HR Manager	manager	abilyk@eisgroup.com		http://www.linkedin.com/in/alina-bilyk-103101a0	eis group ltd			Ukraine		01/01/2017	500
+Andrii Bilyk	andrii	bilyk	Software Engineer	entry	abilyk@luxoft.com		http://www.linkedin.com/in/andriibilyk	luxoft			Ukraine			38
+Andrey Biryuk	andrey	biryuk	Software Engineer	entry	abiryuk@luxoft.com		http://www.linkedin.com/in/andrey-biryuk-a2a91959	luxoft			Ukraine		01/02/2017	500
+Ablialim Saliev	ablialim	saliev	Web Application Developer	entry	ablialim@scalr.com		http://www.linkedin.com/in/ablialim-saliev-743a1844	scalr			Ukraine		01/09/2016	220
+Anastasia Blokhina	anastasia	blokhina	Crew Manager	manager	ablokhina@atlasprofessionals.com		http://www.linkedin.com/in/anastasia-blokhina-a6779199	atlas professionals			Ukraine		01/01/2012	500
+Alexandra Bobina	alexandra	bobina	Delivery Manager	manager	abobina@netpulse.com		http://www.linkedin.com/in/alexandra-bobina-1609a481	netpulse			Ukraine		01/02/2017	500
+Alexey Bobok	alexey	bobok	Head of Technical support of Data-center	head	abobok@volia.com		http://www.linkedin.com/in/alexey-bobok-1753556	volia			Ukraine		01/01/2010	129
+Alexander Bobrovnik	alexander	bobrovnik	Developer	entry	abobrovnik@luxoft.com		http://www.linkedin.com/in/alexander-bobrovnik-58680659	luxoft			Ukraine			3
+Andrew Bobruiko	andrew	bobruiko	Test Engineer	entry	abobruiko@altareturn.com		http://www.linkedin.com/in/andrew-bobruiko-595341106	altareturn			Ukraine		01/09/2016	459
+Alyonabodnar Bodnar	alyonabodnar	bodnar	enteprener	entry	abodnar@fishkatour.com.ua		http://www.linkedin.com/in/alyonabodnar-bodnar-8009645b	travel agency fishka			Ukraine			1
+Aleksey Bodnia	aleksey	bodnia	Ruby Developer	entry	abodnia@gloriumtech.com		http://www.linkedin.com/in/abodnia	glorium technologies			Ukraine		01/01/2016	500
+Aleksey Boltivets	aleksey	boltivets	Founder and co-owner	owner	aboltivets@admixer.net		http://www.linkedin.com/in/aboltivets	admixer technologies			Ukraine		01/01/2009	500
+Andrey Bomko	andrey	bomko	Deputy GM	entry	abomko@mackiev.com		http://www.linkedin.com/in/andrey-bomko-b1a95235	software mackiev			Ukraine		01/04/2008	195
+Andrew Bondik	andrew	bondik	professor	entry	abondik@thedma.org		http://www.linkedin.com/in/andrew-bondik-a6707895	dma			Ukraine			1
+Angelina Boots	angelina	boots	ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð½Ð°Ð·Ð¸Ð½Ð°	entry	aboots@shopangelina.com		http://www.linkedin.com/in/angelina-boots-8550baa5	angelina			Ukraine			2
+Anastasiia Bordun	anastasiia	bordun	Hospitality	entry	abordun@cogniance.com		http://www.linkedin.com/in/anastasiia-bordun-3973503b	cogniance			Ukraine		01/08/2016	374
+Alexander Borisov	alexander	borisov	JAVA/J2EE Senior Developer	senior	aborisov@intropro.com		http://www.linkedin.com/in/alexander-borisov-58422610	intropro			Ukraine		01/01/2012	69
+Alexander Borlis	alexander	borlis	Seniour Java Developer	entry	aborlis@hotwire.com		http://www.linkedin.com/in/borlis	hotwire			Ukraine		01/05/2012	500
+Alex Borodin	alex	borodin	Wireless Engineer	entry	aborodin@winncom.com		http://www.linkedin.com/in/alex-borodin-587059145	winncom technologies			Ukraine			1
+Andrii Borovyk	andrii	borovyk	Java Developer	entry	aborovyk@brightgrove.com		http://www.linkedin.com/in/andrii-borovyk-a5688751	brightgrove ltd			Ukraine		01/09/2016	500
+Anton Borsch	anton	borsch	Senior Software Engineer	senior	aborsch@lohika.com		http://www.linkedin.com/in/anton-borsch-750a7b14	lohika			Ukraine		01/01/2017	294
+Aleksandr Borschuk	aleksandr	borschuk	Head of asset and liability management	head	aborschuk@platinumbank.com.ua		http://www.linkedin.com/in/aleksandr-borschuk-50119165	platinum bank 			Ukraine		01/02/2015	443
+Alex Bovkun	alex	bovkun	ÐµÐ»ÐµÐºÑ‚Ñ€Ð¾Ð¼Ð¾Ð½Ñ‚ÐµÑ€	entry	abovkun@ukrtelecom.ua		http://www.linkedin.com/in/alex-bovkun-070682131	ukrtelecom			Ukraine			2
+Alexander Boyarchuk	alexander	boyarchuk	Python Developer	entry	aboyarchuk@provectus.com		http://www.linkedin.com/in/alexander-boyarchuk-28411817	provectus			Ukraine		01/02/2017	200
+Abra Abra	abra	abra	ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€	entry	abra@deal.by		http://www.linkedin.com/in/abra-abra-853292121	  inst			Ukraine			1
+Abramova N	abramova	n	ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚	entry	abramova.n@arcelormittal.com		http://www.linkedin.com/in/abramova-n-5a5a32a6	arcelormittal			Ukraine		01/02/2009	43
+Andrii Branovskyi	andrii	branovskyi	ITAM	entry	abranovskyi@softserveinc.com		http://www.linkedin.com/in/andrii-branovskyi-3041a4b3	softserve			Ukraine			33
+Andrey Broker	andrey	broker	manager	manager	abroker@milkspecialties.com		http://www.linkedin.com/in/andrey-broker-95004a2a	msc			Ukraine			40
+Anna Bronytska	anna	bronytska	PL/SQL developer	entry	abronytska@luxoft.com		http://www.linkedin.com/in/anna-bronytska-shmitko-b8196230	luxoft			Ukraine		01/03/2017	407
+Alex Brotsman	alex	brotsman	Restaurant manager	manager	abrotsman@azamaraclubcruises.com		http://www.linkedin.com/in/alex-brotsman-a22482127	azamara club cruises			Ukraine			26
+Anton Brovkin	anton	brovkin	Software Engineer	entry	abrovkin@softserveinc.com		http://www.linkedin.com/in/antonbrovkin	softserve			Ukraine		01/05/2015	92
+Aleksandra Brushkovskaya	aleksandra	brushkovskaya	Senior Procurement Specialist	senior	abrushkovskaya@iom.int		http://www.linkedin.com/in/aleksandra-brushkovskaya-b931966a	iom  un migration			Ukraine		01/07/2015	86
+Abshir Abdullahi	abshir	abdullahi	not yet	entry	abshir@notforsalecampaign.org		http://www.linkedin.com/in/abshir-abdullahi-a0259950	not for sale			Ukraine			4
+Alina Bubliy	alina	bubliy	Cash-manager	manager	abubliy@lactalis.com.ua		http://www.linkedin.com/in/alina-bubliy-25979655	lactalis ukraine			Ukraine		01/10/2012	120
+Alex Budyak	alex	budyak	Java Developer	entry	abudyak@luxoft.com		http://www.linkedin.com/in/alex-budyak-491bb748	luxoft			Ukraine		01/06/2016	348
+Andriy Budzinskyy	andriy	budzinskyy	Senior Java Developer	senior	abudzinskyy@intellias.ua		http://www.linkedin.com/in/andriybudzinskyy	intellias			Ukraine		01/07/2017	500
+Alex Buganov	alex	buganov	Director of the Interoperability Department	director	abuganov@amcbridge.com		http://www.linkedin.com/in/alex-buganov-111b1151	amc bridge llc			Ukraine		01/07/2015	162
+Alexey Bugeda	alexey	bugeda	Junior developer c++	entry	abugeda@luxoft.com		http://www.linkedin.com/in/alexey-bugeda-9650b377	luxoft			Ukraine		01/02/2016	77
+Alexander Bukhtuev	alexander	bukhtuev	.net developer	entry	abukhtuev@lohika.com		http://www.linkedin.com/in/alexander-bukhtuev-73684a102	lohika			Ukraine		01/01/2014	67
+Alex Bulavintsev	alex	bulavintsev	Business Development Manager	manager	abulavintsev@supportyourapp.com		http://www.linkedin.com/in/alex-bulavintsev	supportyourapp			Ukraine		01/11/2016	143
+Anna Bulgakova	anna	bulgakova	FM Logistic	entry	abulgakova@fmlogistic.fr		http://www.linkedin.com/in/anna-bulgakova-3089056	fm logistic			Ukraine		01/12/2001	1
+Anna Bulyga	anna	bulyga	QA	entry	abulyga@softserveinc.com		http://www.linkedin.com/in/anna-bulyga-470a2740	softserve			Ukraine		01/11/2010	352
+Anna Burchanova	anna	burchanova	Test Engineer	entry	aburchanova@luxoft.com		http://www.linkedin.com/in/anna-burchanova-740b4a41	luxoft			Ukraine			162
+Arkadii Burdiian	arkadii	burdiian	casino	entry	aburdiian@carnival.com		http://www.linkedin.com/in/arkadii-burdiian-a2b3b6a2	carnival cruise line			Ukraine			1
+Alexander Buryachek	alexander	buryachek	manager	manager	aburyachek@ufc.com		http://www.linkedin.com/in/alexander-buryachek-6a33a568	ultimate fighting championship			Ukraine		01/12/2008	2
+Alexander Buryak	alexander	buryak	Tax management and accounting services - Group leader	entry	aburyak@sk.ua		http://www.linkedin.com/in/alexander-buryak-a6668033	sayenko kharenko			Ukraine		01/01/2016	384
+Anton Burzhinskyi	anton	burzhinskyi	Project Engineer	entry	aburzhinskyi@isspgroup.com		http://www.linkedin.com/in/anton-burzhinskyi-97248985	issp			Ukraine		01/10/2013	52
+Abuzova Alina	abuzova	alina	Office administration and EHS coordinator	entry	abuzova.alina@jti.com		http://www.linkedin.com/in/abuzova-alina-94b8b4a2	jti japan tobacco international			Ukraine		01/11/2015	220
+Anna Bykova	anna	bykova	Project Manager	manager	abykova@softserveinc.com		http://www.linkedin.com/in/anna-bykova-3257269	softserve			Ukraine		01/12/2010	284
+Alexander Bykovsky	alexander	bykovsky	Web Developer/Engineer	entry	abykovsky@griddynamics.com	+380 (68) 886 80 31	http://www.linkedin.com/in/alexander-bykovsky-0a9a2035	grid dynamics consulting services inc			Ukraine		01/01/2013	
+Academy Smart	academy	smart	Recruiter	entry	academy.smart@academysmart.com.ua		http://www.linkedin.com/in/academy-smart-425b32119	academy smart ltd			Ukraine			34
+Alexandru Cebanenco	alexandru	cebanenco	Team Lead	manager	acebanenco@luxoft.com		http://www.linkedin.com/in/acebanenco	luxoft			Ukraine		01/10/2014	387
+Alexandr Cebotari	alexandr	cebotari	JavaScript Developer	entry	acebotari@exadel.com		http://www.linkedin.com/in/alexandr-cebotari-146904121	exadel			Ukraine		01/12/2015	1
+Anna Chaban	anna	chaban	Ð“Ð»Ð°Ð²Ð½Ñ‹Ð¹ ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚	entry	achaban@naftogaz.com		http://www.linkedin.com/in/anna-chaban-402a2181	naftogaz of ukraine			Ukraine			2
+Alexander Chaly	alexander	chaly	CTO	c_suite	achaly@shakuro.com		http://www.linkedin.com/in/alexander-chaly-1a4b685	shakuro			Ukraine		01/09/2015	380
+Alina Chebernina	alina	chebernina			achebernina@kpmg.ua		http://www.linkedin.com/in/alina-chebernina-6552bb83	kpmg ukraine			Ukraine			81
+Andrew Checalov	andrew	checalov	Fleet specialist	entry	achecalov@hertz.com		http://www.linkedin.com/in/andrew-checalov-46aa29102	hertz			Ukraine		01/09/2015	37
+Alexander Chechelniczkiy	alexander	chechelniczkiy	Middle PHP/JS developer	entry	achechelniczkiy@megogo.net		http://www.linkedin.com/in/alexander-chechelniczkiy-80b885b7	megogo			Ukraine		01/11/2016	500
+Alex Cherednichenko	alex	cherednichenko	Co Founder	founder	acherednichenko@logicify.com		http://www.linkedin.com/in/alexandercherednichenko	logicify			Ukraine		01/01/2010	500
+Alex Cherkaev	alex	cherkaev	Senior Developer	senior	acherkaev@luxoft.com		http://www.linkedin.com/in/acherkaev	luxoft			Ukraine		01/11/2015	298
+Andrii Cherkasov	andrii	cherkasov	Senior DevOps at Cisco	senior	acherkasov@softserveinc.com		http://www.linkedin.com/in/andrii-cherkasov-36972252	softserve			Ukraine		01/06/2015	311
+Anastasiya Chertova	anastasiya	chertova	Recruitment and Adaptation Specialist	entry	achertova@crh.com		http://www.linkedin.com/in/achertova	crh			Ukraine		01/01/2016	500
+Anna Chistyacova	anna	chistyacova	Business Development Manager	manager	achistyacova@varteq.com		http://www.linkedin.com/in/anna-chistyacova-a18589144	varteq inc			Ukraine		01/06/2017	56
+Alexej Chistyakov	alexej	chistyakov	Automation QA // C/C++ Developer	entry	achistyakov@cybervisiontech.com		http://www.linkedin.com/in/alexej-chistyakov-5bb18139	cybervision inc			Ukraine		01/11/2012	7
+Anton Chontoroh	anton	chontoroh	Middle Android Developer	entry	achontoroh@luxoft.com		http://www.linkedin.com/in/anton-chontoroh-80885919	luxoft			Ukraine		01/05/2014	500
+Andrey Chorniy	andrey	chorniy	Level 2 Tech Support	entry	achorniy@greengeeks.com		http://www.linkedin.com/in/andrey-chorniy-298b9049	greengeeks			Ukraine		01/12/2011	104
+Alexandra Chubatiuk	alexandra	chubatiuk	Project Manager	manager	achubatiuk@cogniance.com		http://www.linkedin.com/in/alexandrachubatiuk	cogniance			Ukraine		01/06/2016	500
+Andrii Chuhunkin	andrii	chuhunkin	Audit Assistant	entry	achuhunkin@kpmg.ua		http://www.linkedin.com/in/achuhunkin	kpmg ukraine			Ukraine		01/10/2017	174
+Anna Chukhna	anna	chukhna	Senior Administrative Assistant	entry	achukhna@softserveinc.com		http://www.linkedin.com/in/anna-chukhna-2560824a	softserve			Ukraine		01/08/2013	167
+Alex Chumachok	alex	chumachok	operations manager	manager	achumachok@globaloceanlink.com		http://www.linkedin.com/in/alex-chumachok-515575123	global ocean link			Ukraine			16
+Andrii Chumak	andrii	chumak	Senior Full-Stack Web Developer	senior	achumak@luxoft.com		http://www.linkedin.com/in/achumak	luxoft			Ukraine		01/04/2015	189
+Anna Chuprova	anna	chuprova	QA Engineer	entry	achuprova@amcbridge.com		http://www.linkedin.com/in/anna-chuprova-625198b2	amc bridge llc			Ukraine		01/08/2015	102
+Anna Chuyko	anna	chuyko	Art Designer	entry	achuyko@cogniance.com		http://www.linkedin.com/in/achuyko	cogniance			Ukraine		01/11/2012	179
+Andriy Chypurko	andriy	chypurko	Senior Project Manager	manager	achypurko@softserveinc.com		http://www.linkedin.com/in/andriy-chypurko-19061811	softserve			Ukraine		01/09/2006	321
+Andrii Chyrva	andrii	chyrva	Software Engineer	entry	achyrva@amcbridge.com		http://www.linkedin.com/in/andrii-chyrva-70215573	amc bridge			Ukraine		01/11/2017	120
+Andriy Chyrva	andriy	chyrva	Leading Specialist Service Delivery. Opera PMS	entry	achyrva@hrsinternational.com		http://www.linkedin.com/in/andriy-chyrva-24059340	hrs hospitalityretail systems			Ukraine		01/03/2005	328
+Adam Comgow	adam	comgow	System Administrator	entry	acomgow@gowide.com		http://www.linkedin.com/in/adam-comgow-a02410124	gowide			Ukraine		01/06/2016	7
+Artelogic Company	artelogic	company	Owner	owner	acompany@artelogic.net		http://www.linkedin.com/in/artelogic	artelogic			Ukraine		01/01/2007	500
+Alex Cross	alex	cross	front-end developer	entry	across@twinfield.nl		http://www.linkedin.com/in/alex-cross-482b4074	twinfield  wolters kluwer tax  accounting nederland			Ukraine		01/08/2013	148
+Activ Club	activ	club	ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€Ñ‹ ÑÐµÑ‚Ð¸ ÐšÐ»ÑƒÐ±Ð¾Ð² Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¿Ð¸Ñ‚Ð°Ð½Ð¸Ñ Ð¸ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ð¾Ð±Ñ€Ð°Ð·Ð° Ð¶Ð¸Ð·Ð½Ð¸	entry	activc@herbalife.com		http://www.linkedin.com/in/%d0%b8%d0%b3%d0%be%d1%80%d1%8c-activ-club-040bb78b	herbalife			Ukraine		01/07/1995	36
+Ada Melentyeva	ada	melentyeva	Trainee Test Engineer	entry	ada.melentyeva@globallogic.com		http://www.linkedin.com/in/ada-melentyeva-517a01103	globallogic			Ukraine		01/10/2017	21
+Alexander Adamov	alexander	adamov	CEO	c_suite	ada@nioguard.com		http://www.linkedin.com/in/alexanderadamov	nioguardcom			Ukraine		01/11/2014	
+Andrii Dalevskyi	andrii	dalevskyi	Senior Test Automation Engineer	senior	adalevskyi@intellias.ua		http://www.linkedin.com/in/andrii-dalevskyi-bbb269a8	intellias			Ukraine		01/01/2017	168
+Adam Barbolet	adam	barbolet	Senior Trade Commissioner	senior	adam.barbolet@canada.ca		http://www.linkedin.com/in/adam-barbolet-022804a6	government of canada			Ukraine		01/09/2014	500
+Artyom Adamoff	artyom	adamoff	Product Manager	manager	adamoff@uf.ua		http://www.linkedin.com/in/artyom-adamoff-968424128	yuriapharm llc			Ukraine			1
+Adamovych Zoriana	adamovych	zoriana	Trade Contract Specialist	entry	adamovych.zoriana@jti.com		http://www.linkedin.com/in/adamovych-zoriana-a0649579	jti japan tobacco international			Ukraine		01/09/2012	129
+Polina Adamovych	polina	adamovych	Administrative Assistant	entry	adamovychp@who.int		http://www.linkedin.com/in/polina-adamovych-6a560688	world health organization			Ukraine		01/08/2015	43
+Ademo Dampir	ademo	dampir	Key Account Manager	manager	adampir@kmgchemicals.com		http://www.linkedin.com/in/ademo-dampir-753636153	kmg			Ukraine			1
+Anna Danieva	anna	danieva	Senior IT Recruiter	senior	adanieva@mackiev.com		http://www.linkedin.com/in/anna-danieva-361480103	software mackiev			Ukraine		01/03/2013	500
+Alina Danilenko	alina	danilenko	Ð¶ÑƒÑ€Ð½Ð°Ð»Ð¸ÑÑ‚	entry	adanilenko@elle.com		http://www.linkedin.com/in/alina-danilenko-565031a1	elle magazine			Ukraine			91
+Andrew Danilenko	andrew	danilenko	Full-stack JS Developer	entry	adanilenko@valant.com.ua		http://www.linkedin.com/in/andreydanilenko	valant			Ukraine		01/11/2017	214
+Artem Darnopykh	artem	darnopykh	Technology Consultant	entry	adarnopykh@softserveinc.com		http://www.linkedin.com/in/adarn	softserve			Ukraine		01/02/2013	271
+Alexandr Davyskiba	alexandr	davyskiba	Senior Drupal Developer	senior	adavyskiba@adyax.com		http://www.linkedin.com/in/zviryatko	adyax			Ukraine		01/07/2016	500
+Aleksey Dedyukh	aleksey	dedyukh	Web Developer	entry	adedyukh@yukon.cv.ua		http://www.linkedin.com/in/aleksey-dedyukh-a7311a28	yukon software ltd			Ukraine		01/01/2007	175
+Andrii Deinega	andrii	deinega	Engineer	entry	adeinega@priocom.com		http://www.linkedin.com/in/adeinega	priocom			Ukraine		01/01/2010	166
+Adekemi Adeniyan	adekemi	adeniyan	Freelancer	entry	adekemiadeniyan@upwork.com		http://www.linkedin.com/in/adekemi-adeniyan-775a091b	upwork			Ukraine		01/12/2009	272
+Adelina Obladan	adelina	obladan	GL	entry	adelina_obladan@jabil.com		http://www.linkedin.com/in/adelina-obladan-987a5594	jabil			Ukraine			10
+Adeliya Blinova	adeliya	blinova	Strategic Buyer	entry	adeliya.blinova@cchellenic.com		http://www.linkedin.com/in/adeliya-blinova-43a35928	cocacola hellenic bottling company			Ukraine		01/11/2009	21
+Aleksandr Demchenko	aleksandr	demchenko	UI/UX Designer	entry	ademchenko@luxoft.com		http://www.linkedin.com/in/aleksandr-demchenko-65731559	luxoft			Ukraine		01/01/2015	182
+Aleksandr Demchenko	aleksandr	demchenko	System Analyst	entry	ademchenko@nvg.ru		http://www.linkedin.com/in/dav82	nvision group			Ukraine		01/01/2013	320
+Andrey Dementyev	andrey	dementyev	drummer	entry	adementyev@celebritycruises.com		http://www.linkedin.com/in/andrey-dementyev-9a37567a	celebrity cruises inc			Ukraine			1
+Andrey Demidenko	andrey	demidenko	Cost Controller	entry	ademidenko@opera-hotel.com		http://www.linkedin.com/in/andrey-demidenko-00579036	opera hotel kiev			Ukraine		01/08/2013	160
+Andrew Demydenko	andrew	demydenko	Frontend	entry	ademydenko@electric-cloud.com		http://www.linkedin.com/in/andrew-demydenko-7537a9a9	electric cloud			Ukraine			1
+Anton Demydov	anton	demydov	Web Developer	entry	ademydov@valant.com.ua		http://www.linkedin.com/in/anton-demydov-46bb95121	valant			Ukraine			81
+Aleksey Denisenko	aleksey	denisenko	Telecom system administrator	entry	adenisenko@ukrtelecom.ua		http://www.linkedin.com/in/aleksey-denisenko-a2216057	ukrtelecom			Ukraine		01/03/2012	1
+Aleksandr Denisov	aleksandr	denisov	the chairman of a society	entry	adenisov@fishkatour.com.ua		http://www.linkedin.com/in/aleksandr-denisov-a595a121	travel agency fishka			Ukraine			4
+Andrew Denys	andrew	denys	DB Developer	entry	adenys@softserveinc.com		http://www.linkedin.com/in/andrew-denys-6b224321	softserve			Ukraine		01/10/2011	124
+Alexandr Deryabin	alexandr	deryabin	Sr. Oracle/DW/ETL Developer	senior	aderyabin@luxoft.com		http://www.linkedin.com/in/deryabin	luxoft			Ukraine		01/10/2011	500
+Artyom Deynega	artyom	deynega	Android developer	entry	adeynega@remit.se		http://www.linkedin.com/in/artyom-deynega-b8282947	remit ltd			Ukraine		01/12/2016	444
+Anton Diedul	anton	diedul	CSR	entry	adiedul@blizzard.com		http://www.linkedin.com/in/anton-diedul-b6b31a51	blizzard entertainment			Ukraine		01/07/2016	155
+Anastasia Dikalova	anastasia	dikalova	Accounting	entry	adikalova@lohika.com		http://www.linkedin.com/in/anastasia-dikalova-841012108	lohika			Ukraine		01/07/2012	245
+Aleksey Dilenko	aleksey	dilenko	Senior QA Engineer	senior	adilenko@luxoft.com		http://www.linkedin.com/in/aleksey-dilenko-57ab235b	luxoft			Ukraine			65
+Aditya Singh	aditya	singh	Plating Team Leader	entry	aditya.singh@sanoh-america.com		http://www.linkedin.com/in/george-longworth-29942b8a	sanoh america inc			Ukraine		01/08/1991	500
+Dmitry Skripchenko	dmitry	skripchenko	Co Founder	founder	admin@divebooker.com	+380 67 570 2710	http://www.linkedin.com/pub/dmitry-skripchenko/1a/729/8b5	not provided			Ukraine			
+Artem Barmin	artem	barmin	Senior developer	senior	admin@freshcodeit.com	962838942	http://www.linkedin.com/in/artem-barmin-86131223	freshcode			Ukraine		01/02/2011	
+Andrey Khandriko	andrey	khandriko	Director	director	admin@kub.ua	+380979397872	http://www.linkedin.com/pub/andrey-khandriko/61/15b/731	kub			Ukraine		01/08/2011	
+Stanislaw Tristan	stanislaw	tristan	CEO	c_suite	admin@zestad.eu		http://www.linkedin.com/in/stanislaw-tristan-18281661	zestad			Ukraine		01/05/2006	
+Matthias Jullian	matthias	jullian	Project Manage	entry	administrateur@ifs2e.com	684902277	http://www.linkedin.com/in/matthias-jullian-07682258	ifs2eemvi	Zaporizhia	Zaporiz'ka oblast	Ukraine	69000	01/01/2015	
+Anton Dmitrenko	anton	dmitrenko	System Administrator	entry	admitrenko@fmlogistic.fr		http://www.linkedin.com/in/anton-dmitrenko-814b0794	fm logistic			Ukraine		01/01/2014	83
+Aleksey Dmitrienko	aleksey	dmitrienko	Senior engineer	senior	admitrienko@codeminders.com		http://www.linkedin.com/in/aleksey-dmitrienko-03040053	codeminderstristero consulting			Ukraine			10
+Artyom Dmitrienko	artyom	dmitrienko	Web App QA	entry	admitrienko@vaegroup.com.au		http://www.linkedin.com/in/artyom-dmitrienko-9a55756	vae group			Ukraine		01/12/2014	114
+Anastasiia Dmytrenko	anastasiia	dmytrenko	QA	entry	admytrenko@softserveinc.com		http://www.linkedin.com/in/anastasiia-dmytrenko-97624834	softserve			Ukraine			29
+Andriy Dmytruk	andriy	dmytruk	Acountant	entry	admytruk@luxoft.com		http://www.linkedin.com/in/andriy-dmytruk-7292b3132	luxoft			Ukraine			17
+Adnan Habul	adnan	habul	Patrol Group Leader/Monitoring Officer	entry	adnan.habul@osce.org		http://www.linkedin.com/in/adnan-habul-0254635	osce			Ukraine		01/03/2014	356
+Andrii Dobrovolskyi	andrii	dobrovolskyi	Team Leader	entry	adobrovolskyi@lohika.com		http://www.linkedin.com/in/andrii-dobrovolskyi-17b89324	lohika			Ukraine		01/08/2010	148
+Andriy Dobush	andriy	dobush	Senior PHP Developer	senior	adobush@remit.se		http://www.linkedin.com/in/andriy-dobush-87893967	remit ltd			Ukraine		01/09/2016	500
+Arsenii Dochkin	arsenii	dochkin	Auditor A2	entry	adochkin@kpmg.ua		http://www.linkedin.com/in/arsenii-dochkin-812811107	kpmg ukraine			Ukraine		01/09/2015	71
+Andrey Dogadin	andrey	dogadin	Project manager	manager	adogadin@cloudmade.com		http://www.linkedin.com/in/andreydogadin	cloudmade			Ukraine		01/04/2016	355
+Alexey Dolgikh	alexey	dolgikh	Managing Partner	partner	adolgikh@boyden.com		http://www.linkedin.com/in/dolgikh	boyden			Ukraine		01/11/2016	500
+Andrii Dorofeiev	andrii	dorofeiev	Oracle Database Developer/Designer	entry	adorofeiev@mse-solutions.com		http://www.linkedin.com/in/andrii-dorofeiev-a4992831	mse solutions gmbh			Ukraine		01/01/2015	377
+Anton Doronin	anton	doronin	Quality Assurance Engineer	entry	adoronin@kuatrotech.com		http://www.linkedin.com/in/anton-doronin-a56186a1	jabil kuatro			Ukraine		01/01/2009	43
+Anastasia Doroshenko	anastasia	doroshenko	Miss UniTrader Project Manager	manager	adoroshenko@bmfn.com		http://www.linkedin.com/in/anastasia-doroshenko-a60b787a	boston merchant financial ltd			Ukraine		01/11/2013	107
+Alexandra Dragunovskaya	alexandra	dragunovskaya	Senior Business Analyst (Associate Product Manager)	manager	adragunovskaya@eisgroup.com		http://www.linkedin.com/in/alexandra-dragunovskaya-05527744	eis group ltd			Ukraine		01/09/2014	304
+Adrian Kozlovskyy	adrian	kozlovskyy	CAPEX&Cash Controlling Manager	manager	adrian.kozlovskyy@danone.com		http://www.linkedin.com/in/adrian-kozlovskyy-9116855b	danone			Ukraine		01/05/2016	500
+Adriana Frendiy	adriana	frendiy	Cluster Manager	manager	adriana.frendiy@nestle.com		http://www.linkedin.com/in/adriana-frendiy-6b4b27108	nestl			Ukraine		01/07/2016	500
+Andriy Droushkevich	andriy	droushkevich	Project Coordinator	entry	adroushkevich@softserveinc.com		http://www.linkedin.com/in/andriy-droushkevich-9ba4a94	softserve			Ukraine		01/10/2013	221
+Anna Drumova	anna	drumova	Middle Manual QA Engineer	entry	adrumova@lohika.com		http://www.linkedin.com/in/anna-drumova-9a623230	lohika			Ukraine		01/03/2015	500
+Alena Druzhynina	alena	druzhynina	Protection Officer	entry	adruzhynina@icrc.org		http://www.linkedin.com/in/alena-druzhynina-b9776210b	international committee of the red cross  icrc			Ukraine		01/01/2016	85
+Andriy Druzhytskiy	andriy	druzhytskiy	DevOps engineer	entry	adruzhytskiy@softserveinc.com		http://www.linkedin.com/in/andriy-druzhytskiy-a53a08b5	softserve			Ukraine		01/01/2016	80
+Andrey Dryuk	andrey	dryuk	Software Engineer (DevOps)	entry	adryuk@softserveinc.com		http://www.linkedin.com/in/andrey-dryuk-a215a048	softserve			Ukraine		01/03/2016	115
+Alexandr Dubrovskyi	alexandr	dubrovskyi	.NET Developer	entry	adubrovskyi@remit.se		http://www.linkedin.com/in/alexandr-dubrovskyi-98b63a67	remit ltd			Ukraine		01/01/2014	43
+Andrew Dudik	andrew	dudik	Owner	owner	adudik@deltagroupmx.com		http://www.linkedin.com/in/andrew-dudik-8a140824	delta group			Ukraine		01/01/1995	59
+Alexander Dudko	alexander	dudko	C++ Software Developer	entry	adudko@luxoft.com		http://www.linkedin.com/in/alexander-dudko-177764a8	luxoft			Ukraine		01/10/2014	500
+Alexander Dudnik	alexander	dudnik	Senior Unity3D / C# Developer	senior	adudnik@gamepoint.com		http://www.linkedin.com/in/alexander-dudnik-4a9a96117	gamepoint			Ukraine		01/11/2011	500
+Anastasia Dulgier	anastasia	dulgier	UI Designer	entry	adulgier@n-ix.com		http://www.linkedin.com/in/dulgier	nix			Ukraine		01/08/2017	500
+Anastasia Dumashok	anastasia	dumashok	QC Engineer	entry	adumashok@softserveinc.com		http://www.linkedin.com/in/anastasia-dumashok-46985aa3	softserve			Ukraine		01/07/2015	394
+Anna Dutsa	anna	dutsa	Test Engineer	entry	adutsa@luxoft.com		http://www.linkedin.com/in/anna-dutsa-aa07278b	luxoft			Ukraine		01/06/2015	112
+Alla Adv	alla	adv	Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð· Ñ€ÐµÐºÐ»Ð°Ð¼Ð¸	entry	adv.alla@advglobal.com		http://www.linkedin.com/in/alla-adv-0b598aa3	adv			Ukraine		01/01/2001	52
+Nadiia Zaitseva	nadiia	zaitseva	Internet Marketer, Deputy Head of Marketing dept.	head	adv.parfums@gmail.com		http://www.linkedin.com/in/nadiiazaitseva	parfumsua			Ukraine		01/01/2015	
+Anna Dvarri	anna	dvarri	Automation QA (SDET) with Java/Kotlin	entry	advarri@cybervisiontech.com		http://www.linkedin.com/in/annadvarri	cybervision inc			Ukraine		01/10/2017	500
+Alexandr Dvoryanenko	alexandr	dvoryanenko	Director of Quality	director	advoryanenko@borlas.ru		http://www.linkedin.com/in/alexandrdvoryanenko	borlas			Ukraine		01/09/2013	390
+Anna Dyachkova	anna	dyachkova	Buyer Toys & luggage	entry	adyachkova@auchan.com		http://www.linkedin.com/in/anna-dyachkova-0a022b101	auchan retail			Ukraine		01/05/2015	273
+Anna Dydochkina	anna	dydochkina			adydochkina@luxoft.com		http://www.linkedin.com/in/anna-dydochkina-b669462b	luxoft			Ukraine			205
+Artem Dyl	artem	dyl	Snr. Configuration/Release Engineer	entry	adyl@luxoft.com		http://www.linkedin.com/in/artem-dyl-8789ba38	luxoft			Ukraine		01/11/2013	193
+Alex Dyshlevyy	alex	dyshlevyy	Senior Key Account Manager for Dow Industrial Solution	manager	adyshlevyy@dow.com		http://www.linkedin.com/in/alex-dyshlevyy-94b5a646	the dow chemical company			Ukraine		01/01/2007	500
+Arsen Dzhaganian	arsen	dzhaganian	Software Developer	entry	adzhaganian@envisiontec.com		http://www.linkedin.com/in/arsen-dzhaganian-6749ba87	envisiontec			Ukraine		01/06/2016	57
+Andrew Dziminsky	andrew	dziminsky	Software Tester	entry	adziminsky@applause.com		http://www.linkedin.com/in/andrew-dziminsky-696091103	applause			Ukraine			2
+Andrew Dziurakh	andrew	dziurakh	Senior Web Developer / Scrum Master	senior	adziurakh@intellias.ua		http://www.linkedin.com/in/andrew-dziurakh-5b05b021	intellias			Ukraine		01/02/2011	317
+Andriy Dzyben	andriy	dzyben	Software Architect	entry	adzyben@corevalue.net		http://www.linkedin.com/in/dzyben	corevalue services			Ukraine		01/01/2008	500
+Alina Dzygun	alina	dzygun	Swim coach	entry	adzygun@sportlife.cl		http://www.linkedin.com/in/alina-dzygun-871b198b	sportlife			Ukraine			4
+Andrew Dzyuba	andrew	dzyuba	Senior Java Developer	senior	adzyuba@intellias.ua		http://www.linkedin.com/in/andrew-dzyuba-4984851b	intellias			Ukraine		01/04/2014	299
+Eduard Antonovskyy	eduard	antonovskyy	General Manager	manager	aeduard@laboratoires-genevrier.com		http://www.linkedin.com/in/eduard-antonovskyy-b7119b28	laboratoires genevrier			Ukraine		01/07/2014	488
+Anna Efimenko	anna	efimenko	QC Engineer	entry	aefimenko@softserveinc.com		http://www.linkedin.com/in/aefimenko	softserve			Ukraine		01/07/2015	28
+Andrey Elizarov	andrey	elizarov	Senior C#/C++ developer	senior	aelizarov@luxoft.com		http://www.linkedin.com/in/andrey-elizarov-a39847121	luxoft			Ukraine		01/04/2011	129
+Andrey Elman	andrey	elman	AdMob Publisher, Google AdSense	entry	aelman@google.com		http://www.linkedin.com/in/andrey-elman-3458326b	google			Ukraine		01/03/2012	500
+Artem Evdokimov	artem	evdokimov	Ð˜Ð½Ð¶ÐµÐ½ÐµÑ€ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸ÑÑ‚	entry	aevdokimov@acceptic.com		http://www.linkedin.com/in/artem-evdokimov-a5038167	acceptic  dedicated software development teams			Ukraine		01/02/2012	7
+Alexander Evstratyev	alexander	evstratyev	Software Engineer	entry	aevstratyev@productengine.com		http://www.linkedin.com/in/alexander-evstratyev-9234ab9b	the product engine			Ukraine		01/09/2014	26
+Andrew Fadieiev	andrew	fadieiev	Software Engineer	entry	afadieiev@gbsfo.com		http://www.linkedin.com/in/andrewfadeev	gbsfo  custom software solutions provider			Ukraine			1
+Anton Fanygin	anton	fanygin	QC Engineer	entry	afanygin@softserveinc.com		http://www.linkedin.com/in/antonfanygin	softserve			Ukraine		01/03/2016	500
+Anna Fedchenko	anna	fedchenko	Ð“Ð»Ð°Ð²Ð½Ñ‹Ð¹ ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚ ÐžÑ‚Ð´ÐµÐ»Ð° ÐºÐ°Ñ€Ñ‚Ð¾Ñ‡Ð½Ñ‹Ñ… Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð²	entry	afedchenko@platinumbank.com		http://www.linkedin.com/in/anna-fedchenko-56057b69	platinum bank			Ukraine		01/08/2014	55
+Anastasiia Fediaieva	anastasiia	fediaieva	Client Relationship Manager	manager	afediaieva@itgny.com		http://www.linkedin.com/in/anastasiiafediaieva	imagineer technology group			Ukraine		01/06/2014	108
+Andriy Fediv	andriy	fediv	Ð¢ÐµÑ…Ð½Ñ–Ðº Ð· Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ñ–Ñ— Ð²Ð¸Ñ€Ð¾Ð±Ð½Ð¸Ñ‡Ð¸Ñ… Ð¿Ñ€Ð¾Ñ†ÐµÑÑ–Ð²	entry	afediv@crh.com		http://www.linkedin.com/in/andriy-fediv-1b9049b6	crh			Ukraine		01/09/2013	38
+Anton Fedorchenko	anton	fedorchenko	Senior iOS/Mac Engineer, Team Lead	manager	afedorchenko@lohika.com		http://www.linkedin.com/in/anton-fedorchenko-99002415	lohika			Ukraine		01/04/2013	175
+Andrew Fedorov	andrew	fedorov	technician	entry	afedorov@bmw.ua		http://www.linkedin.com/in/andrew-fedorov-18a941102	awt bavaria kiev ukraine			Ukraine			3
+Alex Fedotov	alex	fedotov	Project Tech Lead	manager	afedotov@aginity.com		http://www.linkedin.com/in/alex-fedotov-aa626568	aginity			Ukraine		01/06/2013	100
+Anna Fellini	anna	fellini	Creative Writer	entry	afellini@jjdaudio.com		http://www.linkedin.com/in/anna-fellini-750197111	freelance			Ukraine			459
+Michael Afendikov	michael	afendikov	IT-Recruiter	entry	afendikov@it-staff-it.com		http://www.linkedin.com/in/michael-afendikov-0216a7b8	itstaff			Ukraine		01/10/2015	319
+Andriy Feshchyn	andriy	feshchyn	Business Analyst / Product Manager	manager	afeshch@softserveinc.com		http://www.linkedin.com/in/andriy-feshchyn-ab765256	softserve			Ukraine		01/12/2013	
+Anna Demian	anna	demian	Affiliate Manager	manager	affiliates@depositphotos.com		http://www.linkedin.com/in/annademian	depositphotos			Ukraine			500
+Artem Firyulin	artem	firyulin	Developer	entry	afiryulin@luxoft.com		http://www.linkedin.com/in/artem-firyulin-b1762440	luxoft			Ukraine		01/09/2010	500
+Andrew Fisiuk	andrew	fisiuk	VP of Product Management / co-founder	founder	afisiuk@s-pro.io		http://www.linkedin.com/in/andrew-fisiuk-063a12a9	spro			Ukraine		01/02/2014	136
+Anna Flahertie	anna	flahertie	Copywriter	entry	aflahertie@hostopia.com		http://www.linkedin.com/in/anna-flahertie-a1462011	hostopia			Ukraine			25
+Alena Fokina	alena	fokina	Key Account Executive	entry	afokina@metlife.com		http://www.linkedin.com/in/alena-fokina-6348995b	metlife			Ukraine		01/03/2014	94
+Andriy Foksha	andriy	foksha	2-nd Officer	entry	afoksha@tdw.com		http://www.linkedin.com/in/andriy-foksha-37a94590	tidewater marine			Ukraine		01/03/2014	113
+Anton Fomenko	anton	fomenko	Manager AFTER SALE SERVICE	manager	afomenko@bigdutchmanusa.com		http://www.linkedin.com/in/anton-fomenko-95b408a7	big dutchman			Ukraine		01/04/2007	73
+Sergey Afonin	sergey	afonin	Laboratory supervisors of IT&TSE	manager	afonin@onu.edu.ua		http://www.linkedin.com/in/sergey-afonin-88893183	odessa national  ii mecnikov university			Ukraine			5
+Aishe Fonka	aishe	fonka	Director	director	afonka@panpowered.com		http://www.linkedin.com/in/aishe-fonka-93387540	pan  performance assessment network a psi company			Ukraine			18
+Andrii Frankiv	andrii	frankiv	Web UI Developer	entry	afrankiv@vidscale.com		http://www.linkedin.com/in/andrii-frankiv-923006a0	vidscale			Ukraine			500
+Andrii Frolikov	andrii	frolikov	Youth/Teen Counselor	entry	afrolikov@celebritycruises.com		http://www.linkedin.com/in/andrii-frolikov-12129657	celebrity cruises inc			Ukraine		01/01/2014	30
+Alexey Furman	alexey	furman	Ð ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€	entry	afurman@reklamaster.com		http://www.linkedin.com/in/alexey-furman-9a028586	reklamastercom			Ukraine			4
+Alex Glinskiy	alex	glinskiy	UX/UI Designer, FE developer	entry	ag@multicora.com		http://www.linkedin.com/in/aleksglinskiy	multicoracom			Ukraine		01/05/2015	
+Andrii Agafonov	andrii	agafonov	Project Management Specialist	entry	agafonov@ecuo.org		http://www.linkedin.com/in/andrii-agafonov-503b16103	ecuo			Ukraine		01/12/2016	56
+Anton Galaguz	anton	galaguz	Project Manager	manager	agalaguz@justcoded.com		http://www.linkedin.com/in/anton-galaguz-456794b5	justcoded			Ukraine		01/06/2016	144
+Alexandr Galayko	alexandr	galayko	Software Developer	entry	agalayko@luxoft.com		http://www.linkedin.com/in/alexandr-galayko-64907076	luxoft			Ukraine			405
+Andrey Galimshyn	andrey	galimshyn	Java Developer	entry	agalimshyn@amcbridge.com		http://www.linkedin.com/in/andrey-galimshyn-96002b48	amc bridge			Ukraine		01/05/2009	163
+Anatolii Galiuk	anatolii	galiuk	Associate Product Manager	manager	agaliuk@conductor.com		http://www.linkedin.com/in/anatolii-galiuk-329800b	conductor inc			Ukraine		01/10/2017	163
+Andrey Galkin	andrey	galkin	Director, System Computing Department	director	agalkin@amcbridge.com		http://www.linkedin.com/in/andrey-galkin-10a79852	amc bridge llc			Ukraine		01/10/2009	127
+Alona Galtsova	alona	galtsova	Director of International Insurance Department	director	agaltsova@pzu.pl		http://www.linkedin.com/in/alona-galtsova-84060528	pzu			Ukraine		01/10/2016	500
+Alexander Garagatyi	alexander	garagatyi	Software Engineer	entry	agaragatyi@codenvy.com		http://www.linkedin.com/in/alexander-garagatyi-1a3053b4	codenvy			Ukraine		01/01/2013	77
+Andrew Gatilov	andrew	gatilov	Delivery Manager/ Senior Project Manager	manager	agatilov@luxoft.com		http://www.linkedin.com/in/andrewgatilov	luxoft			Ukraine		01/06/2014	500
+Aldo Gaudenzi	aldo	gaudenzi	Directeur	director	agaudenzi@auchan.ua		http://www.linkedin.com/in/aldo-de-gaudenzi-a271a128	auchan retail ukraine			Ukraine		01/09/2013	294
+Andry Gauk	andry	gauk	Senior Software Engineer	senior	agauk@luxoft.com		http://www.linkedin.com/in/xaratt	luxoft			Ukraine		01/12/2016	500
+Svetlana Ageeva	svetlana	ageeva	Head of financial and strategic planning department	head	ageeva@alfabank.kiev.ua		http://www.linkedin.com/in/svetlana-ageeva-76bbb624	alfa bank ukraine			Ukraine		01/12/2007	500
+Anton Gensitskiy	anton	gensitskiy	Java Developer	entry	agensitskiy@cybervisiontech.com		http://www.linkedin.com/in/anton-gensitskiy-43041666	cybervision inc			Ukraine		01/01/2014	222
+Anatoly Gerasimchuk	anatoly	gerasimchuk	Institute of General and Inorganic Chemistry NAS Ukraine	entry	agerasimchuk@fire-stop.com.ua		http://www.linkedin.com/in/anatoly-gerasimchuk-70a3a234	firestop			Ukraine			5
+Alina Gerasimenko	alina	gerasimenko	ODC Coordinator	entry	agerasimenko@luxoft.com		http://www.linkedin.com/in/alina-gerasimenko-7031b1b4	luxoft			Ukraine		01/02/2016	93
+			sales manager	manager	agerasimov@groupon.com	1 (888) 664-4482	http://www.linkedin.com/in/%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80-%d0%b3%d0%b5%d1%80%d0%b0%d1%81%d0%b8%d0%bc%d0%be%d0%b2-8669337b	groupon			Ukraine			
+Alexander Geronime	alexander	geronime	Team Lead	manager	ageronime@luxoft.com		http://www.linkedin.com/in/alexander-geronime-b854a958	luxoft			Ukraine		01/07/2013	317
+Alexandra Gertik	alexandra	gertik	UI/UX Designer	entry	agertik@cogniance.com		http://www.linkedin.com/in/alexandra-gertik-2b5b0778	cogniance			Ukraine		01/09/2017	159
+Anna Gnatiuk	anna	gnatiuk	Deputy Chief Accountant	entry	agnatiuk@delonghi.com.au		http://www.linkedin.com/in/anna-gnatiuk-bobrovitskaya-a335b590	delonghi australia and new zealand  the home of delonghi kenwood and braun			Ukraine		01/12/2013	306
+Andriy Godovanets	andriy	godovanets	Java / Javascript Developer	entry	agodovanets@tibco.com		http://www.linkedin.com/in/andriy-godovanets-a81a5640	tibco software inc			Ukraine		01/06/2010	14
+Anna Golovko	anna	golovko	Deputy director of private segment department by product management	director	agolovko@peoplenetonline.com		http://www.linkedin.com/in/anna-golovko-0073876	peoplenet			Ukraine		01/04/2009	79
+Alexandr Golub	alexandr	golub	ÐžÐžÐž '3Ðœ Ð£ÐºÑ€Ð°Ð¸Ð½Ð°'	entry	agolub@3m.com		http://www.linkedin.com/in/alexandr-golub-298a4561	3m			Ukraine		01/05/2011	255
+Alexey Gonchar	alexey	gonchar	C++ developer	entry	agonchar@luxoft.com		http://www.linkedin.com/in/alexey-gonchar-827281b6	luxoft			Ukraine		01/07/2011	237
+Alina Gonchar	alina	gonchar	Senior QA Engineer	senior	agonchar@softserveinc.com		http://www.linkedin.com/in/alina-gonchar-43b39aaa	softserve			Ukraine		01/10/2014	112
+Anastasia Goncharova	anastasia	goncharova	Web UI Developer	entry	agoncharova@softserveinc.com		http://www.linkedin.com/in/anastasia-goncharova-60568bb2	softserve			Ukraine		01/06/2016	288
+Aleksandr Gontar	aleksandr	gontar	Business Analyst	entry	agontar@sberbank.ru		http://www.linkedin.com/in/aleksandr-gontar-11255315	sberbank			Ukraine		01/07/2015	283
+Alexandr Gorban	alexandr	gorban	Ð’ÐµÐ±-Ð¼Ð°ÑÑ‚ÐµÑ€	entry	agorban@afr.com.au		http://www.linkedin.com/in/alexandr-gorban-3262b0a9	brw magazine			Ukraine		01/03/2013	1
+Andrii Gorbatov	andrii	gorbatov	Senior Software Engineer	senior	agorbatov@griddynamics.com		http://www.linkedin.com/in/andrii-gorbatov-02931923	grid dynamics			Ukraine		01/03/2013	49
+Aleksey Gordienko	aleksey	gordienko	PPB Lead Developer	manager	agordienko@parallels.com		http://www.linkedin.com/in/aleksey-gordienko-28705a16	parallels			Ukraine			45
+Alevtyna Gordjejeva	alevtyna	gordjejeva	ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð¾Ñ…Ñ€Ð°Ð½Ñ‹ Ñ‚Ñ€ÑƒÐ´Ð°	entry	agordjejeva@auchan.ua		http://www.linkedin.com/in/alevtyna-gordjejeva-1a5bb8a3	auchan retail ukraine			Ukraine		01/09/2013	214
+Alexandr Gornovych	alexandr	gornovych	QA Team Lead	manager	agornovych@luxoft.com		http://www.linkedin.com/in/alexandr-gornovych-315529a1	luxoft			Ukraine		01/09/2015	246
+Anton Govorov	anton	govorov	DevOps Engineer	entry	agovorov@luxoft.com		http://www.linkedin.com/in/anton-govorov-41aa4588	luxoft			Ukraine		01/09/2016	500
+Andrii Govorukha	andrii	govorukha	DevOps Engineer	entry	agovorukha@intellias.ua		http://www.linkedin.com/in/andrii-govorukha-24b19a53	intellias			Ukraine		01/07/2016	318
+Alexandr Grinenko	alexandr	grinenko	Test Manager	manager	agrinenko@intropro.com		http://www.linkedin.com/in/alexandr-grinenko-04630a25	intropro			Ukraine		01/07/2012	151
+Andrey Grinenko	andrey	grinenko	Head of Operations for Global Relocation	head	agrinenko@luxoft.com		http://www.linkedin.com/in/andrey-grinenko-5b7a351b	luxoft			Ukraine		01/10/2014	75
+Alexey Grischenko	alexey	grischenko	IT Engineer	entry	agrischenko@codeminders.com		http://www.linkedin.com/in/alexey-grischenko-65886536	codeminderstristero consulting			Ukraine		01/01/2014	144
+Artem Grishin	artem	grishin	DevOps	entry	agrishin@s-pro.io		http://www.linkedin.com/in/artem-grishin-3bb2025b	spro			Ukraine		01/08/2016	244
+Artem Gritchin	artem	gritchin	System Administrator	entry	agritchin@scorto.com		http://www.linkedin.com/in/artem-gritchin-76481054	scorto			Ukraine		01/11/2015	167
+Antonina Gromova	antonina	gromova	Abiliton Intermediate QC Engineer	entry	agromova@softserveinc.com		http://www.linkedin.com/in/antonina-gromova-4143732a	softserve			Ukraine		01/01/2013	145
+Agron Dragaj	agron	dragaj	photographer	entry	agron@zumapress.com		http://www.linkedin.com/in/agron-dragaj-07795715	zuma press			Ukraine		01/01/2008	258
+Agshin Taghizade	agshin	taghizade	CEO Pulver Ukraine	c_suite	agshin@pulver.com.tr		http://www.linkedin.com/in/agshin-taghizade-11b42554	pulver kimya sanayi ve ticaret as			Ukraine		01/07/2012	114
+Alexander Gubanov	alexander	gubanov	DevOps	entry	agubanov@griddynamics.com		http://www.linkedin.com/in/alexander-gubanov-4b464887	grid dynamics			Ukraine		01/01/2017	327
+Artem Gumenchuk	artem	gumenchuk	Developer	entry	agumenchuk@mackiev.com		http://www.linkedin.com/in/artem-gumenchuk-61237783	software mackiev			Ukraine		01/04/2012	256
+Artem Gumeniuk	artem	gumeniuk	Outreach Coordinator	entry	agumeniuk@americancouncils.org		http://www.linkedin.com/in/artem-gumeniuk-30371325	american councils for international education			Ukraine		01/07/2016	439
+Nikita Puz	nikita	puz	Program Manager	manager	agunchenko@mackiev.com		http://www.linkedin.com/in/nikita-puz-3b28a725	software mackiev			Ukraine		01/09/2014	
+Alex Gureev	alex	gureev	Technical Leader	entry	agureev@softserveinc.com		http://www.linkedin.com/in/barif	softserve			Ukraine		01/03/2016	500
+Anton Gurin	anton	gurin	Key Account Manager	manager	agurin@voiplatinum.com		http://www.linkedin.com/in/anton-gurin-46a9b087	pst  platinum services telecommunication ltd			Ukraine		01/03/2017	500
+Anna Gurina	anna	gurina	Test Automation Engineer	entry	agurina@luxoft.com		http://www.linkedin.com/in/anna-gurina-438b0582	luxoft			Ukraine			91
+Aleksandr Gurov	aleksandr	gurov	Chief Specialist of corporate business	entry	agurov@sberbank.ru		http://www.linkedin.com/in/aleksandr-gurov-b659ba64	sberbank			Ukraine		01/03/2014	83
+Anna Gusechko	anna	gusechko	Purchasing&Contract Production and FEA manager Supply chain department UPECO in Ukraine	manager	agusechko@upeco.ru		http://www.linkedin.com/in/anna-gusechko-47642b77	upeco			Ukraine		01/09/2012	97
+Alkin Hafizov	alkin	hafizov	Directeur	director	ahafizov@woodgroup-psn.com		http://www.linkedin.com/in/alkin-hafizov-3b1612127	wood group psn			Ukraine			1
+Anton Hanchev	anton	hanchev	Senior Software Developer	senior	ahanchev@luxoft.com		http://www.linkedin.com/in/ahanchev	luxoft			Ukraine			494
+Armen Harutyunyan	armen	harutyunyan	WeC Delegate	entry	aharutyunyan@icrc.org		http://www.linkedin.com/in/armen-r-harutyunyan-3997ab12	international committee of the red cross  icrc			Ukraine		01/06/2015	281
+Anna Helena	anna	helena	Lecturer	entry	ahelena@unam.na		http://www.linkedin.com/in/anna-helena-a92872b1	university of namibia			Ukraine			1
+Ahmad Krenbi	ahmad	krenbi	inginer	entry	ahmad@fire-stop.com.ua		http://www.linkedin.com/in/ahmad-krenbi-ab0a1037	firestop			Ukraine			12
+Ahmed Qaboojiye	ahmed	qaboojiye	Dentist	entry	ahmed.qaboojiye@hku.nl		http://www.linkedin.com/in/ahmed-qaboojiye-61b77a131	student			Ukraine		01/12/2016	41
+Ahmed Mansouri	ahmed	mansouri	Ð²Ñ€Ð°Ñ‡	entry	ahmed@deal.by		http://www.linkedin.com/in/ahmed-el-mansouri-59b0957a	  inst			Ukraine			2
+Ahmet Kucukguzel	ahmet	kucukguzel	Master	entry	ahmet@ranashipping.com		http://www.linkedin.com/in/ahmet-kucukguzel-14161626	rana shipping			Ukraine		01/02/2017	500
+Andriy Hnatyk	andriy	hnatyk	Sales and service of pumping equipment	entry	ahnatyk@su-group.com		http://www.linkedin.com/in/andriy-hnatyk-91b8b596	su group llc			Ukraine		01/10/2008	26
+Anna Holub	anna	holub	Automation Test Engineer	entry	aholub@softserveinc.com		http://www.linkedin.com/in/anna-holub-95b2057a	softserve			Ukraine		01/09/2015	80
+Anastasiia Honchar	anastasiia	honchar	Cloud Development Representative	entry	ahonchar@singlehop.com		http://www.linkedin.com/in/anastasiia-honchar-558099138	singlehop			Ukraine		01/01/2017	242
+Andrey Hozhilo	andrey	hozhilo	Quality Assurance Engineer	entry	ahozhilo@acceptic.com		http://www.linkedin.com/in/andrey-hozhilo-137597101	acceptic  dedicated software development teams			Ukraine			43
+Anastasiia Hrechanova	anastasiia	hrechanova	QC Engineer	entry	ahrechanova@softserveinc.com		http://www.linkedin.com/in/anastasiia-hrechanova-43855447	softserve			Ukraine		01/11/2013	176
+Anastasiia Hrynko	anastasiia	hrynko	Integration Engineer	entry	ahrynko@amcbridge.com		http://www.linkedin.com/in/anastasiia-hrynko-a2645a132	amc bridge			Ukraine		01/12/2012	2
+Andrew Hubchak	andrew	hubchak	Emmbeded Software Engineer	entry	ahubchak@yukon.cv.ua		http://www.linkedin.com/in/andrew-hubchak-059686104	yukon software ltd			Ukraine		01/01/2015	186
+Anastasiia Humaniuk	anastasiia	humaniuk	QA Engineer	entry	ahumaniuk@softserveinc.com		http://www.linkedin.com/in/anastasiia-humaniuk-43b99aa8	softserve			Ukraine		01/06/2015	117
+Anastasiia Ianovytska	anastasiia	ianovytska	Women Lead Program Officer	manager	aianovytska@ndi.org		http://www.linkedin.com/in/anastasiia-ianovytska-885873a	national democratic institute ndi			Ukraine		01/01/2017	500
+Aider Jepparov	aider	jepparov	Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚	entry	aider@legionvid.com		http://www.linkedin.com/in/aider-jepparov-039b0549	legion			Ukraine			1
+Anastasiia Iereshko	anastasiia	iereshko	Executive	entry	aiereshko@kpmg.ua		http://www.linkedin.com/in/anastasiia-iereshko-7972a493	kpmg ukraine			Ukraine		01/08/2015	500
+Anna Iermolenko	anna	iermolenko			aiermolenko@unisender.com		http://www.linkedin.com/in/anna-iermolenko-40084180	unisender			Ukraine			138
+Astahov Igor	astahov	igor	Manager	manager	aigor@unisonbank.com		http://www.linkedin.com/in/astahov-igor-astahov-igor-4a172a9b	unison bank			Ukraine		01/01/2014	44
+Aiia Doaaiei	aiia	doaaiei	economist	entry	aiia.doaaiei@unicredit.ua		http://www.linkedin.com/in/%c3%a0%c3%ad%c3%ad%c3%a0-%c3%b0%c3%b3%c3%a4%c3%a5%c3%ad%c3%aa%c3%ae-9071066	unicredit bank ukraine			Ukraine			1
+Alexander Ilash	alexander	ilash	Pastor	entry	ailash@cwsglobal.org		http://www.linkedin.com/in/alexander-ilash-b2b46648	church world service			Ukraine			2
+Alexey Ilchmann	alexey	ilchmann	SysOps,NetOps&DevOps shipboy	entry	ailchmann@archer-soft.com		http://www.linkedin.com/in/ilchmann	archer software			Ukraine		01/12/2014	241
+Anastasia Ilina	anastasia	ilina	Junior Java Software Engineer	entry	ailina@softserveinc.com		http://www.linkedin.com/in/anastasia-ilina-18618011b	softserve			Ukraine		01/12/2017	64
+Andrii Iliuk	andrii	iliuk	Java Software Engineer	entry	ailiuk@softserveinc.com		http://www.linkedin.com/in/andrii-iliuk-95854742	softserve			Ukraine		01/01/2012	500
+Andrey Iltchenko	andrey	iltchenko	Junior .NET Developer	entry	ailtchenko@anromsocial.com		http://www.linkedin.com/in/andrey-iltchenko-982a9517	anrom social business			Ukraine			7
+Artur Ingievsky	artur	ingievsky	Software Developer	entry	aingievsky@softserveinc.com		http://www.linkedin.com/in/artur-ingievsky-29169079	softserve			Ukraine		01/01/2016	157
+Aisili Kuchenova	aisili	kuchenova	Assurance Advanced Staff	entry	aisili.kuchenova@ey.com		http://www.linkedin.com/in/aisili	ey			Ukraine		01/10/2015	500
+Andrew Iskorostensky	andrew	iskorostensky	Office Manager	manager	aiskorostensky@send.org		http://www.linkedin.com/in/andrew-iskorostensky-b93221b6	send international			Ukraine			62
+Andrew Isliamov	andrew	isliamov	Head Of Business Development	head	aisliamov@k-3soft.com		http://www.linkedin.com/in/isliamov	k3soft			Ukraine		01/12/2016	500
+Alexander Ivakhoff	alexander	ivakhoff	Ð”Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€ Ð´ÐµÐ¿Ð°Ñ€Ñ‚Ð°Ð¼ÐµÐ½Ñ‚Ð° Ð˜Ð¢-Ð°ÑƒÑ‚ÑÐ¾Ñ€ÑÐ¸Ð½Ð³Ð°	entry	aivakhoff@techexpert.ua		http://www.linkedin.com/in/alexander-ivakhoff-baa35a104	techexpert			Ukraine		01/08/2015	80
+Artem Ivanchenko	artem	ivanchenko	Senior Android Engineer	senior	aivanchenko@reinvently.com		http://www.linkedin.com/in/artem-ivanchenko-5ab95368	reinvently			Ukraine		01/07/2016	500
+Andriy Ivanochko	andriy	ivanochko	Software engineer	entry	aivanochko@softjourn.com		http://www.linkedin.com/in/andriy-ivanochko-b6329732	softjourn inc			Ukraine		01/02/2012	500
+Aleksandr Ivanov	aleksandr	ivanov	Project Manager	manager	aivanov@icg.pl		http://www.linkedin.com/in/alexandrivanov	icg			Ukraine		01/08/2011	93
+Anton Ivanov	anton	ivanov	Lead Drupal Developer	manager	aivanov@skilld.fr		http://www.linkedin.com/in/antonnavi	skilld			Ukraine		01/10/2012	500
+Anatolii Ivanyuk	anatolii	ivanyuk	Software Engineer	entry	aivanyuk@softserveinc.com		http://www.linkedin.com/in/anatolii-ivanyuk-23419226	softserve			Ukraine		01/10/2012	500
+Anastasiia Ivashentseva	anastasiia	ivashentseva	Sales Representative	entry	aivashentseva@aspenpharma.com		http://www.linkedin.com/in/anastasiia-ivashentseva-8bb480a2	aspen pharma group			Ukraine		01/09/2014	42
+Anton Jablonsky	anton	jablonsky	Web Marketing Manager	manager	ajablonsky@elyland.net		http://www.linkedin.com/in/anton-jablonsky-479b5194	elyland investment company limited			Ukraine		01/03/2014	166
+Alexei Kalashnik	alexei	kalashnik	TM teacher	entry	akalashnik@mum.edu		http://www.linkedin.com/in/alexei-kalashnik-a16224a0	david lynch masters in film program			Ukraine		01/01/1992	4
+Anton Kalikin	anton	kalikin	BA	entry	akalikin@deloitte.com		http://www.linkedin.com/in/anton-kalikin-2845214	deloitte			Ukraine			3
+Alexander Kalinovskiy	alexander	kalinovskiy	platform director	director	akalinovskiy@fmlogistic.fr		http://www.linkedin.com/in/alexander-kalinovskiy-20322127	fm logistic			Ukraine			65
+Anton Kalmanovich	anton	kalmanovich	Software Engineer	entry	akalmanovich@railsreactor.com		http://www.linkedin.com/in/anton-kalmanovich-211945127	rails reactor			Ukraine			1
+Alexander Kan	alexander	kan	Manager	manager	akan@bristolassoc.com		http://www.linkedin.com/in/alexander-kan-483b47a4	bristol associates  executive search			Ukraine			2
+Alexandr Kaplun	alexandr	kaplun	Project Manager	manager	akaplun@cogniance.com		http://www.linkedin.com/in/alexanderkaplun	cogniance			Ukraine		01/10/2011	500
+Anton Kaplya	anton	kaplya	Software Architect	entry	akaplya@magento.com		http://www.linkedin.com/in/antonkaplya	magento commerce			Ukraine		01/02/2010	500
+Alexey Karlash	alexey	karlash	Cash Management and Reconciliation Specialist,	entry	akarlash@eeft.com		http://www.linkedin.com/in/alexey-karlash-b3235912	euronet worldwide			Ukraine		01/05/2006	139
+Anastasia Karmazina	anastasia	karmazina	Team Lead (Project Coordinator)	manager	akarmazina@axiomsl.com		http://www.linkedin.com/in/anastasia-karmazina-aa809485	axiomsl			Ukraine		01/02/2011	149
+Andrey Karpachov	andrey	karpachov	PMO	entry	akarpachov@u-sluno.cz	+420 596 101 511	http://www.linkedin.com/in/andrey-karpachov-a534651a	uslunocz			Ukraine		01/10/2015	
+Artem Karpov	artem	karpov	Java developer	entry	akarpov@luxoft.com		http://www.linkedin.com/in/artem-karpov-02b4225b	luxoft			Ukraine		01/11/2015	500
+Andrey Karyuk	andrey	karyuk	Engineer	entry	akaryuk@fuchs.com		http://www.linkedin.com/in/andrey-karyuk-b38680105	fuchs petrolub group			Ukraine		01/03/2013	2
+Aleksey Kashcheev	aleksey	kashcheev	Translator/Interpreter	entry	akashcheev@cciproducts.com		http://www.linkedin.com/in/aleksey-kashcheev-981289a3	cci			Ukraine		01/01/2006	4
+Andriy Kashcheyev	andriy	kashcheyev	Division CTO	c_suite	akashcheyev@luxoft.com	+1 212-964-9900	https://www.linkedin.com/pub/andriy-kashcheyev/2/938/a01	luxoft			Ukraine			
+Andrew Kasian	andrew	kasian	Software Engineer	entry	akasian@exadel.com		http://www.linkedin.com/in/andrew-kasian-591b8ab9	exadel			Ukraine		01/08/2016	500
+Anatoliy Kasyanenko	anatoliy	kasyanenko	Sales Director	director	akasyanenko@mx-emi.com		http://www.linkedin.com/in/anatoliy-kasyanenko-bb254b26	inter group			Ukraine		01/11/2009	397
+Anna Katorkina	anna	katorkina	QA specialist	entry	akatorkina@jnj.com		http://www.linkedin.com/in/anna-katorkina-14886724	johnson  johnson			Ukraine		01/07/2011	27
+Aleksey Katruk	aleksey	katruk	Freelance Motion Graphic Designer	entry	akatruk@jjdaudio.com		http://www.linkedin.com/in/katrook	freelance			Ukraine		01/04/2013	184
+Alena Kavka	alena	kavka	HR & Internal Communications	entry	akavka@naftogaz.com		http://www.linkedin.com/in/alena-kavka-42044450	naftogaz of ukraine			Ukraine		01/12/2014	473
+Alexander Kazantsev	alexander	kazantsev	CTO	c_suite	akazantsev@s-pro.io		http://www.linkedin.com/in/alexander-kazantsev-a5496a71	spro			Ukraine		01/03/2017	500
+Anna Kechkhuashvili	anna	kechkhuashvili	Departamento de Relaciones Internacionales	entry	akechkhuashvili@protecsafe.com		http://www.linkedin.com/in/anna-kechkhuashvili-865754101	protec			Ukraine			13
+Alexey Kerpel	alexey	kerpel	Middle React Developer	entry	akerpel@intersog.com		http://www.linkedin.com/in/alexey-kerpel	intersog			Ukraine		01/03/2018	500
+Anton Khabrenko	anton	khabrenko	Software Engineer	entry	akhabrenko@softserveinc.com		http://www.linkedin.com/in/anton-khabrenko-b66210b4	softserve			Ukraine		01/08/2010	107
+Anna Khakhva	anna	khakhva	Sales Manager	manager	akhakhva@globaloceanlink.com		http://www.linkedin.com/in/anna-khakhva-990a6354	global ocean link			Ukraine		01/03/2013	500
+Alexey Khaletskyy	alexey	khaletskyy	Php-Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº	entry	akhaletskyy@miningsearch.com		http://www.linkedin.com/in/alexey-khaletskyy-742b64122	mrc			Ukraine			7
+Ayder Khalilov	ayder	khalilov	Senior Program Manager	manager	akhalilov@pactworld.org		http://www.linkedin.com/in/ayder-khalilov-b9101510	pact			Ukraine		01/11/2016	403
+Alina Khalus	alina	khalus	HR manager	manager	akhalus@swansoftwaresolutions.com		http://www.linkedin.com/in/alina-khalus-794389ab	swan software solutions inc			Ukraine		01/08/2016	110
+Artem Kharchenko	artem	kharchenko	Delivery Director	director	akharchenko@n-ix.com		http://www.linkedin.com/in/artem-kharchenko-b3478827	nix			Ukraine		01/04/2017	500
+Anna Kharchenko	anna	kharchenko	Ms	entry	akharchenko@rencap.com		http://www.linkedin.com/in/anna-kharchenko-a983829	renaissance capital			Ukraine			1
+Akhil Gupta	akhil	gupta	Head of Support Department and key account manager	head	akhil.g@cex.io		http://www.linkedin.com/in/akhil-gupta-b387bb17	cexio			Ukraine		01/11/2014	421
+Arthem Khimich	arthem	khimich			akhimich@naftogaz.com		http://www.linkedin.com/in/arthem-khimich-b490b978	naftogaz of ukraine			Ukraine			51
+Alexander Khitruk	alexander	khitruk	Design Team Lead	manager	akhitruk@provectus-it.com		http://www.linkedin.com/in/alexitruk	provectus it inc			Ukraine		01/11/2016	
+Alexander Khivrych	alexander	khivrych	Senior Frontend Developer	senior	akhivrych@luxoft.com		http://www.linkedin.com/in/alexanderkhivrych	luxoft			Ukraine		01/02/2017	500
+Akhmad Sadaiev	akhmad	sadaiev	Java Automation Engineer	entry	akhmad.sadaiev@globallogic.com		http://www.linkedin.com/in/akhmad-sadaiev-8aa34855	globallogic			Ukraine		01/04/2015	500
+Anton Khokhlov	anton	khokhlov	Developer	entry	akhokhlov@luxoft.com		http://www.linkedin.com/in/anton-khokhlov-8a00a0a6	luxoft			Ukraine		01/10/2016	161
+Andrey Khomaretskiy	andrey	khomaretskiy	Head of Partnerships (telecom)	head	akhomaretskiy@megogo.net		http://www.linkedin.com/in/andrey-khomaretskiy-3b851663	megogo			Ukraine		01/07/2015	500
+Andrey Khomenko	andrey	khomenko	Administrative Officer	entry	akhomenko@peacecorps.gov		http://www.linkedin.com/in/andrey-khomenko-32b74b4	peace corps			Ukraine			1
+Andrey Khomenko	andrey	khomenko	Chief Specialist Product Management Department	entry	akhomenko@pzu.com.ua		http://www.linkedin.com/in/andrey-khomenko-a343b266	pzu ukraine			Ukraine		01/06/2015	146
+Anton Khomenko	anton	khomenko	Driiling Fluids Engineer	entry	akhomenko@slb.com		http://www.linkedin.com/in/anton-khomenko-6b48469b	schlumberger			Ukraine			46
+Aliona Khomyk	aliona	khomyk	Business analyst	entry	akhomyk@gloriumtech.com		http://www.linkedin.com/in/aliona-khomyk-86997a64	glorium technologies			Ukraine		01/11/2015	329
+Alexandra Khorolets	alexandra	khorolets	assistant	entry	akhorolets@accord-consulting.com		http://www.linkedin.com/in/alexandra-khorolets-4b640875	accord consulting			Ukraine			2
+Alexander Khotsyanivski	alexander	khotsyanivski	Network Administrator	entry	akhotsyanivski@luxoft.com		http://www.linkedin.com/in/alexander-khotsyanivski-66477311b	luxoft			Ukraine		01/09/2013	23
+Alexandra Khrapun	alexandra	khrapun	Business Analyst	entry	akhrapun@softserveinc.com		http://www.linkedin.com/in/alexandra-khrapun-19583660	softserve			Ukraine		01/10/2014	386
+Alexey Khromets	alexey	khromets	Full-Stack Developer	entry	akhromets@webinerds.com		http://www.linkedin.com/in/alexey-khromets	webinerds			Ukraine		01/07/2017	500
+Andrey Khusainov	andrey	khusainov	QC Engineer	entry	akhusainov@softserveinc.com		http://www.linkedin.com/in/dcstar	softserve			Ukraine		01/11/2014	262
+Andrii Khvastun	andrii	khvastun	Senior .Net Developer	senior	akhvastun@soft-group.com		http://www.linkedin.com/in/andrii-khvastun-259129a6	soft group ukraine			Ukraine		01/04/2012	399
+Andriy Kichoglov	andriy	kichoglov	Senior Scala/Spark Developer	senior	akichoglov@intellias.ua		http://www.linkedin.com/in/andriy-kichoglov-37a32936	intellias			Ukraine		01/06/2017	500
+Artyom Kilimnik	artyom	kilimnik	Senior QA	senior	akilimnik@luxoft.com		http://www.linkedin.com/in/artyomkilimnik	luxoft			Ukraine		01/01/2014	194
+Andrey Kilin	andrey	kilin	Admin	entry	akilin@acceptic.com		http://www.linkedin.com/in/andrey-kilin-3017081b	acceptic  dedicated software development teams			Ukraine			9
+Akim Khalilov	akim	khalilov	.NET Developer	entry	akim.khalilov@gmail.com		http://www.linkedin.com/in/akhalilov	webconsultants			Ukraine		01/08/2015	
+Akim Kravchyna	akim	kravchyna	Senior Developer Technical Lead	manager	akim.kravchyna@ucg.io		http://www.linkedin.com/in/akim-kravchyna-97ba6463	universal commerce group			Ukraine		01/03/2016	219
+Akim Solovyov	akim	solovyov	Frontend developer	entry	akim.solovyov@developex.com		http://www.linkedin.com/in/akimsolovyov	developex			Ukraine		01/11/2015	442
+Akim Sytnikov	akim	sytnikov	Chief off	entry	akim@marlow.od.ua		http://www.linkedin.com/in/akim-sytnikov-481a50ab	marlow navigation			Ukraine			1
+Akim Berliand	akim	berliand	free lancer	entry	akim@univer.ru		http://www.linkedin.com/in/akim-berliand-4a793529	univer consulting			Ukraine			8
+Aleksandr Kinash	aleksandr	kinash	Abiliton Senior Software Engineer	senior	akinash@softserveinc.com		http://www.linkedin.com/in/aleksandr-kinash-37a69383	softserve			Ukraine		01/03/2016	500
+Alexander Kireyev	alexander	kireyev	Software Engineer	entry	akireyev@google.com		http://www.linkedin.com/in/alexanderkireyev	google			Ukraine			146
+Alexei Kirichek	alexei	kirichek	Emerson Ovation DCS Engineer	entry	akirichek@dtek.com		http://www.linkedin.com/in/alexei-kirichek-28ab1554	dtek			Ukraine		01/07/2008	13
+Alexandra Kirichuk	alexandra	kirichuk	Personal Assistant	entry	akirichuk@teleport-ds.com		http://www.linkedin.com/in/alexandra-kirichuk-85ba4b120	teleport			Ukraine			2
+Alex Kirin	alex	kirin	Lead Infrastructure Engineer	manager	akirin@insoft-global.com		http://www.linkedin.com/in/alex-kirin-87a19938	insoft global			Ukraine		01/10/2012	387
+Alexander Klimov	alexander	klimov	Junior UXd Architect	entry	aklimov@luxoft.com		http://www.linkedin.com/in/junkiewind	luxoft			Ukraine		01/08/2017	182
+Andriy Klochan	andriy	klochan	Java/Scala Developer	entry	aklochan@luxoft.com		http://www.linkedin.com/in/andriy-klochan-3b579a139	luxoft			Ukraine		01/06/2017	219
+Anna Klochko	anna	klochko	Head Of Unit	head	aklochko@ukrtelecom.ua		http://www.linkedin.com/in/anna-klochko-75399074	ukrtelecom			Ukraine		01/02/2017	72
+Anna Klueva	anna	klueva	QA Automation Engineer	entry	aklueva@griddynamics.com		http://www.linkedin.com/in/anna-klueva-9483a7aa	grid dynamics			Ukraine		01/06/2017	500
+Artem Kobets	artem	kobets	IT Specialist	entry	akobets@bmw.ua		http://www.linkedin.com/in/artem-kobets-bb10a088	awt bavaria kiev ukraine			Ukraine		01/03/2008	35
+Andriy Kobets	andriy	kobets	Manager M&A department / bussines development department	manager	akobets@dtek.com		http://www.linkedin.com/in/andriy-kobets-5679438a	dtek			Ukraine		01/05/2010	100
+Andrew Kobylin	andrew	kobylin	Senior Web Developer	senior	akobylin@luxoft.com		http://www.linkedin.com/in/andrew-kobylin-97518520	luxoft			Ukraine			85
+Andriy Kocherhan	andriy	kocherhan	Team Lead, Senior Web Developer	manager	akocherhan@sagasoft.com		http://www.linkedin.com/in/andriy-kocherhan-13175121	saga software			Ukraine		01/03/2005	51
+Andrew Kochmar	andrew	kochmar	Front-end Developer	entry	akochmar@cogniance.com		http://www.linkedin.com/in/andrewkochmar	cogniance		Cherkas'ka oblast	Ukraine		01/08/2013	145
+Andrew Kochulab	andrew	kochulab	iOS Developer	entry	akochulab@perpet.io		http://www.linkedin.com/in/andrew-kochulab	perpetio			Ukraine		01/04/2016	500
+Aleksandr Kodolov	aleksandr	kodolov	Owner	owner	akodolov@briancray.com		http://www.linkedin.com/in/akodolov	entrepreneur			Ukraine			35
+Anton Kohan	anton	kohan	IT Project Manager	manager	akohan@echoua.com		http://www.linkedin.com/in/anton-kohan-147b3912b	echoua			Ukraine		01/01/2017	115
+Andriy Kohut	andriy	kohut	Software Engineer	entry	akohut@lohika.com		http://www.linkedin.com/in/akohut	lohika			Ukraine		01/03/2016	350
+Andrew Kokhanovskyi	andrew	kokhanovskyi	CTO , EVP	c_suite	akokhanovskyi@kaaiot.io		http://www.linkedin.com/in/akokhanovskyi	kaaiot			Ukraine		01/06/2017	500
+Alexander Koksyuk	alexander	koksyuk	Software Developer	entry	akoksyuk@luxoft.com		http://www.linkedin.com/in/alexander-koksyuk-2387322b	luxoft			Ukraine		01/02/2017	500
+Anna Kolesnichenko	anna	kolesnichenko	Tax Cosultant	entry	akolesnichenko@kpmg.ua		http://www.linkedin.com/in/anna-kolesnichenko-00b7479a	kpmg ukraine			Ukraine		01/09/2015	45
+Anastasiya Kolibaba	anastasiya	kolibaba	Senior Tax Consultant, Tax Dispute Resolution	senior	akolibaba@kpmg.ua		http://www.linkedin.com/in/anastasiya-kolibaba-a333bb123	kpmg ukraine			Ukraine		01/04/2016	500
+Alexander Kolibabchuk	alexander	kolibabchuk	Visual Merchandiser	entry	akolibabchuk@mdgroup.com.pe		http://www.linkedin.com/in/alexander-kolibabchuk-067594a5	md group			Ukraine			2
+Andrey Kolodnitsky	andrey	kolodnitsky	Team Lead ASP.NET	manager	akolodnitsky@lohika.com		http://www.linkedin.com/in/andrey-kolodnitsky-23683b28	lohika			Ukraine		01/07/2011	500
+Andrey Kolomakin	andrey	kolomakin	QA Engineer	entry	akolomakin@serena.com		http://www.linkedin.com/in/andrey-kolomakin-0657a9100	serena software			Ukraine		01/09/2015	34
+Anastasia Kolomiec	anastasia	kolomiec	Web Designer	entry	akolomiec@mackiev.com		http://www.linkedin.com/in/anastasia-kolomiec-454097122	software mackiev			Ukraine		01/01/2017	101
+Anton Kolomiets	anton	kolomiets	Software Engineer	entry	akolomiets@griddynamics.com		http://www.linkedin.com/in/anton-kolomiets-6a3ab8a6	grid dynamics			Ukraine		01/11/2015	500
+Andrey Kolyada	andrey	kolyada	Senior Developer	senior	akolyada@luxoft.com		http://www.linkedin.com/in/andrey-kolyada-11513a22	luxoft			Ukraine		01/03/2010	166
+Alexey Komar	alexey	komar	Senior .NET Software Engineer	senior	akomar@malkosua.com		http://www.linkedin.com/in/alexey-komar-55443b41	malkos			Ukraine		01/02/2012	396
+Anita Komarova	anita	komarova	Recruiter	entry	akomarova@softserveinc.com		http://www.linkedin.com/in/anitakomarova	softserve			Ukraine		01/11/2015	500
+Alex Komiaga	alex	komiaga	2nd Officer	entry	akomiaga@anthonyveder.com		http://www.linkedin.com/in/alex-komiaga-10832740	anthony veder			Ukraine		01/10/2013	83
+Andrii Komirnyi	andrii	komirnyi	Salesforce Developer	entry	akomirnyi@corevalue.net		http://www.linkedin.com/in/andrii-komirnyi-a05b3178	corevalue services			Ukraine		01/08/2015	500
+Anastasia Komisaruk	anastasia	komisaruk	Office Manager	manager	akomisaruk@lenovo.com		http://www.linkedin.com/in/anastasia-komisaruk-07407681	lenovo			Ukraine		01/08/2013	129
+Alexander Kondaurov	alexander	kondaurov	.Net Developer	entry	akondaurov@edgar-online.com		http://www.linkedin.com/in/alexander-kondaurov-84425596	edgar online a division of rr donnelley  sons company			Ukraine		01/11/2014	327
+Aleksey Kondratov	aleksey	kondratov	Software Engineer	entry	akondratov@accusoft.com		http://www.linkedin.com/in/aleksey-kondratov-a661498	accusoft			Ukraine		01/01/2015	57
+Andrey Konosov	andrey	konosov	Software Architect	entry	akonosov@magento.com		http://www.linkedin.com/in/andrey-konosov-9227783a	magento commerce			Ukraine		01/09/2012	324
+Andrey Konovalov	andrey	konovalov	Senior Software Developer	senior	akonovalov@intellias.ua		http://www.linkedin.com/in/konovlovandrei	intellias			Ukraine		01/12/2016	297
+Andrew Koozminetsky	andrew	koozminetsky	Senior Perl developer	senior	akoozminetsky@yugcontract.ua		http://www.linkedin.com/in/andrew-koozminetsky-b4b4b33b	yugcontract			Ukraine		01/10/2012	346
+Akop Akopov	akop	akopov	Quality Control Engineer	entry	akop.akopov@infopulse.com		http://www.linkedin.com/in/akop-akopov-3785a11b	infopulse			Ukraine		01/02/2015	500
+Anna Kopachevskaya	anna	kopachevskaya	Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„	entry	akopachevskaya@fishkatour.com.ua		http://www.linkedin.com/in/anna-kopachevskaya-b6b78761	travel agency fishka			Ukraine			14
+Anton Korneta	anton	korneta	Java Developer	entry	akorneta@codenvy.com		http://www.linkedin.com/in/anton-korneta-867259107	codenvy			Ukraine			160
+Anastasiia Korniienko	anastasiia	korniienko	QA Engineer	entry	akorniienko@reinvently.com		http://www.linkedin.com/in/anastasiia-korniienko-75739178	reinvently			Ukraine		01/06/2016	500
+Andrew Kornilov	andrew	kornilov	Lead Software Engineer	manager	akornilov@rebbix.com		http://www.linkedin.com/in/frutik	rebbix			Ukraine		01/06/2012	399
+Alexander Korotenko	alexander	korotenko	Java engineer	entry	akorotenko@lohika.com		http://www.linkedin.com/in/alexander-korotenko-66864a1b	lohika			Ukraine			229
+Anna Kosenko	anna	kosenko	QA	entry	akosenko@heliostech.fr		http://www.linkedin.com/in/anna-kosenko-50370298	helios technologies			Ukraine		01/05/2013	70
+Alexander Kosenko	alexander	kosenko	Software Architect / Developer	entry	akosenko@megogo.net		http://www.linkedin.com/in/alexander-kosenko-9b6ba42	megogo			Ukraine		01/09/2011	42
+Alexandr Kosinov	alexandr	kosinov	Java Developer	entry	akosinov@powell.id.au		http://www.linkedin.com/in/alexandrkosinov	self employed			Ukraine		01/06/2015	21
+Alexander Kosmykov	alexander	kosmykov	Senior QA Engineer	senior	akosmykov@visonic.com		http://www.linkedin.com/in/alexander-kosmykov-a12a7455	visonic			Ukraine		01/06/2011	114
+Aleksey Kostenko	aleksey	kostenko	Web Developer	entry	akostenko@softserveinc.com		http://www.linkedin.com/in/aleksey-kostenko-80556a66	softserve			Ukraine		01/06/2015	500
+Alexander Kostiev	alexander	kostiev	Software Engineer | iOS	entry	akostiev@griddynamics.com		http://www.linkedin.com/in/alexander-kostiev-88437562	grid dynamics			Ukraine		01/04/2017	500
+Andrey Kostromin	andrey	kostromin	Drupal Developer	entry	akostromin@adyax.com		http://www.linkedin.com/in/andreykostromin	adyax			Ukraine		01/02/2016	243
+Andrey Kostyuchenko	andrey	kostyuchenko	IT Project Manager	manager	akostyuchenko@luxoft.com		http://www.linkedin.com/in/andyko	luxoft			Ukraine		01/08/2016	274
+Andrii Kosynskyi	andrii	kosynskyi	Technical Support Analyst	entry	akosynskyi@mackiev.com		http://www.linkedin.com/in/andriikosynskyi	software mackiev			Ukraine		01/06/2017	108
+Alex Koval	alex	koval	C Developer	entry	akoval@archer-soft.com		http://www.linkedin.com/in/alex-koval-2b072b28	archer software			Ukraine		01/10/2007	209
+Alexey Koval	alexey	koval	Head of Service Delivery	head	akoval@cogniance.com		http://www.linkedin.com/in/alexeykoval	cogniance			Ukraine		01/01/2015	500
+Andrey Koval	andrey	koval	C++ Developer	entry	akoval@intellias.ua		http://www.linkedin.com/in/andrey-koval-5569243	intellias			Ukraine		01/01/2016	271
+Anton Koval	anton	koval	Lead administrator of infrastructure services IT-outsourcing	manager	akoval@ukrtelecom.ua	+380 44 234 4044	http://www.linkedin.com/in/anton-koval-2148aa39	ukrtelecom			Ukraine		01/11/2015	
+Anatoliy Kovalchuk	anatoliy	kovalchuk	QC Engineer	entry	akovalchuk@softserveinc.com		http://www.linkedin.com/in/anatoliy-kovalchuk-730b1358	softserve			Ukraine		01/09/2016	346
+Alex Kovalenko	alex	kovalenko	Team lead / Scrum Master	manager	akovalenko@sdl.com		http://www.linkedin.com/in/alex-kovalenko-815a5242	sdl plc			Ukraine		01/07/2011	91
+Alisa Kovalski	alisa	kovalski	software developer	entry	akovalski@lohika.com		http://www.linkedin.com/in/alisa-kovalski-330aa0a6	lohika			Ukraine		01/08/2011	51
+Alexander Kovbel	alexander	kovbel	Software QA Tester	entry	akovbel@itgny.com		http://www.linkedin.com/in/alexander-kovbel	imagineer technology group			Ukraine		01/12/2014	141
+Andrew Kovriga	andrew	kovriga	Front End Producer	entry	akovriga@rebbix.com		http://www.linkedin.com/in/andrewkovriga	rebbix			Ukraine		01/07/2011	111
+Anna Kovtun	anna	kovtun	Regulatory Affairs Specialist, Health Care Business Group	entry	akovtun@3m.com		http://www.linkedin.com/in/anna-kovtun-9b432463	3m			Ukraine		01/09/2015	137
+Aleksandr Koynak	aleksandr	koynak	Email Marketing Specialist	entry	akoynak@lulusoftware.com		http://www.linkedin.com/in/aleksandr-koynak-76728a106	lulu software			Ukraine		01/09/2016	500
+Alexandr Kozachenko	alexandr	kozachenko	Freelance Artist	entry	akozachenko@fantasyflightgames.com		http://www.linkedin.com/in/alexkozachenko	fantasy flight games			Ukraine		01/08/2013	173
+Andrew Kozin	andrew	kozin	Customer Manager	manager	akozin@lohika.com		http://www.linkedin.com/in/andrewkozin	lohika			Ukraine		01/02/2015	500
+Aleksandr Kozlik	aleksandr	kozlik	QA Automation Engineer	entry	akozlik@luxoft.com		http://www.linkedin.com/in/aleksandr-kozlik-2991abb1	luxoft			Ukraine		01/04/2017	208
+Alexander Kozlov	alexander	kozlov	Team Lead, Senior Software Engineer	manager	akozlov@codeminders.com		http://www.linkedin.com/in/alexander-kozlov-3476b235	codeminderstristero consulting			Ukraine		01/09/2008	130
+Alesandr Kozyk	alesandr	kozyk	Sommelier	entry	akozyk@cunard.com		http://www.linkedin.com/in/alesandr-kozyk-b5391a81	cunard			Ukraine		01/06/2006	123
+Artem Kozyr	artem	kozyr	IFRS specialist	entry	akozyr@alfabank.ru		http://www.linkedin.com/in/artem-kozyr-800236a5	alfabank			Ukraine		01/04/2016	240
+Anna Kralina	anna	kralina	QA Engineer	entry	akralina@eisgroup.com		http://www.linkedin.com/in/anna-kralina-415b324a	eis group ltd			Ukraine		01/08/2014	68
+Alexander Kramskoy	alexander	kramskoy	Senior C++ Developer	senior	akramskoy@intellias.ua		http://www.linkedin.com/in/alexanderkramskoy	intellias			Ukraine		01/03/2016	500
+Andrey Krasnoshchoka	andrey	krasnoshchoka	Software Programmer	entry	akrasnoshchoka@softserveinc.com		http://www.linkedin.com/in/andrey-krasnoshchoka-96433180	softserve			Ukraine		01/11/2013	31
+Andrii Kravchenko	andrii	kravchenko	Support Engineer	entry	akravchenko@jerasoft.net		http://www.linkedin.com/in/andrii-kravchenko-927ab3a7	jerasoft			Ukraine		01/11/2015	142
+Anastasiya Kravchik	anastasiya	kravchik	HR Manager	manager	akravchik@envionsoftware.com		http://www.linkedin.com/in/anastasiya-kravchik-79320b10a	envion software			Ukraine		08/08/2017	1
+Alexandra Kravchuk	alexandra	kravchuk	TeamLead 2D Artist	entry	akravchuk@elyland.net		http://www.linkedin.com/in/alexandra-kravchuk-664730120	elyland investment company limited			Ukraine			13
+Anastasiya Kravchuk	anastasiya	kravchuk	HR-manager	manager	akravchuk@lulusoftware.com		http://www.linkedin.com/in/anastasiya-kravchuk-0636375b	lulu software			Ukraine		01/01/2012	163
+Andrey Kravchuk	andrey	kravchuk	IT Administrator	entry	akravchuk@luxoft.com		http://www.linkedin.com/in/andrey-kravchuk-03184356	luxoft			Ukraine		01/11/2013	49
+Andriy Kravchuk	andriy	kravchuk	Web UI Developer	entry	akravchuk@softserveinc.com		http://www.linkedin.com/in/andriy-kravchuk-717b81a6	softserve			Ukraine		01/06/2013	235
+Alexander Kravchunovskii	alexander	kravchunovskii	Windows Administrator	entry	akravchunovskii@luxoft.com		http://www.linkedin.com/in/akravchunovskii	luxoft			Ukraine		01/11/2013	237
+Aleksandr Kravets	aleksandr	kravets	Senior Java Developer	senior	akravets@brightgrove.com		http://www.linkedin.com/in/akravets84	brightgrove ltd			Ukraine		01/05/2016	500
+Andriy Kravtsov	andriy	kravtsov	FCA Ukraine director	director	akravtsov@fca.org		http://www.linkedin.com/in/andriy-kravtsov-1a83a433	fellowship of christian athletes			Ukraine		01/09/2009	293
+Alex Kryvenets	alex	kryvenets	Business Analyst	entry	akrivenets@gmail.com		http://www.linkedin.com/in/alexkri	glorium technologies			Ukraine		01/03/2017	
+Aleksandr Kronh	aleksandr	kronh	Senior Etl Developer	senior	akronh@luxoft.com		http://www.linkedin.com/in/aleksandr-kronh-8782708b	luxoft			Ukraine		01/06/2016	102
+Andrii Kroshchenko	andrii	kroshchenko	Junior DevOps Engineer	entry	akroshchenko@mirantis.com		http://www.linkedin.com/in/andrii-kroshchenko-18b50860	mirantis			Ukraine		01/01/2017	325
+Alisa Krotevich	alisa	krotevich	QA Specialist	entry	akrotevich@remit.se		http://www.linkedin.com/in/alisa-krotevich-7b34b957	remit ltd			Ukraine		01/05/2013	129
